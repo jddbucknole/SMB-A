@@ -1,4 +1,4 @@
-Item,Calories,Total Fat,Protein,Cholesterol(mg),Sodium(mg),Carbs(g),Meat,Sugars(g),Serving(g)
+Item,Calories,Total Fat,Protein,Cholesterol_mg,Sodium_mg,Carbs_g,Meat,Sugars_g,Serving_g
 Whopper,680,39,29,80,940,53,Meat,9,278
 Whopper w/ Cheese,780,47,34,105,1390,55,Meat,9,303
 Double Whopper,920,57,48,150,1020,53,Meat,9,353
