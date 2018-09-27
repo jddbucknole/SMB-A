@@ -1,0 +1,33 @@
+Item,Calories,Total Fat,Protein,Cholesterol(mg),Sodium(mg),Carbs(g),Meat?,Sugars(g),Serving(g)
+Whopper,680,39,29,80,940,53,1,9,278
+Whopper w/ Cheese,780,47,34,105,1390,55,1,9,303
+Double Whopper,920,57,48,150,1020,53,1,9,353
+Double Whopper w/ Cheese,1020,65,53,170,1460,55,1,9,378
+Hamburger,320,14,18,45,530,30,1,5,123
+Cheeseburger,370,18,20,55,750,31,1,5,136
+Double Hamburger,480,26,31,85,580,30,1,5,172
+Double Cheeseburger,570,34,35,110,1020,32,1,5,197
+Double Cheeseburger w/ Bacon,610,37,38,120,1170,32,1,5,205
+Veggie Burger,330,10,14,0,760,43,0,5,
+BK Big Fish,710,38,24,50,1200,67,1,4,263
+BK Broiler Chicken,550,25,30,105,1110,52,1,5,258
+Chicken Tenders Sandwich,450,27,14,30,680,37,1,4,148
+Chicken Tenders (4pc),170,9,11,25,420,10,1,0,62
+Fries (med),360,18,4,0,690,46,0,1,117
+Onion rings (med),320,16,4,0,460,40,0,5,91
+Jalapeno poppers (4pc),230,13,7,20,790,22,0,1,77
+Mozzarella Sticks (4pc),290,16,12,20,670,25,0,1,88
+Apple Pie,340,14,2,0,470,52,0,23,113
+"Croissan'wich w/Sausage, Egg&Cheese",500,36,19,190,1020,26,1,5,153
+Biscuit,300,15,6,0,830,35,0,3,86
+"Biscuit w/Sausage, Egg&Cheese",650,46,20,190,1600,38,1,4,189
+Biscuit w/ Sausage,510,35,13,30,1190,35,1,3,131
+French Toast Stix (5),390,20,6,0,440,46,0,11,112
+Cini-minis (4),440,23,6,25,710,51,0,20,108
+Hash Brown Rounds (small),240,15,2,0,450,23,0,0,75
+Vanilla Shake (med),440,8,12,25,340,79,0,66,397
+Chocolate Shake (Med w/ Syrup),500,8,13,25,440,95,0,81,425
+Strawberry Shake (Med),500,8,12,25,350,95,0,81,425
+Coke (med),230,0,0,0,0,56,0,56,518
+Tropicana OJ,140,0,2,0,0,33,0,28,311
+1% Milk,110,2.5,8,10,125,12,0,11,244
