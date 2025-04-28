@@ -1,0 +1,2501 @@
+DateOfInjury,State,LocationType,JobType,BodyPartInjured,CauseOfInjury,CostUSD,Gender,Age,LengthOfEmployment
+1/1/21,Indiana,Rural,Inspector,Foot/Ankle,Animal Bites,83326.29,Female,30,8
+1/1/21,Maryland,Urban,Accountant,Head,Struck by Object,8267.79,Female,60,7
+1/1/21,Ohio,Rural,Maintenance Worker,Multiple Body Parts,Animal Bites,98.04,Female,52,5
+1/1/21,Pennsylvania,Rural,Engineer,Shoulder,Sprains/Strains,16.03,Male,45,9
+1/3/21,Ohio,Rural,Field Technician,Back,Slip/Trip/Fall,18.5,Male,61,5
+1/4/21,West Virginia,Rural,Engineer,Multiple Body Parts,Automotive,466553.74,Male,45,5
+1/4/21,Ohio,Rural,Lineman,Arms,Automotive,87.31,Female,46,9
+1/5/21,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,95.15,Female,39,9
+1/5/21,Ohio,Urban,Accountant,Knee,Automotive,78.58,Female,32,1
+1/5/21,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,64.35,Male,39,17
+1/25/21,Ohio,Rural,Administrative Staff,Multiple Body Parts,Automotive,99010.97,Male,28,1
+11/18/22,Indiana,Urban,Administrative Staff,Shoulder,Sprains/Strains,93282.31,Female,59,11
+1/6/21,Maryland,Rural,Engineer,Head,Sprains/Strains,88.9,Female,25,6
+1/6/21,Ohio,Urban,Supervisor/Manager,Knee,Slip/Trip/Fall,41.44,Female,38,17
+1/6/21,Indiana,Rural,Supervisor/Manager,Arms,Slip/Trip/Fall,16.65,Female,29,3
+1/7/21,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,15.68,Male,54,6
+1/8/21,Maryland,Rural,Field Technician,Knee,Animal Bites,99.23,Male,43,7
+1/8/21,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,94.38,Female,36,18
+5/15/24,Ohio,Rural,Administrative Staff,Back,Slip/Trip/Fall,93213.12,Male,49,8
+1/12/21,Indiana,Rural,Inspector,Back,Slip/Trip/Fall,169134.72,Male,62,4
+1/12/21,Maryland,Urban,Office Clerk,Head,Cut/Lacerations,21.41,Male,48,9
+1/13/21,Maryland,Rural,Supervisor/Manager,Knee,Slip/Trip/Fall,489397.76,Female,55,7
+1/13/21,West Virginia,Rural,Maintenance Worker,Back,Slip/Trip/Fall,81.93,Male,45,2
+1/13/21,Ohio,Rural,Office Clerk,Head,Automotive,77.18,Male,56,10
+5/3/21,Indiana,Urban,Administrative Staff,Back,Sprains/Strains,89564.52,Female,45,10
+10/16/24,West Virginia,Urban,Administrative Staff,Arms,Automotive,84383.24,Male,46,10
+1/14/21,Ohio,Rural,Inspector,Leg,Cut/Lacerations,88.31,Male,38,14
+1/14/21,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,35.37,Male,23,1
+1/14/21,Pennsylvania,Rural,Inspector,Knee,Sprains/Strains,34.78,Male,48,5
+1/16/21,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,415784.32,Female,42,10
+1/16/21,Indiana,Rural,Maintenance Worker,Head,Sprains/Strains,81.8,Male,39,8
+1/17/21,Ohio,Rural,Maintenance Worker,Hand/Wrist,Cut/Lacerations,83.54,Male,53,2
+1/17/21,West Virginia,Rural,Field Technician,Shoulder,Struck by Object,51.19,Female,34,6
+1/17/21,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,3.53,Female,43,9
+1/19/21,Ohio,Urban,Maintenance Worker,Back,Cut/Lacerations,63.9,Female,65,9
+1/19/21,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,15.32,Female,22,4
+1/20/21,West Virginia,Urban,Field Technician,Multiple Body Parts,Cut/Lacerations,464078.42,Male,64,25
+1/20/21,West Virginia,Urban,Engineer,Shoulder,Sprains/Strains,184392.81,Female,56,9
+1/20/21,West Virginia,Urban,Accountant,Arms,Automotive,23.06,Female,28,4
+1/21/21,Indiana,Rural,Office Clerk,Multiple Body Parts,Struck by Object,93.85,Female,65,17
+1/21/21,Maryland,Urban,Field Technician,Foot/Ankle,Slip/Trip/Fall,89.47,Female,48,9
+1/21/21,Ohio,Rural,Field Technician,Back,Cut/Lacerations,69.03,Male,39,10
+10/4/24,Indiana,Rural,Administrative Staff,Shoulder,Slip/Trip/Fall,80970.46,Female,32,6
+1/23/21,West Virginia,Urban,Field Technician,Knee,Sprains/Strains,11.97,Male,25,1
+1/24/21,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,268949.76,Male,29,11
+5/9/24,West Virginia,Rural,Administrative Staff,Arms,Sprains/Strains,74280.13,Female,63,6
+1/25/21,Maryland,Rural,Inspector,Leg,Struck by Object,70.48,Female,52,2
+1/25/21,Pennsylvania,Rural,Field Technician,Back,Cut/Lacerations,66.02,Male,39,9
+1/25/21,Pennsylvania,Rural,Inspector,Back,Struck by Object,57.06,Male,30,6
+1/25/21,West Virginia,Rural,Supervisor/Manager,Arms,Struck by Object,44.98,Female,49,6
+1/25/21,Ohio,Rural,Maintenance Worker,Hand/Wrist,Automotive,33.75,Female,56,1
+1/25/21,Maryland,Rural,Engineer,Head,Automotive,8.08,Female,44,10
+1/26/21,West Virginia,Rural,Office Clerk,Leg,Slip/Trip/Fall,420.36,Female,45,5
+1/27/21,Ohio,Urban,Maintenance Worker,Hand/Wrist,Automotive,124971.1,Female,41,2
+1/28/21,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,228679.44,Female,27,4
+1/28/21,Indiana,Urban,Accountant,Foot/Ankle,Sprains/Strains,7291.31,Male,54,20
+1/29/21,West Virginia,Urban,Lineman,Foot/Ankle,Sprains/Strains,462571.7,Female,61,3
+1/29/21,Indiana,Urban,Inspector,Hand/Wrist,Slip/Trip/Fall,81.01,Male,39,7
+1/29/21,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,45.36,Female,22,1
+2/1/21,West Virginia,Rural,Lineman,Knee,Automotive,50609.64,Female,36,11
+2/1/21,Maryland,Urban,Field Technician,Foot/Ankle,Struck by Object,58.93,Female,30,2
+2/1/21,Maryland,Rural,Engineer,Multiple Body Parts,Cut/Lacerations,19.67,Female,34,10
+2/2/21,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,360675.8,Female,46,5
+2/2/21,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,324332.04,Male,63,9
+2/2/21,Maryland,Rural,Inspector,Leg,Cut/Lacerations,56.43,Female,59,7
+2/2/21,Indiana,Urban,Engineer,Knee,Slip/Trip/Fall,54.23,Male,52,4
+2/2/21,Maryland,Urban,Field Technician,Arms,Struck by Object,29.04,Female,32,3
+2/2/21,Ohio,Rural,Maintenance Worker,Shoulder,Cut/Lacerations,3.9,Male,50,10
+2/3/21,Maryland,Urban,Engineer,Shoulder,Slip/Trip/Fall,345590.54,Female,56,5
+2/3/21,Maryland,Urban,Accountant,Multiple Body Parts,Struck by Object,87.63,Female,30,8
+2/3/21,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,82.29,Male,36,15
+2/3/21,Pennsylvania,Rural,Office Clerk,Knee,Struck by Object,48.26,Male,58,13
+2/4/21,Indiana,Rural,Inspector,Foot/Ankle,Automotive,212278.5,Male,42,16
+2/4/21,West Virginia,Urban,Accountant,Shoulder,Sprains/Strains,33218.38,Female,32,14
+2/4/21,West Virginia,Rural,Inspector,Arms,Cut/Lacerations,95.25,Male,26,4
+2/4/21,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,66.99,Male,53,9
+8/24/24,Pennsylvania,Rural,Administrative Staff,Shoulder,Sprains/Strains,70355.06,Male,58,6
+2/4/21,West Virginia,Rural,Engineer,Head,Cut/Lacerations,41.12,Male,46,8
+2/4/21,Ohio,Rural,Maintenance Worker,Leg,Automotive,16.47,Female,28,9
+2/4/21,West Virginia,Urban,Maintenance Worker,Head,Automotive,7.64,Male,54,1
+2/5/21,Maryland,Rural,Office Clerk,Back,Sprains/Strains,69206.5,Male,40,3
+2/6/21,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,93.04,Female,44,15
+2/8/21,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,126168.83,Male,48,4
+2/8/21,Ohio,Rural,Maintenance Worker,Leg,Animal Bites,64.26,Male,44,24
+2/9/21,Ohio,Rural,Engineer,Multiple Body Parts,Animal Bites,38348.91,Male,60,19
+2/9/21,Ohio,Urban,Engineer,Knee,Cut/Lacerations,77.46,Male,59,7
+2/10/21,West Virginia,Rural,Office Clerk,Arms,Automotive,5439.16,Male,31,11
+2/10/21,Ohio,Urban,Office Clerk,Shoulder,Sprains/Strains,49.24,Male,35,4
+2/10/21,Maryland,Rural,Lineman,Hand/Wrist,Sprains/Strains,28.06,Male,27,3
+2/10/21,Pennsylvania,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,1.64,Female,51,15
+2/11/21,Pennsylvania,Rural,Inspector,Leg,Automotive,339788.75,Male,37,1
+2/11/21,West Virginia,Rural,Lineman,Arms,Cut/Lacerations,17.85,Female,35,2
+2/11/21,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,17.58,Male,64,3
+2/11/21,Maryland,Urban,Engineer,Back,Automotive,8.77,Female,41,15
+2/12/21,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,106274.03,Female,48,14
+2/12/21,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,53.43,Male,62,6
+2/13/21,Indiana,Rural,Office Clerk,Head,Sprains/Strains,18948.2,Male,47,9
+2/15/21,Indiana,Rural,Lineman,Hand/Wrist,Cut/Lacerations,482831.8,Male,56,2
+2/15/21,Maryland,Urban,Field Technician,Arms,Automotive,87.96,Female,55,9
+2/15/21,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,14.19,Male,42,10
+2/16/21,Ohio,Rural,Field Technician,Multiple Body Parts,Automotive,294580.33,Male,39,19
+2/16/21,Maryland,Rural,Office Clerk,Shoulder,Sprains/Strains,78166.99,Female,39,3
+2/17/21,Maryland,Rural,Maintenance Worker,Shoulder,Automotive,286680,Male,57,7
+2/17/21,Pennsylvania,Urban,Accountant,Shoulder,Sprains/Strains,5454.45,Female,29,10
+2/17/21,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,67.4,Male,54,12
+2/18/21,Indiana,Rural,Maintenance Worker,Leg,Cut/Lacerations,187277.05,Male,44,8
+2/19/21,Ohio,Rural,Field Technician,Hand/Wrist,Animal Bites,5445.33,Male,28,6
+2/19/21,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,41.07,Male,52,13
+2/20/21,Ohio,Urban,Accountant,Knee,Slip/Trip/Fall,87.67,Male,30,5
+2/20/21,Pennsylvania,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,78.2,Male,54,10
+2/20/21,Indiana,Rural,Engineer,Shoulder,Automotive,75.6,Male,39,1
+2/22/21,West Virginia,Urban,Maintenance Worker,Multiple Body Parts,Cut/Lacerations,100386.65,Male,54,9
+2/23/21,Indiana,Urban,Accountant,Knee,Slip/Trip/Fall,6654.17,Female,61,6
+2/23/21,Indiana,Urban,Accountant,Multiple Body Parts,Cut/Lacerations,40.94,Female,42,1
+2/23/21,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,8.48,Male,43,18
+2/24/21,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,147020.64,Male,41,12
+2/24/21,Indiana,Rural,Field Technician,Arms,Cut/Lacerations,46.87,Male,50,5
+2/24/21,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,22.78,Male,31,5
+2/24/21,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,13.18,Female,38,3
+2/25/21,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,83477.66,Male,26,6
+2/25/21,West Virginia,Rural,Office Clerk,Arms,Slip/Trip/Fall,58.52,Female,43,5
+2/25/21,Indiana,Urban,Supervisor/Manager,Knee,Animal Bites,44.68,Male,64,6
+2/25/21,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,9.02,Male,49,8
+2/26/21,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,6.87,Female,55,6
+2/28/21,Ohio,Rural,Field Technician,Hand/Wrist,Sprains/Strains,27.72,Male,53,9
+3/1/21,Ohio,Rural,Inspector,Foot/Ankle,Cut/Lacerations,82033.06,Male,39,4
+3/1/21,Maryland,Rural,Engineer,Head,Struck by Object,41590.25,Male,36,1
+3/1/21,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,94.81,Male,44,3
+11/30/23,Maryland,Rural,Administrative Staff,Knee,Sprains/Strains,68677.72,Female,31,4
+3/1/21,Ohio,Urban,Office Clerk,Head,Cut/Lacerations,4.47,Male,62,10
+10/4/24,Indiana,Urban,Administrative Staff,Hand/Wrist,Sprains/Strains,61252.96,Male,58,9
+3/2/21,Pennsylvania,Rural,Inspector,Shoulder,Slip/Trip/Fall,82.4,Female,40,1
+12/2/23,West Virginia,Rural,Administrative Staff,Hand/Wrist,Struck by Object,40060.77,Male,22,1
+3/3/21,Indiana,Urban,Maintenance Worker,Shoulder,Sprains/Strains,22.08,Female,33,11
+3/4/21,Ohio,Rural,Inspector,Knee,Animal Bites,38267.53,Male,65,6
+3/4/21,Ohio,Rural,Inspector,Multiple Body Parts,Struck by Object,27129.02,Female,64,6
+3/4/21,West Virginia,Urban,Accountant,Hand/Wrist,Cut/Lacerations,1578.42,Male,32,3
+3/4/21,Ohio,Urban,Lineman,Back,Cut/Lacerations,62.71,Female,40,9
+3/5/21,Maryland,Urban,Maintenance Worker,Leg,Sprains/Strains,32418.8,Male,21,2
+3/6/21,Maryland,Urban,Lineman,Shoulder,Sprains/Strains,427110.89,Male,60,9
+3/6/21,Ohio,Rural,Engineer,Multiple Body Parts,Cut/Lacerations,381512.47,Female,38,5
+3/6/21,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,3107.26,Male,55,2
+3/8/21,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,99.68,Female,48,8
+3/8/21,Indiana,Rural,Engineer,Shoulder,Struck by Object,75.17,Male,44,7
+3/8/21,Ohio,Rural,Inspector,Hand/Wrist,Cut/Lacerations,57.62,Male,47,3
+3/9/21,Ohio,Urban,Engineer,Head,Automotive,409499.8,Male,64,3
+3/9/21,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,275737.12,Male,32,9
+3/9/21,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,8936.98,Male,49,17
+3/10/21,Pennsylvania,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,480176.07,Female,59,1
+3/10/21,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,74579.92,Male,44,23
+3/10/21,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,88.89,Male,25,7
+3/10/21,Ohio,Urban,Supervisor/Manager,Head,Automotive,67.6,Male,30,6
+3/10/21,Indiana,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,34.75,Male,63,3
+3/10/21,West Virginia,Urban,Maintenance Worker,Leg,Automotive,20.46,Female,52,18
+3/11/21,West Virginia,Rural,Engineer,Knee,Cut/Lacerations,472657.15,Female,55,3
+3/11/21,Maryland,Rural,Lineman,Head,Sprains/Strains,61.48,Female,49,6
+3/11/21,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,22.84,Female,37,10
+3/12/21,Ohio,Rural,Field Technician,Knee,Sprains/Strains,275354.65,Male,63,6
+3/12/21,Indiana,Urban,Maintenance Worker,Arms,Animal Bites,84.4,Female,46,3
+3/12/21,Maryland,Rural,Maintenance Worker,Hand/Wrist,Animal Bites,80.33,Male,32,8
+3/12/21,Maryland,Urban,Engineer,Knee,Sprains/Strains,12.73,Male,46,9
+3/13/21,West Virginia,Urban,Engineer,Leg,Cut/Lacerations,71.88,Male,65,9
+3/15/21,Ohio,Urban,Engineer,Hand/Wrist,Struck by Object,64258.4,Male,48,7
+3/15/21,Maryland,Rural,Inspector,Head,Cut/Lacerations,56037.32,Male,45,1
+3/15/21,Indiana,Rural,Office Clerk,Multiple Body Parts,Sprains/Strains,82.27,Female,53,9
+3/16/21,Ohio,Rural,Inspector,Hand/Wrist,Animal Bites,40.82,Male,29,11
+3/17/21,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,44.73,Female,62,20
+3/18/21,Maryland,Rural,Inspector,Shoulder,Cut/Lacerations,78.07,Male,64,7
+3/18/21,West Virginia,Urban,Field Technician,Leg,Animal Bites,70.03,Male,24,6
+3/19/21,Indiana,Rural,Inspector,Head,Automotive,433412.07,Male,39,21
+3/19/21,West Virginia,Rural,Field Technician,Multiple Body Parts,Automotive,74.43,Female,60,6
+3/19/21,Pennsylvania,Rural,Office Clerk,Shoulder,Sprains/Strains,62.31,Male,57,11
+3/19/21,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,44.53,Female,57,2
+3/19/21,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,37.13,Female,44,8
+3/19/21,Indiana,Urban,Accountant,Foot/Ankle,Slip/Trip/Fall,33.21,Female,55,9
+11/26/23,Indiana,Urban,Administrative Staff,Hand/Wrist,Sprains/Strains,40051.66,Female,46,7
+3/19/21,Ohio,Urban,Inspector,Head,Slip/Trip/Fall,20.06,Male,48,18
+3/20/21,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,6513.22,Male,40,16
+3/20/21,Ohio,Urban,Office Clerk,Shoulder,Sprains/Strains,24.22,Male,31,7
+3/22/21,Indiana,Rural,Office Clerk,Arms,Automotive,98475.38,Male,39,6
+3/22/21,West Virginia,Urban,Engineer,Hand/Wrist,Animal Bites,35.96,Male,38,4
+3/23/21,Indiana,Rural,Engineer,Multiple Body Parts,Cut/Lacerations,74.49,Male,55,8
+3/23/21,West Virginia,Rural,Field Technician,Multiple Body Parts,Animal Bites,72.01,Female,56,4
+3/24/21,Indiana,Urban,Lineman,Arms,Slip/Trip/Fall,22.6,Female,26,2
+3/24/21,Indiana,Rural,Inspector,Hand/Wrist,Sprains/Strains,22.38,Female,60,8
+3/25/21,Indiana,Rural,Maintenance Worker,Hand/Wrist,Animal Bites,73.35,Female,56,10
+11/22/23,Pennsylvania,Rural,Administrative Staff,Shoulder,Sprains/Strains,37690.45,Male,47,7
+3/25/21,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,4.92,Male,63,4
+3/25/21,Ohio,Rural,Maintenance Worker,Arms,Animal Bites,4.76,Male,41,7
+3/26/21,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,379355.26,Female,41,7
+3/26/21,Ohio,Urban,Lineman,Leg,Animal Bites,984.57,Female,30,7
+3/26/21,Indiana,Rural,Supervisor/Manager,Multiple Body Parts,Slip/Trip/Fall,69.53,Female,60,12
+3/26/21,West Virginia,Urban,Lineman,Head,Automotive,36.84,Male,55,4
+3/26/21,Ohio,Urban,Supervisor/Manager,Head,Slip/Trip/Fall,18.97,Male,26,7
+3/26/21,Ohio,Urban,Accountant,Multiple Body Parts,Cut/Lacerations,13.1,Female,44,17
+3/27/21,Ohio,Rural,Inspector,Knee,Automotive,74.5,Female,28,4
+3/29/21,Ohio,Rural,Field Technician,Arms,Slip/Trip/Fall,496230.07,Female,58,7
+3/29/21,West Virginia,Rural,Inspector,Foot/Ankle,Slip/Trip/Fall,329542.39,Male,21,2
+3/29/21,Ohio,Rural,Inspector,Arms,Slip/Trip/Fall,79.66,Male,35,2
+3/30/21,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,325948.27,Female,41,10
+3/30/21,Ohio,Rural,Maintenance Worker,Back,Sprains/Strains,33.7,Female,26,3
+3/31/21,Ohio,Rural,Engineer,Multiple Body Parts,Struck by Object,408356.64,Male,52,15
+3/31/21,Indiana,Urban,Lineman,Shoulder,Sprains/Strains,88.82,Female,40,4
+3/31/21,Ohio,Urban,Accountant,Multiple Body Parts,Automotive,10.34,Female,37,1
+4/1/21,Ohio,Rural,Supervisor/Manager,Knee,Sprains/Strains,351102.39,Male,62,2
+4/2/21,West Virginia,Rural,Field Technician,Hand/Wrist,Automotive,48790.46,Male,24,2
+4/2/21,Maryland,Rural,Inspector,Hand/Wrist,Sprains/Strains,13.34,Male,30,10
+4/3/21,Ohio,Urban,Accountant,Arms,Sprains/Strains,7193.57,Male,21,0
+4/3/21,Indiana,Rural,Maintenance Worker,Hand/Wrist,Sprains/Strains,97.21,Female,48,5
+4/5/21,Ohio,Rural,Supervisor/Manager,Arms,Sprains/Strains,57211.91,Male,54,16
+4/5/21,Maryland,Rural,Lineman,Arms,Slip/Trip/Fall,79.22,Male,64,10
+4/6/21,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,51.1,Male,42,2
+4/8/21,Maryland,Rural,Field Technician,Shoulder,Sprains/Strains,170874.52,Female,26,3
+4/9/21,Ohio,Urban,Supervisor/Manager,Knee,Cut/Lacerations,35.19,Female,59,12
+4/10/21,Ohio,Rural,Field Technician,Head,Automotive,447979.59,Female,50,10
+4/10/21,Ohio,Urban,Field Technician,Head,Sprains/Strains,168766.14,Female,56,9
+4/12/21,Pennsylvania,Urban,Lineman,Shoulder,Sprains/Strains,22.16,Male,57,7
+4/12/21,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,5.56,Male,29,11
+4/13/21,Maryland,Rural,Maintenance Worker,Head,Automotive,69.38,Female,64,16
+4/14/21,Pennsylvania,Urban,Inspector,Back,Cut/Lacerations,449837.1,Female,63,5
+4/14/21,Maryland,Urban,Engineer,Head,Automotive,375039.19,Female,65,10
+4/15/21,Indiana,Urban,Field Technician,Shoulder,Slip/Trip/Fall,374378.95,Female,38,15
+4/15/21,Ohio,Urban,Accountant,Foot/Ankle,Sprains/Strains,875.21,Male,26,3
+4/16/21,Indiana,Rural,Maintenance Worker,Hand/Wrist,Automotive,113089.34,Female,35,5
+4/17/21,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,271726.51,Male,30,9
+4/17/21,Ohio,Rural,Lineman,Multiple Body Parts,Slip/Trip/Fall,57.57,Male,24,6
+4/19/21,West Virginia,Rural,Field Technician,Multiple Body Parts,Slip/Trip/Fall,358086.62,Female,53,10
+4/19/21,Maryland,Rural,Field Technician,Shoulder,Cut/Lacerations,87.15,Male,47,27
+4/21/21,Ohio,Urban,Lineman,Back,Sprains/Strains,178920.97,Male,40,5
+4/21/21,Ohio,Urban,Lineman,Foot/Ankle,Animal Bites,97.41,Female,44,14
+4/22/21,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,99.81,Female,22,4
+4/26/21,Pennsylvania,Rural,Engineer,Shoulder,Sprains/Strains,433333.74,Male,55,8
+4/26/21,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,215569.65,Female,64,11
+4/26/21,Ohio,Rural,Engineer,Shoulder,Automotive,8.18,Male,57,2
+4/27/21,Ohio,Urban,Lineman,Head,Struck by Object,69.06,Male,21,2
+4/27/21,Maryland,Rural,Field Technician,Foot/Ankle,Animal Bites,65.06,Female,54,4
+4/28/21,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,28.17,Male,41,4
+4/28/21,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,22.2,Male,43,5
+4/28/21,Ohio,Rural,Lineman,Head,Sprains/Strains,15.81,Female,55,1
+4/29/21,Ohio,Urban,Office Clerk,Shoulder,Cut/Lacerations,20.41,Male,65,9
+4/29/21,Indiana,Rural,Engineer,Shoulder,Automotive,14.58,Male,25,6
+10/11/23,Indiana,Rural,Administrative Staff,Back,Sprains/Strains,35072.8,Female,53,7
+4/30/21,Ohio,Urban,Accountant,Hand/Wrist,Struck by Object,54.13,Female,47,8
+4/30/21,Ohio,Rural,Lineman,Back,Automotive,28.2,Male,44,8
+5/1/21,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,20.61,Male,21,2
+2/25/22,West Virginia,Urban,Administrative Staff,Shoulder,Sprains/Strains,33853.87,Male,45,16
+5/3/21,Indiana,Rural,Engineer,Knee,Sprains/Strains,52.03,Male,43,6
+5/3/21,West Virginia,Rural,Engineer,Arms,Sprains/Strains,22.79,Female,48,1
+5/5/21,West Virginia,Rural,Lineman,Leg,Struck by Object,56.77,Male,61,5
+5/5/21,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,39.96,Female,34,14
+5/6/21,West Virginia,Urban,Maintenance Worker,Shoulder,Sprains/Strains,80.27,Male,39,5
+5/6/21,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,31.94,Male,40,1
+5/9/21,Maryland,Rural,Engineer,Head,Sprains/Strains,32.85,Male,60,9
+5/10/21,Maryland,Rural,Field Technician,Head,Automotive,23272.73,Female,30,5
+5/12/21,Ohio,Rural,Maintenance Worker,Knee,Animal Bites,94.07,Female,23,3
+5/12/21,Ohio,Urban,Engineer,Shoulder,Sprains/Strains,84.8,Male,43,15
+5/12/21,Indiana,Rural,Office Clerk,Multiple Body Parts,Struck by Object,83.18,Female,22,4
+5/12/21,Indiana,Urban,Accountant,Leg,Automotive,34.22,Female,63,9
+5/14/21,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,34.8,Female,32,9
+3/3/22,Indiana,Rural,Administrative Staff,Leg,Sprains/Strains,32384.09,Female,64,32
+5/17/21,West Virginia,Rural,Supervisor/Manager,Knee,Slip/Trip/Fall,72.75,Female,42,16
+5/18/21,Maryland,Rural,Field Technician,Shoulder,Sprains/Strains,482686.91,Female,50,13
+5/19/21,Indiana,Rural,Engineer,Foot/Ankle,Animal Bites,88.2,Female,22,4
+5/19/21,West Virginia,Rural,Lineman,Leg,Struck by Object,12.52,Female,53,2
+5/20/21,Pennsylvania,Rural,Engineer,Shoulder,Sprains/Strains,371167.09,Male,43,5
+5/20/21,West Virginia,Rural,Engineer,Foot/Ankle,Animal Bites,53.83,Male,43,15
+5/20/21,Maryland,Rural,Inspector,Knee,Automotive,29.43,Female,31,1
+5/21/21,Maryland,Rural,Lineman,Foot/Ankle,Struck by Object,22.66,Female,39,1
+5/21/21,Indiana,Urban,Field Technician,Shoulder,Automotive,17.39,Male,42,3
+5/24/21,Indiana,Rural,Inspector,Head,Struck by Object,88.45,Male,45,1
+3/31/22,West Virginia,Rural,Administrative Staff,Head,Slip/Trip/Fall,31495.02,Male,40,9
+5/26/21,Indiana,Urban,Supervisor/Manager,Knee,Slip/Trip/Fall,193409.55,Male,34,10
+5/26/21,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,92.28,Female,37,9
+5/26/21,Pennsylvania,Rural,Maintenance Worker,Knee,Animal Bites,80.01,Female,42,8
+5/27/21,Ohio,Urban,Inspector,Leg,Automotive,100792.84,Male,64,7
+5/27/21,West Virginia,Rural,Lineman,Knee,Animal Bites,476.64,Female,31,3
+1/23/24,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,24578.42,Female,34,15
+5/29/21,West Virginia,Rural,Field Technician,Foot/Ankle,Sprains/Strains,54425.84,Male,40,4
+5/29/21,Pennsylvania,Rural,Lineman,Arms,Slip/Trip/Fall,27.96,Male,53,13
+6/1/21,Maryland,Rural,Lineman,Arms,Sprains/Strains,367896.89,Male,44,1
+10/17/24,West Virginia,Urban,Administrative Staff,Head,Struck by Object,19470.55,Male,30,8
+6/3/21,Ohio,Rural,Maintenance Worker,Leg,Cut/Lacerations,69674.48,Female,53,15
+6/3/21,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,20.98,Male,33,4
+6/4/21,Ohio,Rural,Maintenance Worker,Head,Cut/Lacerations,49182.28,Male,25,7
+6/4/21,Ohio,Urban,Accountant,Foot/Ankle,Slip/Trip/Fall,593.23,Male,22,0
+6/5/21,Indiana,Rural,Engineer,Arms,Automotive,168536.19,Female,57,3
+6/5/21,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,54847.97,Male,46,4
+6/7/21,West Virginia,Urban,Accountant,Hand/Wrist,Slip/Trip/Fall,90.55,Male,52,1
+6/9/21,Ohio,Urban,Engineer,Hand/Wrist,Animal Bites,79.16,Male,51,1
+6/9/21,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,1.39,Male,25,5
+6/11/21,Ohio,Rural,Maintenance Worker,Arms,Slip/Trip/Fall,70.86,Male,39,9
+6/11/21,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,12.52,Male,28,4
+6/12/21,Maryland,Rural,Field Technician,Foot/Ankle,Slip/Trip/Fall,40.04,Female,39,4
+6/13/21,West Virginia,Rural,Inspector,Head,Slip/Trip/Fall,57.29,Female,55,10
+6/14/21,Ohio,Rural,Inspector,Back,Sprains/Strains,62.28,Male,27,2
+6/15/21,Indiana,Rural,Field Technician,Knee,Struck by Object,65.65,Male,50,13
+6/16/21,Maryland,Rural,Lineman,Head,Cut/Lacerations,26.17,Female,31,10
+6/17/21,Pennsylvania,Rural,Lineman,Multiple Body Parts,Sprains/Strains,48.45,Male,44,8
+6/19/21,Ohio,Urban,Engineer,Hand/Wrist,Slip/Trip/Fall,414883.65,Female,45,10
+6/19/21,Ohio,Urban,Maintenance Worker,Back,Slip/Trip/Fall,96.28,Female,61,3
+6/21/21,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,54.56,Male,56,5
+6/23/21,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,99.95,Female,27,9
+6/24/21,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,343100.35,Female,27,3
+6/24/21,Ohio,Rural,Engineer,Knee,Animal Bites,84.35,Female,40,3
+6/25/21,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,7.68,Female,48,11
+6/25/21,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,6.63,Male,34,4
+6/26/21,Pennsylvania,Rural,Maintenance Worker,Head,Struck by Object,98.16,Male,60,11
+6/26/21,Ohio,Rural,Engineer,Arms,Cut/Lacerations,77.16,Male,62,9
+6/26/21,Maryland,Rural,Lineman,Leg,Sprains/Strains,59.59,Female,41,6
+6/28/21,Ohio,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,78.13,Female,30,7
+6/28/21,Indiana,Urban,Accountant,Arms,Sprains/Strains,68.55,Male,23,1
+6/29/21,West Virginia,Rural,Maintenance Worker,Leg,Animal Bites,52.57,Female,37,6
+6/29/21,Maryland,Rural,Field Technician,Arms,Animal Bites,12.66,Female,44,3
+6/30/21,Ohio,Rural,Inspector,Arms,Slip/Trip/Fall,397502.15,Male,45,9
+6/30/21,Ohio,Rural,Engineer,Hand/Wrist,Cut/Lacerations,142977.51,Female,41,9
+6/30/21,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,42.44,Female,45,7
+6/30/21,Maryland,Rural,Office Clerk,Shoulder,Sprains/Strains,28.8,Male,48,4
+6/30/21,West Virginia,Urban,Lineman,Leg,Automotive,17.66,Male,33,1
+7/1/21,Indiana,Urban,Field Technician,Back,Sprains/Strains,314701.31,Female,45,7
+7/1/21,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,285.18,Male,60,17
+7/3/21,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,95.02,Male,29,5
+7/5/21,Ohio,Rural,Inspector,Multiple Body Parts,Cut/Lacerations,234686.45,Female,21,0
+7/5/21,West Virginia,Rural,Inspector,Back,Struck by Object,58.97,Female,59,9
+7/6/21,Indiana,Rural,Inspector,Leg,Sprains/Strains,90.34,Male,57,3
+7/7/21,Ohio,Rural,Inspector,Multiple Body Parts,Sprains/Strains,125818.19,Male,41,6
+7/7/21,Pennsylvania,Urban,Inspector,Hand/Wrist,Struck by Object,63.79,Male,47,10
+7/8/21,Maryland,Urban,Office Clerk,Arms,Cut/Lacerations,129.86,Male,46,5
+7/8/21,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,51.01,Female,56,6
+7/8/21,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,34.44,Female,54,16
+7/10/21,Ohio,Urban,Office Clerk,Shoulder,Sprains/Strains,55.9,Female,63,8
+7/12/21,Pennsylvania,Rural,Lineman,Arms,Cut/Lacerations,141743.26,Male,42,20
+7/12/21,Pennsylvania,Rural,Maintenance Worker,Arms,Sprains/Strains,10.62,Male,62,13
+9/24/24,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,18214.39,Male,62,7
+7/14/21,Ohio,Rural,Lineman,Head,Slip/Trip/Fall,66271.25,Female,48,10
+7/14/21,Pennsylvania,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,71.5,Female,46,5
+7/14/21,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,47.25,Male,36,1
+7/14/21,Maryland,Rural,Maintenance Worker,Back,Sprains/Strains,34.53,Female,24,2
+7/15/21,Ohio,Rural,Maintenance Worker,Leg,Automotive,359645.06,Male,44,5
+7/15/21,West Virginia,Rural,Inspector,Foot/Ankle,Slip/Trip/Fall,54.86,Female,37,13
+7/16/21,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,151569.04,Male,52,11
+7/20/21,Pennsylvania,Urban,Engineer,Hand/Wrist,Automotive,35688.54,Male,55,7
+7/20/21,Ohio,Urban,Lineman,Foot/Ankle,Struck by Object,55.49,Female,60,11
+7/22/21,Ohio,Rural,Lineman,Arms,Sprains/Strains,362546.18,Female,62,3
+7/22/21,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,75.31,Female,61,10
+7/22/21,Maryland,Rural,Supervisor/Manager,Head,Automotive,42.31,Female,27,1
+7/22/21,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,29.07,Female,48,3
+7/23/21,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,60.67,Female,53,6
+7/25/21,Maryland,Rural,Office Clerk,Shoulder,Sprains/Strains,64.57,Male,61,24
+7/26/21,Ohio,Rural,Lineman,Head,Struck by Object,57.47,Female,59,9
+7/26/21,Pennsylvania,Urban,Accountant,Knee,Slip/Trip/Fall,15.25,Male,47,13
+7/26/21,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,3.5,Female,32,8
+7/28/21,Ohio,Rural,Field Technician,Hand/Wrist,Struck by Object,449761.83,Male,42,5
+7/28/21,Maryland,Urban,Accountant,Arms,Sprains/Strains,1996.56,Male,37,5
+7/28/21,Maryland,Rural,Office Clerk,Multiple Body Parts,Struck by Object,776.97,Female,57,7
+7/29/21,Pennsylvania,Urban,Inspector,Shoulder,Sprains/Strains,309712.01,Male,58,26
+7/29/21,Indiana,Urban,Field Technician,Shoulder,Sprains/Strains,28.67,Male,53,16
+7/30/21,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,73.66,Male,30,6
+7/30/21,Ohio,Rural,Inspector,Foot/Ankle,Struck by Object,43.78,Male,49,13
+7/30/21,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,39.1,Male,30,7
+7/31/21,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,39.03,Female,46,13
+8/3/21,Ohio,Rural,Engineer,Hand/Wrist,Sprains/Strains,281806.63,Male,51,6
+8/3/21,Ohio,Urban,Engineer,Shoulder,Sprains/Strains,76.84,Male,21,2
+8/3/21,Ohio,Rural,Maintenance Worker,Knee,Cut/Lacerations,45.59,Female,60,8
+8/4/21,West Virginia,Urban,Inspector,Leg,Slip/Trip/Fall,291477.51,Male,62,5
+8/4/21,West Virginia,Rural,Field Technician,Arms,Cut/Lacerations,70.69,Male,63,37
+8/4/21,Ohio,Rural,Lineman,Hand/Wrist,Cut/Lacerations,47.37,Male,52,3
+8/4/21,Indiana,Rural,Maintenance Worker,Knee,Animal Bites,30.5,Female,29,5
+8/4/21,Maryland,Rural,Engineer,Hand/Wrist,Slip/Trip/Fall,12.55,Male,57,32
+8/5/21,Maryland,Rural,Field Technician,Foot/Ankle,Sprains/Strains,407636.58,Male,40,11
+8/5/21,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,63.59,Male,54,9
+8/5/21,Ohio,Rural,Field Technician,Hand/Wrist,Slip/Trip/Fall,37.53,Male,50,29
+8/6/21,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,450228.17,Female,32,5
+8/6/21,Maryland,Urban,Supervisor/Manager,Foot/Ankle,Animal Bites,90.05,Male,39,15
+8/6/21,Maryland,Rural,Field Technician,Leg,Slip/Trip/Fall,84.1,Male,46,6
+8/7/21,Indiana,Rural,Lineman,Back,Slip/Trip/Fall,75.38,Female,39,5
+8/7/21,Indiana,Rural,Field Technician,Leg,Struck by Object,14.96,Male,54,7
+8/9/21,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,51.94,Male,42,4
+8/10/21,Maryland,Urban,Inspector,Foot/Ankle,Animal Bites,78130.98,Male,47,19
+8/10/21,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,46.47,Female,54,14
+3/2/21,Maryland,Rural,Administrative Staff,Head,Struck by Object,10456.53,Male,62,7
+8/11/21,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,193818.85,Female,40,9
+8/11/21,Ohio,Rural,Maintenance Worker,Arms,Animal Bites,585.59,Male,34,5
+8/11/21,Indiana,Rural,Field Technician,Head,Slip/Trip/Fall,5.3,Male,25,3
+8/12/21,Ohio,Urban,Inspector,Back,Cut/Lacerations,262978.71,Female,50,17
+8/12/21,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,129985.56,Female,65,12
+8/12/21,Maryland,Rural,Field Technician,Arms,Animal Bites,69.01,Male,57,5
+8/12/21,Ohio,Rural,Engineer,Hand/Wrist,Animal Bites,53.86,Male,47,3
+8/12/21,West Virginia,Urban,Inspector,Arms,Animal Bites,41.28,Female,23,2
+8/13/21,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,440799.47,Male,46,2
+8/13/21,Ohio,Rural,Engineer,Knee,Slip/Trip/Fall,87.64,Male,27,8
+8/13/21,Ohio,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,72.77,Male,65,3
+8/13/21,Maryland,Rural,Maintenance Worker,Multiple Body Parts,Automotive,37.29,Female,61,19
+8/13/21,Maryland,Rural,Supervisor/Manager,Multiple Body Parts,Sprains/Strains,21.25,Male,44,14
+8/13/21,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,17.87,Male,40,14
+8/13/21,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,9.99,Male,39,3
+8/14/21,Ohio,Urban,Maintenance Worker,Foot/Ankle,Sprains/Strains,421135.58,Female,24,1
+12/13/24,Pennsylvania,Urban,Administrative Staff,Shoulder,Cut/Lacerations,9845.03,Male,50,4
+2/10/22,Ohio,Rural,Administrative Staff,Head,Slip/Trip/Fall,9103.16,Male,59,1
+8/16/21,West Virginia,Urban,Maintenance Worker,Leg,Automotive,11.42,Male,65,24
+8/18/21,Pennsylvania,Rural,Engineer,Multiple Body Parts,Animal Bites,778.34,Female,24,5
+8/18/21,West Virginia,Urban,Accountant,Leg,Sprains/Strains,65.48,Male,32,9
+8/19/21,Ohio,Rural,Inspector,Foot/Ankle,Cut/Lacerations,98,Male,50,6
+8/19/21,Maryland,Rural,Inspector,Back,Cut/Lacerations,44.73,Male,60,7
+8/19/21,Maryland,Rural,Maintenance Worker,Shoulder,Slip/Trip/Fall,30.31,Female,44,22
+8/21/21,Ohio,Rural,Office Clerk,Back,Sprains/Strains,56.25,Male,22,1
+8/22/21,Ohio,Urban,Maintenance Worker,Foot/Ankle,Animal Bites,73.45,Male,60,13
+4/3/24,Indiana,Urban,Administrative Staff,Shoulder,Sprains/Strains,8851.86,Female,36,8
+8/24/21,Maryland,Rural,Field Technician,Knee,Cut/Lacerations,427795.15,Female,45,4
+3/14/22,Ohio,Rural,Administrative Staff,Head,Sprains/Strains,7798.69,Male,56,4
+8/24/21,Indiana,Urban,Field Technician,Shoulder,Struck by Object,22.63,Male,55,3
+8/25/21,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,58.65,Female,53,3
+8/25/21,Maryland,Rural,Maintenance Worker,Head,Sprains/Strains,26.08,Male,48,17
+8/25/21,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,7.32,Male,43,17
+8/25/21,Pennsylvania,Rural,Inspector,Arms,Sprains/Strains,1.44,Female,36,8
+8/26/21,Ohio,Rural,Lineman,Hand/Wrist,Struck by Object,333996.46,Male,26,7
+8/26/21,Ohio,Urban,Engineer,Multiple Body Parts,Sprains/Strains,87.83,Male,36,7
+8/26/21,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,41.99,Female,50,16
+8/27/21,Maryland,Urban,Maintenance Worker,Arms,Cut/Lacerations,84.82,Male,51,5
+8/27/21,West Virginia,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,74.54,Female,58,8
+8/28/21,Ohio,Rural,Inspector,Knee,Animal Bites,73679.04,Female,23,5
+8/28/21,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,64.69,Female,36,2
+8/30/21,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,91.98,Male,37,8
+8/31/21,Ohio,Rural,Supervisor/Manager,Multiple Body Parts,Automotive,482942.89,Male,28,6
+11/28/23,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,7769.81,Male,42,3
+9/2/21,Ohio,Rural,Engineer,Foot/Ankle,Sprains/Strains,27.2,Male,53,7
+9/3/21,Maryland,Rural,Maintenance Worker,Leg,Struck by Object,409059.11,Female,44,5
+3/29/22,Indiana,Urban,Administrative Staff,Multiple Body Parts,Struck by Object,7450.06,Male,41,5
+9/5/21,Maryland,Rural,Inspector,Knee,Sprains/Strains,44.73,Male,43,2
+9/6/21,Pennsylvania,Rural,Engineer,Shoulder,Sprains/Strains,79.75,Female,43,0
+1/14/21,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,7021.82,Male,59,6
+9/7/21,Ohio,Rural,Engineer,Head,Automotive,9.9,Female,51,11
+9/8/21,Pennsylvania,Rural,Maintenance Worker,Shoulder,Sprains/Strains,4879.2,Male,53,3
+9/8/21,Ohio,Urban,Office Clerk,Shoulder,Sprains/Strains,25.63,Female,37,4
+9/9/21,Ohio,Rural,Field Technician,Head,Automotive,422239.65,Male,29,6
+9/10/21,Ohio,Urban,Maintenance Worker,Hand/Wrist,Animal Bites,32.25,Male,40,8
+9/11/21,Indiana,Rural,Maintenance Worker,Head,Automotive,167218.18,Male,43,11
+9/11/21,West Virginia,Rural,Lineman,Arms,Sprains/Strains,86.53,Female,42,2
+8/11/21,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,6932.4,Male,43,17
+7/10/24,West Virginia,Urban,Administrative Staff,Shoulder,Sprains/Strains,6691.06,Male,44,1
+9/13/21,Ohio,Rural,Supervisor/Manager,Back,Automotive,39.92,Male,60,13
+9/13/21,Maryland,Rural,Field Technician,Shoulder,Slip/Trip/Fall,30.11,Male,28,0
+9/13/21,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,12.74,Male,54,19
+9/14/21,Indiana,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,160804.43,Male,38,0
+9/14/21,Ohio,Rural,Maintenance Worker,Shoulder,Automotive,60.61,Female,45,24
+9/14/21,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,40.74,Female,46,6
+9/15/21,Maryland,Rural,Inspector,Arms,Slip/Trip/Fall,33.19,Male,25,4
+9/16/21,Ohio,Rural,Field Technician,Multiple Body Parts,Automotive,334480.5,Female,52,10
+9/16/21,Pennsylvania,Rural,Engineer,Shoulder,Automotive,303709.88,Female,42,10
+9/18/21,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,341104.95,Male,48,11
+9/18/21,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,134006.21,Male,58,4
+9/18/21,Ohio,Urban,Accountant,Knee,Slip/Trip/Fall,84.97,Male,53,10
+9/19/21,Indiana,Urban,Lineman,Hand/Wrist,Sprains/Strains,19.99,Male,47,7
+9/20/21,West Virginia,Rural,Lineman,Arms,Slip/Trip/Fall,250036.49,Female,38,11
+9/20/21,Ohio,Urban,Inspector,Knee,Automotive,95.35,Female,47,6
+9/20/21,Pennsylvania,Rural,Inspector,Back,Automotive,83.56,Male,33,7
+9/20/21,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,81.79,Male,47,18
+9/20/21,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,24.5,Female,44,8
+9/20/21,Ohio,Urban,Inspector,Hand/Wrist,Animal Bites,22.88,Male,54,5
+9/21/21,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,16.2,Male,55,13
+9/22/21,Pennsylvania,Rural,Field Technician,Head,Automotive,428582.78,Male,65,6
+9/22/21,Maryland,Rural,Field Technician,Knee,Automotive,230826.42,Male,36,9
+9/22/21,Maryland,Rural,Lineman,Foot/Ankle,Automotive,16482.85,Male,61,7
+9/22/21,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,99.04,Male,38,17
+9/22/21,Indiana,Rural,Engineer,Shoulder,Struck by Object,75.25,Female,60,9
+9/22/21,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,60.49,Female,45,27
+9/22/21,Ohio,Rural,Inspector,Hand/Wrist,Sprains/Strains,19.6,Male,44,26
+9/23/21,Maryland,Rural,Engineer,Arms,Slip/Trip/Fall,307976.9,Male,39,19
+9/23/21,Ohio,Urban,Inspector,Foot/Ankle,Animal Bites,98469.79,Female,23,1
+2/26/24,Pennsylvania,Rural,Administrative Staff,Shoulder,Sprains/Strains,6570.28,Female,35,13
+9/23/21,West Virginia,Urban,Lineman,Knee,Automotive,85.15,Male,63,2
+9/23/21,Maryland,Rural,Supervisor/Manager,Arms,Cut/Lacerations,56.66,Female,51,10
+9/24/21,Ohio,Rural,Supervisor/Manager,Foot/Ankle,Sprains/Strains,53.3,Male,55,7
+9/24/21,Pennsylvania,Urban,Maintenance Worker,Head,Sprains/Strains,52.83,Male,39,3
+9/25/21,Pennsylvania,Rural,Field Technician,Head,Slip/Trip/Fall,191385.87,Female,30,2
+9/25/21,Maryland,Urban,Maintenance Worker,Knee,Animal Bites,34806.59,Female,43,11
+9/27/21,Indiana,Urban,Accountant,Foot/Ankle,Slip/Trip/Fall,37.52,Male,44,5
+9/28/21,Maryland,Rural,Office Clerk,Foot/Ankle,Automotive,8437.17,Male,59,14
+9/28/21,Ohio,Urban,Inspector,Multiple Body Parts,Animal Bites,96.74,Female,65,9
+9/28/21,Pennsylvania,Urban,Lineman,Knee,Cut/Lacerations,79.53,Male,27,2
+9/28/21,West Virginia,Urban,Supervisor/Manager,Multiple Body Parts,Slip/Trip/Fall,56.53,Male,55,5
+9/28/21,West Virginia,Urban,Lineman,Leg,Cut/Lacerations,40.55,Male,46,11
+9/28/21,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,17.03,Female,52,2
+9/29/21,West Virginia,Urban,Maintenance Worker,Shoulder,Sprains/Strains,488433.08,Female,61,16
+9/29/21,Ohio,Rural,Supervisor/Manager,Arms,Cut/Lacerations,324416.06,Female,33,7
+9/29/21,Pennsylvania,Urban,Accountant,Leg,Slip/Trip/Fall,73.88,Male,52,10
+9/29/21,Maryland,Rural,Field Technician,Arms,Cut/Lacerations,16.5,Male,26,6
+9/30/21,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,252883.74,Female,25,3
+9/30/21,Ohio,Urban,Lineman,Hand/Wrist,Animal Bites,708.94,Male,37,1
+9/30/21,Indiana,Urban,Accountant,Knee,Cut/Lacerations,71.27,Male,39,14
+9/30/21,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,14.74,Male,41,6
+9/30/21,Maryland,Rural,Lineman,Arms,Automotive,3.02,Female,58,6
+10/1/21,Maryland,Urban,Field Technician,Knee,Animal Bites,5.67,Female,30,6
+10/2/21,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,264564.69,Male,62,10
+10/4/21,Maryland,Urban,Accountant,Leg,Sprains/Strains,70.43,Male,33,8
+7/14/23,Ohio,Rural,Administrative Staff,Back,Automotive,6287.39,Male,36,5
+10/5/21,Indiana,Rural,Lineman,Head,Slip/Trip/Fall,86.46,Male,36,2
+10/7/21,Ohio,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,64.97,Male,64,6
+10/8/21,Pennsylvania,Rural,Engineer,Leg,Sprains/Strains,66.18,Female,30,5
+10/9/21,Pennsylvania,Rural,Engineer,Arms,Animal Bites,49.54,Male,26,2
+10/11/21,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,365331.31,Male,63,2
+10/11/21,Ohio,Rural,Field Technician,Multiple Body Parts,Slip/Trip/Fall,88.2,Male,65,4
+10/12/21,Ohio,Rural,Field Technician,Arms,Animal Bites,854.28,Female,25,4
+10/12/21,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,719.51,Male,58,8
+6/3/21,Ohio,Rural,Administrative Staff,Arms,Sprains/Strains,6029.18,Male,47,9
+10/13/21,Ohio,Rural,Field Technician,Foot/Ankle,Sprains/Strains,75313.32,Male,29,11
+10/13/21,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,90.56,Male,35,10
+10/13/21,Ohio,Rural,Lineman,Head,Slip/Trip/Fall,76.78,Male,34,15
+10/13/21,Pennsylvania,Rural,Lineman,Hand/Wrist,Animal Bites,19.46,Female,42,1
+10/14/21,Indiana,Urban,Inspector,Back,Sprains/Strains,446454.38,Male,32,5
+10/15/21,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,85.68,Female,57,8
+10/15/21,Indiana,Urban,Lineman,Knee,Sprains/Strains,27.3,Male,39,10
+10/18/21,Ohio,Rural,Inspector,Multiple Body Parts,Automotive,53.56,Female,36,2
+10/19/21,Pennsylvania,Rural,Lineman,Hand/Wrist,Struck by Object,487884.21,Male,46,3
+10/19/21,Pennsylvania,Rural,Lineman,Head,Sprains/Strains,467593.13,Female,34,3
+10/19/21,Ohio,Urban,Lineman,Shoulder,Sprains/Strains,7.47,Female,21,2
+10/20/21,Pennsylvania,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,71.12,Male,42,10
+10/20/21,Indiana,Urban,Accountant,Foot/Ankle,Cut/Lacerations,36.15,Male,36,3
+10/20/21,Ohio,Urban,Field Technician,Shoulder,Sprains/Strains,17.98,Male,41,1
+10/21/21,West Virginia,Urban,Accountant,Foot/Ankle,Sprains/Strains,80.9,Male,62,34
+10/17/24,Ohio,Urban,Administrative Staff,Shoulder,Sprains/Strains,5255.33,Male,53,20
+10/21/21,Indiana,Urban,Accountant,Shoulder,Sprains/Strains,31.99,Male,65,1
+10/22/21,Maryland,Rural,Maintenance Worker,Hand/Wrist,Sprains/Strains,397799.48,Female,22,2
+10/22/21,West Virginia,Rural,Lineman,Arms,Animal Bites,67.46,Male,48,17
+10/23/21,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,56.5,Male,30,10
+10/25/21,Ohio,Rural,Field Technician,Back,Slip/Trip/Fall,297777.06,Male,39,1
+10/25/21,West Virginia,Urban,Maintenance Worker,Shoulder,Sprains/Strains,37.18,Female,53,6
+10/26/21,Ohio,Rural,Engineer,Arms,Cut/Lacerations,9296.15,Male,63,14
+10/26/21,West Virginia,Urban,Accountant,Arms,Slip/Trip/Fall,758.55,Male,37,5
+10/27/21,West Virginia,Rural,Engineer,Leg,Slip/Trip/Fall,423842.83,Male,59,15
+10/28/21,Ohio,Rural,Maintenance Worker,Hand/Wrist,Cut/Lacerations,65234.59,Male,32,3
+10/28/21,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,19302.01,Male,31,0
+10/28/21,Pennsylvania,Urban,Office Clerk,Shoulder,Sprains/Strains,9685.04,Male,34,8
+10/28/21,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,84.41,Male,37,10
+10/28/21,West Virginia,Urban,Supervisor/Manager,Leg,Automotive,74.33,Female,52,5
+10/28/21,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,69.71,Male,29,6
+10/28/21,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,20.47,Male,32,3
+10/31/21,West Virginia,Rural,Field Technician,Hand/Wrist,Slip/Trip/Fall,68.21,Female,30,5
+11/1/21,Ohio,Urban,Engineer,Back,Slip/Trip/Fall,420751.58,Male,32,4
+6/25/23,Indiana,Urban,Administrative Staff,Arms,Sprains/Strains,5254.92,Female,43,9
+11/3/21,West Virginia,Urban,Office Clerk,Foot/Ankle,Cut/Lacerations,3479.23,Female,55,10
+11/3/21,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,81.9,Female,64,30
+11/4/21,Maryland,Rural,Lineman,Head,Sprains/Strains,26.18,Female,29,8
+11/5/21,Maryland,Urban,Engineer,Head,Sprains/Strains,326913.24,Female,52,3
+11/5/21,Ohio,Urban,Maintenance Worker,Hand/Wrist,Cut/Lacerations,150111.48,Male,59,3
+11/5/21,Indiana,Rural,Supervisor/Manager,Arms,Automotive,91.4,Female,63,7
+11/5/21,Pennsylvania,Urban,Accountant,Shoulder,Sprains/Strains,41.56,Male,42,22
+11/7/21,Maryland,Urban,Supervisor/Manager,Head,Cut/Lacerations,405824.07,Male,37,16
+11/8/21,Ohio,Urban,Engineer,Shoulder,Sprains/Strains,408753.14,Female,21,0
+11/8/21,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,58028.54,Female,47,8
+11/8/21,Maryland,Rural,Inspector,Multiple Body Parts,Animal Bites,2.11,Female,53,10
+11/9/21,West Virginia,Rural,Supervisor/Manager,Multiple Body Parts,Animal Bites,38.94,Male,39,18
+2/13/22,Pennsylvania,Rural,Administrative Staff,Foot/Ankle,Slip/Trip/Fall,5239.92,Female,59,8
+11/10/21,Ohio,Rural,Office Clerk,Leg,Sprains/Strains,62.94,Male,29,2
+11/11/21,West Virginia,Urban,Lineman,Leg,Struck by Object,43.39,Male,31,7
+11/12/21,Pennsylvania,Rural,Engineer,Multiple Body Parts,Sprains/Strains,206555.07,Male,63,17
+11/12/21,West Virginia,Urban,Engineer,Arms,Struck by Object,61.3,Male,35,7
+11/15/21,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,182754.22,Female,44,3
+11/15/21,West Virginia,Rural,Inspector,Knee,Automotive,83.11,Female,53,10
+11/15/21,West Virginia,Rural,Engineer,Multiple Body Parts,Animal Bites,62.37,Male,21,1
+11/17/21,Ohio,Urban,Accountant,Leg,Automotive,7502.22,Male,40,8
+11/17/21,Ohio,Rural,Lineman,Knee,Automotive,47.5,Female,26,3
+11/18/21,Maryland,Rural,Supervisor/Manager,Head,Automotive,444730.07,Female,25,2
+11/18/21,West Virginia,Rural,Office Clerk,Foot/Ankle,Sprains/Strains,688.86,Female,31,9
+11/18/21,West Virginia,Rural,Engineer,Foot/Ankle,Cut/Lacerations,68.91,Male,48,5
+11/18/21,Maryland,Rural,Supervisor/Manager,Arms,Struck by Object,47.16,Female,21,2
+11/18/21,Maryland,Rural,Inspector,Arms,Slip/Trip/Fall,21.8,Male,28,2
+11/18/21,Ohio,Rural,Field Technician,Head,Automotive,7.33,Female,37,3
+11/19/21,Ohio,Urban,Engineer,Arms,Animal Bites,96.46,Male,59,2
+11/19/21,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,87.96,Female,42,6
+11/19/21,West Virginia,Urban,Engineer,Back,Cut/Lacerations,62.94,Female,33,9
+11/19/21,West Virginia,Urban,Accountant,Shoulder,Sprains/Strains,58.66,Male,44,17
+11/20/21,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,65.16,Male,61,4
+11/22/21,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,89.22,Female,21,2
+11/24/21,Pennsylvania,Rural,Lineman,Hand/Wrist,Struck by Object,399585.43,Male,59,40
+11/24/21,Ohio,Rural,Engineer,Knee,Automotive,99.63,Female,55,5
+11/25/21,West Virginia,Rural,Office Clerk,Leg,Struck by Object,650.89,Male,58,5
+11/25/21,Maryland,Urban,Lineman,Shoulder,Sprains/Strains,61.57,Female,58,1
+11/29/21,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,87.64,Female,28,10
+11/29/21,Pennsylvania,Rural,Field Technician,Back,Sprains/Strains,49.85,Male,43,20
+11/30/21,West Virginia,Rural,Field Technician,Arms,Animal Bites,51.84,Female,31,9
+12/1/21,Ohio,Rural,Field Technician,Arms,Cut/Lacerations,496776.54,Male,34,3
+12/1/21,Ohio,Rural,Inspector,Head,Automotive,392998.24,Female,52,10
+12/1/21,West Virginia,Urban,Engineer,Shoulder,Sprains/Strains,76.38,Female,30,8
+12/2/21,Ohio,Rural,Engineer,Foot/Ankle,Slip/Trip/Fall,33274.84,Male,49,18
+7/12/22,Ohio,Rural,Administrative Staff,Shoulder,Struck by Object,4852.05,Female,60,4
+12/2/21,Ohio,Rural,Supervisor/Manager,Arms,Struck by Object,60.42,Male,62,9
+12/2/21,Maryland,Rural,Inspector,Back,Automotive,26.71,Female,65,10
+12/4/21,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,293548.6,Male,23,1
+12/6/21,Ohio,Rural,Lineman,Head,Sprains/Strains,80.28,Female,55,4
+12/7/21,Ohio,Rural,Engineer,Arms,Slip/Trip/Fall,308402.67,Male,65,3
+12/7/21,West Virginia,Urban,Field Technician,Hand/Wrist,Sprains/Strains,95.56,Female,42,9
+12/7/21,Indiana,Urban,Accountant,Hand/Wrist,Automotive,67.08,Female,50,2
+5/8/22,West Virginia,Rural,Administrative Staff,Shoulder,Sprains/Strains,4778.83,Male,46,11
+12/8/21,Ohio,Urban,Supervisor/Manager,Shoulder,Struck by Object,74.08,Female,52,6
+12/8/21,West Virginia,Urban,Field Technician,Back,Sprains/Strains,47.64,Male,24,6
+12/8/21,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,17.8,Female,30,11
+12/9/21,West Virginia,Urban,Accountant,Foot/Ankle,Automotive,54008.91,Female,52,20
+12/11/21,Indiana,Rural,Inspector,Hand/Wrist,Animal Bites,70.36,Female,58,8
+12/13/21,Ohio,Rural,Maintenance Worker,Foot/Ankle,Struck by Object,25534.77,Female,26,4
+12/13/21,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,76.05,Male,47,9
+12/15/21,Maryland,Rural,Supervisor/Manager,Arms,Sprains/Strains,86336.99,Male,54,13
+12/15/21,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,57.73,Male,37,8
+12/15/21,Ohio,Rural,Field Technician,Multiple Body Parts,Animal Bites,38.22,Male,23,4
+12/15/21,Maryland,Rural,Office Clerk,Shoulder,Sprains/Strains,25.6,Female,24,6
+12/16/21,Ohio,Rural,Field Technician,Foot/Ankle,Sprains/Strains,222977.67,Female,59,4
+12/16/21,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,24.77,Female,50,8
+12/17/21,Ohio,Rural,Engineer,Back,Sprains/Strains,49.38,Female,40,2
+12/17/21,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,22.37,Female,56,15
+12/18/21,Ohio,Rural,Supervisor/Manager,Arms,Struck by Object,82.11,Male,26,3
+12/19/21,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,125271.88,Female,51,14
+11/10/22,Maryland,Rural,Administrative Staff,Hand/Wrist,Sprains/Strains,4393.36,Female,26,5
+12/20/21,Ohio,Rural,Inspector,Foot/Ankle,Cut/Lacerations,68.7,Male,61,7
+12/21/21,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,373685.42,Female,30,4
+12/21/21,Pennsylvania,Urban,Maintenance Worker,Shoulder,Sprains/Strains,20.49,Female,61,5
+6/6/23,Indiana,Urban,Administrative Staff,Multiple Body Parts,Cut/Lacerations,4018.92,Male,62,36
+12/23/21,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,288282.45,Male,47,16
+12/24/21,Maryland,Rural,Lineman,Leg,Struck by Object,447277.92,Male,29,9
+12/28/21,Pennsylvania,Urban,Lineman,Head,Cut/Lacerations,299569.76,Male,22,0
+12/29/21,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,13.08,Male,36,4
+12/31/21,Maryland,Urban,Office Clerk,Multiple Body Parts,Cut/Lacerations,4218.25,Male,22,4
+1/1/22,Ohio,Urban,Accountant,Head,Sprains/Strains,93743.05,Male,54,4
+1/1/22,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,33.25,Male,57,7
+1/3/22,Indiana,Urban,Field Technician,Head,Slip/Trip/Fall,469299.19,Male,44,15
+1/3/22,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,281600.07,Female,49,12
+1/3/22,Indiana,Rural,Engineer,Shoulder,Sprains/Strains,89673.11,Male,33,10
+1/3/22,Ohio,Rural,Inspector,Shoulder,Slip/Trip/Fall,84.21,Male,50,6
+1/3/22,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,18.39,Male,27,6
+1/4/22,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,35.6,Male,58,5
+1/5/22,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,49.65,Male,55,34
+1/5/22,Indiana,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,45.88,Female,49,16
+1/6/22,Indiana,Rural,Field Technician,Shoulder,Slip/Trip/Fall,374773,Male,64,8
+1/7/22,Pennsylvania,Rural,Lineman,Knee,Struck by Object,154607.8,Female,22,3
+1/7/22,Pennsylvania,Urban,Accountant,Shoulder,Sprains/Strains,96372.31,Male,60,3
+1/7/22,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,467.35,Female,31,5
+1/7/22,Indiana,Rural,Engineer,Multiple Body Parts,Animal Bites,85.76,Female,59,16
+1/7/22,Maryland,Urban,Accountant,Knee,Struck by Object,25.35,Male,52,14
+1/8/22,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,58.27,Female,21,0
+1/11/22,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,86.9,Male,53,24
+1/12/22,Indiana,Rural,Supervisor/Manager,Head,Slip/Trip/Fall,369964.96,Female,27,1
+1/12/22,Maryland,Rural,Inspector,Head,Automotive,78.86,Male,28,8
+1/13/22,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,22903.68,Male,57,7
+1/13/22,Indiana,Rural,Office Clerk,Foot/Ankle,Automotive,16.04,Female,33,7
+1/14/22,Maryland,Rural,Field Technician,Leg,Slip/Trip/Fall,94.31,Female,26,8
+1/14/22,Indiana,Urban,Field Technician,Hand/Wrist,Animal Bites,3.61,Female,52,28
+1/15/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,375999.69,Female,40,4
+1/15/22,West Virginia,Rural,Lineman,Arms,Animal Bites,96.35,Male,43,9
+1/15/22,Ohio,Rural,Inspector,Back,Struck by Object,64.19,Male,32,9
+1/16/22,Ohio,Rural,Field Technician,Leg,Animal Bites,54.93,Male,61,3
+1/16/22,Ohio,Rural,Engineer,Multiple Body Parts,Slip/Trip/Fall,52.37,Male,50,7
+1/17/22,Ohio,Rural,Maintenance Worker,Back,Cut/Lacerations,93551.27,Female,38,4
+1/17/22,Ohio,Rural,Lineman,Knee,Animal Bites,70.07,Male,53,5
+1/18/22,Maryland,Rural,Engineer,Head,Cut/Lacerations,366228.6,Female,33,15
+1/18/22,Maryland,Rural,Lineman,Foot/Ankle,Struck by Object,45.61,Male,33,14
+1/18/22,Ohio,Urban,Lineman,Knee,Struck by Object,33.11,Male,65,18
+1/19/22,Maryland,Rural,Inspector,Foot/Ankle,Automotive,333075.93,Female,33,2
+1/19/22,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,303034.84,Male,46,8
+1/19/22,Pennsylvania,Rural,Inspector,Shoulder,Slip/Trip/Fall,68.95,Male,61,8
+1/20/22,Ohio,Rural,Supervisor/Manager,Arms,Animal Bites,59011.27,Male,41,6
+1/20/22,Maryland,Rural,Lineman,Head,Automotive,33199.89,Female,29,2
+1/20/22,Maryland,Rural,Field Technician,Hand/Wrist,Sprains/Strains,60.35,Male,59,3
+1/20/22,Indiana,Rural,Lineman,Shoulder,Cut/Lacerations,37.23,Female,56,3
+1/21/22,Pennsylvania,Rural,Field Technician,Knee,Animal Bites,20.23,Male,63,6
+1/22/22,Ohio,Rural,Maintenance Worker,Hand/Wrist,Automotive,38.69,Female,49,3
+1/23/22,Pennsylvania,Rural,Maintenance Worker,Back,Cut/Lacerations,191084.58,Female,52,6
+1/24/22,Indiana,Rural,Inspector,Arms,Sprains/Strains,63.74,Female,46,12
+1/25/22,West Virginia,Urban,Office Clerk,Leg,Sprains/Strains,23.36,Male,40,18
+1/26/22,Pennsylvania,Rural,Field Technician,Back,Sprains/Strains,48.26,Male,23,3
+1/26/22,Ohio,Rural,Maintenance Worker,Hand/Wrist,Sprains/Strains,6.87,Female,64,10
+1/26/22,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,4,Male,22,0
+1/27/22,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,98039.02,Female,59,3
+1/27/22,Maryland,Urban,Inspector,Multiple Body Parts,Slip/Trip/Fall,94.8,Female,34,1
+1/28/22,Maryland,Rural,Inspector,Leg,Slip/Trip/Fall,460603.17,Male,25,4
+1/28/22,Indiana,Rural,Engineer,Shoulder,Sprains/Strains,69.61,Male,43,11
+1/29/22,Maryland,Rural,Lineman,Shoulder,Struck by Object,77.94,Male,50,2
+1/29/22,West Virginia,Urban,Engineer,Leg,Slip/Trip/Fall,4.31,Male,63,34
+1/31/22,Maryland,Rural,Inspector,Head,Sprains/Strains,465185.16,Male,49,14
+1/31/22,Ohio,Rural,Office Clerk,Knee,Struck by Object,44323.31,Male,64,5
+1/31/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,71.95,Female,23,4
+1/31/22,Pennsylvania,Urban,Engineer,Shoulder,Sprains/Strains,63,Female,26,8
+2/1/22,Indiana,Rural,Inspector,Hand/Wrist,Slip/Trip/Fall,169421.79,Male,42,2
+2/1/22,West Virginia,Urban,Accountant,Knee,Automotive,92304.68,Male,32,3
+2/1/22,Ohio,Rural,Engineer,Arms,Automotive,4044.56,Female,27,2
+2/1/22,Maryland,Rural,Lineman,Multiple Body Parts,Slip/Trip/Fall,90.76,Male,25,7
+2/2/22,Pennsylvania,Rural,Supervisor/Manager,Foot/Ankle,Sprains/Strains,385438.84,Female,25,1
+2/2/22,Ohio,Urban,Lineman,Hand/Wrist,Sprains/Strains,239214.57,Female,22,2
+2/2/22,Ohio,Rural,Engineer,Knee,Slip/Trip/Fall,9908,Male,44,1
+2/2/22,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,52.7,Male,25,6
+2/2/22,West Virginia,Rural,Inspector,Hand/Wrist,Automotive,13.02,Female,47,28
+3/3/23,West Virginia,Rural,Administrative Staff,Shoulder,Sprains/Strains,3341.35,Male,54,7
+2/2/22,Ohio,Rural,Maintenance Worker,Head,Sprains/Strains,9.84,Male,23,5
+2/3/22,West Virginia,Rural,Engineer,Shoulder,Slip/Trip/Fall,280453.56,Female,55,6
+2/3/22,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,74.48,Male,21,1
+2/3/22,Indiana,Rural,Engineer,Hand/Wrist,Sprains/Strains,2.93,Female,46,20
+2/4/22,Pennsylvania,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,305136.74,Male,22,0
+2/5/22,Ohio,Rural,Supervisor/Manager,Head,Sprains/Strains,292000.48,Male,26,2
+11/10/21,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,3310.41,Female,58,14
+2/7/22,West Virginia,Urban,Engineer,Foot/Ankle,Animal Bites,99.25,Male,35,0
+2/7/22,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,83.23,Female,55,8
+2/8/22,Ohio,Rural,Office Clerk,Head,Automotive,46.47,Female,42,7
+2/8/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,10.82,Male,56,9
+2/9/22,Maryland,Urban,Office Clerk,Shoulder,Sprains/Strains,32213.77,Male,57,7
+2/9/22,Ohio,Rural,Lineman,Head,Cut/Lacerations,54.34,Female,39,10
+2/9/22,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,24.37,Male,53,20
+2/9/22,Maryland,Rural,Maintenance Worker,Foot/Ankle,Cut/Lacerations,2.78,Male,35,1
+9/25/24,Maryland,Urban,Administrative Staff,Foot/Ankle,Sprains/Strains,1413.14,Male,30,6
+2/10/22,Ohio,Rural,Office Clerk,Hand/Wrist,Slip/Trip/Fall,688.44,Male,39,5
+2/10/22,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,78.42,Female,49,19
+2/27/22,Maryland,Urban,Administrative Staff,Shoulder,Slip/Trip/Fall,1214.45,Female,28,3
+2/10/22,Maryland,Rural,Lineman,Head,Struck by Object,20.4,Male,52,2
+2/11/22,Maryland,Urban,Accountant,Back,Slip/Trip/Fall,54.65,Male,21,2
+2/11/22,West Virginia,Urban,Maintenance Worker,Foot/Ankle,Animal Bites,29.04,Male,42,10
+5/9/24,Indiana,Urban,Administrative Staff,Multiple Body Parts,Slip/Trip/Fall,1092.55,Male,51,14
+2/14/22,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,85.82,Male,39,20
+2/14/22,Ohio,Urban,Engineer,Foot/Ankle,Animal Bites,46.53,Male,26,7
+9/28/22,Pennsylvania,Rural,Administrative Staff,Foot/Ankle,Struck by Object,1058.45,Male,60,10
+3/30/22,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,1012.79,Male,23,2
+2/16/22,Maryland,Rural,Supervisor/Manager,Arms,Struck by Object,355097.34,Male,39,8
+2/16/22,Maryland,Rural,Supervisor/Manager,Back,Slip/Trip/Fall,279358.38,Female,32,7
+2/16/22,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,122747.38,Male,53,5
+2/16/22,Ohio,Rural,Field Technician,Foot/Ankle,Struck by Object,80.73,Male,37,7
+2/16/22,Indiana,Rural,Supervisor/Manager,Leg,Slip/Trip/Fall,34.94,Male,63,5
+2/17/22,Maryland,Rural,Inspector,Head,Slip/Trip/Fall,334074.82,Male,55,11
+2/17/22,Maryland,Rural,Field Technician,Leg,Automotive,138739.09,Female,51,1
+2/17/22,Maryland,Rural,Supervisor/Manager,Multiple Body Parts,Sprains/Strains,81.07,Male,26,8
+2/17/22,Indiana,Rural,Maintenance Worker,Arms,Slip/Trip/Fall,62.16,Male,64,3
+2/17/22,Maryland,Rural,Engineer,Head,Automotive,43.31,Male,34,3
+2/17/22,Ohio,Urban,Accountant,Back,Struck by Object,9.76,Male,46,8
+2/18/22,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,8204.14,Male,42,17
+11/6/24,Ohio,Urban,Administrative Staff,Knee,Cut/Lacerations,880.29,Female,30,6
+2/18/22,Pennsylvania,Urban,Field Technician,Leg,Sprains/Strains,75.88,Male,36,6
+2/18/22,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,26.72,Male,33,4
+2/19/22,West Virginia,Rural,Inspector,Multiple Body Parts,Sprains/Strains,229301.58,Male,31,1
+2/19/22,Indiana,Urban,Maintenance Worker,Arms,Slip/Trip/Fall,152884.78,Female,30,7
+2/19/22,Ohio,Urban,Inspector,Shoulder,Slip/Trip/Fall,76.1,Male,31,3
+2/19/22,Ohio,Urban,Inspector,Arms,Struck by Object,71.95,Female,41,5
+2/19/22,Indiana,Rural,Office Clerk,Head,Sprains/Strains,56.45,Female,22,3
+2/19/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,24.25,Male,27,9
+2/20/22,Indiana,Rural,Maintenance Worker,Leg,Automotive,84126.94,Female,39,9
+2/21/22,Ohio,Urban,Maintenance Worker,Knee,Slip/Trip/Fall,441321.02,Male,52,9
+2/21/22,Maryland,Rural,Lineman,Shoulder,Slip/Trip/Fall,383121.96,Male,64,2
+2/21/22,Ohio,Rural,Inspector,Multiple Body Parts,Sprains/Strains,34.3,Male,60,26
+2/22/22,Pennsylvania,Rural,Lineman,Back,Sprains/Strains,89.78,Male,26,5
+2/22/22,Ohio,Rural,Field Technician,Multiple Body Parts,Animal Bites,83.93,Male,31,7
+2/22/22,Ohio,Rural,Inspector,Back,Struck by Object,49.88,Male,45,18
+2/23/22,West Virginia,Urban,Accountant,Leg,Cut/Lacerations,44164.74,Male,41,6
+2/23/22,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,3847.21,Male,56,18
+2/23/22,Ohio,Rural,Field Technician,Hand/Wrist,Animal Bites,92.33,Female,43,6
+2/23/22,Maryland,Urban,Lineman,Shoulder,Sprains/Strains,81.86,Male,45,27
+2/23/22,Pennsylvania,Rural,Inspector,Foot/Ankle,Struck by Object,79.66,Male,34,15
+2/23/22,West Virginia,Urban,Accountant,Hand/Wrist,Automotive,75.8,Female,38,9
+3/17/24,Indiana,Urban,Administrative Staff,Knee,Cut/Lacerations,879.59,Female,46,9
+2/25/22,Ohio,Urban,Maintenance Worker,Knee,Struck by Object,93.4,Male,21,0
+8/6/24,Pennsylvania,Urban,Administrative Staff,Shoulder,Cut/Lacerations,794.1,Female,39,9
+2/25/22,West Virginia,Urban,Field Technician,Knee,Automotive,18.07,Male,25,2
+2/26/22,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,463016.42,Female,24,5
+2/26/22,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,8.95,Female,64,6
+4/10/23,Ohio,Urban,Administrative Staff,Back,Sprains/Strains,617.85,Female,56,4
+2/27/22,Indiana,Urban,Field Technician,Leg,Animal Bites,97.73,Male,23,3
+2/27/22,Ohio,Rural,Engineer,Foot/Ankle,Animal Bites,12.57,Female,51,8
+2/28/22,West Virginia,Urban,Accountant,Hand/Wrist,Sprains/Strains,94.4,Female,61,29
+2/28/22,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,84.14,Female,51,7
+3/1/22,Ohio,Urban,Field Technician,Shoulder,Sprains/Strains,4044.3,Female,45,19
+10/23/24,Ohio,Rural,Administrative Staff,Shoulder,Struck by Object,475.08,Female,61,2
+3/1/22,Pennsylvania,Rural,Lineman,Arms,Animal Bites,49.73,Female,64,4
+3/2/22,Maryland,Urban,Maintenance Worker,Leg,Struck by Object,13725.96,Male,52,8
+3/2/22,West Virginia,Urban,Engineer,Back,Sprains/Strains,9.28,Male,23,5
+3/3/22,Indiana,Rural,Maintenance Worker,Knee,Cut/Lacerations,138974.14,Female,50,2
+12/8/21,Ohio,Urban,Administrative Staff,Arms,Cut/Lacerations,449.14,Female,62,8
+3/3/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,15.29,Female,29,10
+3/3/22,Maryland,Urban,Lineman,Leg,Automotive,11.62,Female,58,2
+3/6/22,Maryland,Urban,Accountant,Foot/Ankle,Sprains/Strains,68.15,Female,64,19
+3/7/22,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,42515.21,Male,59,1
+3/7/22,Maryland,Urban,Lineman,Foot/Ankle,Cut/Lacerations,72.04,Female,41,1
+3/8/22,Maryland,Rural,Field Technician,Leg,Automotive,39564.97,Female,57,5
+3/9/22,Ohio,Rural,Field Technician,Multiple Body Parts,Animal Bites,50.11,Male,37,10
+3/9/22,Ohio,Rural,Lineman,Hand/Wrist,Slip/Trip/Fall,39.27,Male,33,10
+3/10/22,Maryland,Urban,Accountant,Multiple Body Parts,Struck by Object,91.54,Male,54,8
+3/10/22,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,30.37,Male,50,9
+3/10/22,Pennsylvania,Rural,Lineman,Leg,Sprains/Strains,21.92,Male,29,6
+3/11/22,Ohio,Rural,Lineman,Hand/Wrist,Slip/Trip/Fall,93.17,Male,39,8
+3/11/22,Ohio,Urban,Field Technician,Multiple Body Parts,Struck by Object,84.24,Female,37,7
+3/11/22,Indiana,Rural,Maintenance Worker,Multiple Body Parts,Cut/Lacerations,40.16,Male,31,5
+3/12/22,Maryland,Rural,Field Technician,Hand/Wrist,Slip/Trip/Fall,5.45,Female,21,0
+3/13/22,Ohio,Rural,Maintenance Worker,Knee,Automotive,64014.23,Female,29,6
+6/16/23,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,414.31,Male,29,8
+3/14/22,Ohio,Rural,Engineer,Arms,Animal Bites,6.66,Female,35,2
+2/16/22,Pennsylvania,Urban,Administrative Staff,Multiple Body Parts,Automotive,367.46,Male,27,8
+3/15/22,Maryland,Rural,Inspector,Head,Slip/Trip/Fall,376340.01,Female,28,5
+3/15/22,Ohio,Urban,Engineer,Foot/Ankle,Struck by Object,1.28,Male,63,6
+3/16/22,Indiana,Rural,Inspector,Foot/Ankle,Animal Bites,98.43,Male,41,1
+3/16/22,West Virginia,Rural,Supervisor/Manager,Back,Cut/Lacerations,59.73,Female,61,5
+3/16/22,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,27.65,Male,28,6
+3/16/22,Maryland,Urban,Lineman,Back,Cut/Lacerations,20.12,Male,29,1
+3/17/22,Ohio,Rural,Maintenance Worker,Shoulder,Cut/Lacerations,157186.47,Male,65,27
+3/17/22,Indiana,Urban,Maintenance Worker,Shoulder,Sprains/Strains,98.28,Female,39,19
+3/18/22,Pennsylvania,Urban,Inspector,Knee,Animal Bites,557.56,Male,50,5
+3/18/22,Indiana,Urban,Engineer,Multiple Body Parts,Automotive,74.75,Female,62,7
+3/19/22,Maryland,Rural,Inspector,Knee,Cut/Lacerations,12.51,Male,35,4
+3/19/22,Indiana,Rural,Maintenance Worker,Back,Slip/Trip/Fall,7.62,Male,26,6
+3/19/22,Maryland,Urban,Maintenance Worker,Foot/Ankle,Struck by Object,7.17,Female,36,1
+2/13/24,Ohio,Urban,Administrative Staff,Shoulder,Cut/Lacerations,351.91,Male,60,4
+3/21/22,West Virginia,Rural,Lineman,Leg,Animal Bites,69.64,Male,48,20
+3/22/22,Maryland,Rural,Lineman,Foot/Ankle,Animal Bites,9678.86,Female,58,6
+3/22/22,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,30.44,Female,38,2
+3/23/22,Indiana,Urban,Accountant,Back,Sprains/Strains,71.63,Male,25,5
+3/23/22,Ohio,Rural,Lineman,Foot/Ankle,Sprains/Strains,9.35,Female,30,9
+3/24/22,Pennsylvania,Rural,Maintenance Worker,Shoulder,Sprains/Strains,34501.09,Male,56,4
+3/24/22,West Virginia,Rural,Field Technician,Leg,Sprains/Strains,93.51,Male,21,3
+3/24/22,Indiana,Urban,Accountant,Shoulder,Sprains/Strains,16.72,Male,56,15
+3/26/22,Maryland,Rural,Lineman,Head,Cut/Lacerations,433058.95,Male,52,10
+3/26/22,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,346299.67,Male,44,13
+3/26/22,West Virginia,Rural,Engineer,Knee,Sprains/Strains,15078.36,Male,30,7
+3/26/22,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,65.3,Male,43,5
+3/28/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,49.58,Male,51,4
+3/28/22,Maryland,Rural,Supervisor/Manager,Arms,Animal Bites,23.9,Male,54,4
+3/29/22,Indiana,Rural,Maintenance Worker,Shoulder,Struck by Object,498313.27,Female,63,30
+11/30/24,West Virginia,Urban,Administrative Staff,Knee,Cut/Lacerations,331.23,Male,56,18
+3/29/22,Maryland,Rural,Lineman,Hand/Wrist,Automotive,254282.36,Female,34,7
+3/29/22,Ohio,Rural,Field Technician,Leg,Automotive,65.36,Female,57,3
+7/25/22,Ohio,Urban,Administrative Staff,Knee,Cut/Lacerations,329.1,Male,30,6
+3/30/22,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,87371.2,Male,22,1
+3/30/22,West Virginia,Rural,Inspector,Foot/Ankle,Slip/Trip/Fall,85898.13,Male,59,29
+3/30/22,Ohio,Rural,Field Technician,Hand/Wrist,Slip/Trip/Fall,40300.15,Male,58,1
+3/30/22,Ohio,Rural,Maintenance Worker,Hand/Wrist,Slip/Trip/Fall,31518.74,Female,27,1
+3/30/22,Ohio,Urban,Field Technician,Shoulder,Sprains/Strains,68.36,Male,23,3
+2/3/23,Indiana,Urban,Administrative Staff,Leg,Sprains/Strains,328.67,Male,22,2
+3/30/22,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,49.71,Male,56,19
+3/31/22,West Virginia,Rural,Field Technician,Back,Sprains/Strains,57954.75,Male,62,6
+2/20/23,Pennsylvania,Urban,Administrative Staff,Foot/Ankle,Cut/Lacerations,151.62,Male,36,2
+3/31/22,Pennsylvania,Rural,Lineman,Hand/Wrist,Cut/Lacerations,65.45,Female,28,9
+3/31/22,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,16.7,Female,45,10
+4/4/22,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,47.44,Female,38,11
+4/4/22,Pennsylvania,Rural,Supervisor/Manager,Multiple Body Parts,Animal Bites,36.25,Male,31,12
+4/4/22,Pennsylvania,Rural,Maintenance Worker,Hand/Wrist,Animal Bites,11.28,Male,36,9
+4/4/22,Maryland,Urban,Accountant,Leg,Sprains/Strains,8.56,Female,50,12
+4/4/22,Ohio,Urban,Accountant,Multiple Body Parts,Automotive,2.44,Female,37,6
+4/5/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,138408,Female,43,1
+4/5/22,Pennsylvania,Rural,Maintenance Worker,Shoulder,Slip/Trip/Fall,84.93,Male,58,17
+4/5/22,Maryland,Urban,Maintenance Worker,Shoulder,Sprains/Strains,74.77,Female,61,10
+4/5/22,Maryland,Rural,Field Technician,Multiple Body Parts,Animal Bites,55.46,Female,63,5
+4/6/22,West Virginia,Rural,Field Technician,Multiple Body Parts,Animal Bites,45499.85,Male,58,7
+4/7/22,Ohio,Urban,Inspector,Arms,Struck by Object,441793.37,Female,34,5
+4/8/22,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,16.13,Male,59,14
+4/11/22,West Virginia,Rural,Field Technician,Hand/Wrist,Slip/Trip/Fall,74.77,Male,53,25
+4/12/22,Pennsylvania,Urban,Accountant,Head,Sprains/Strains,64.07,Male,54,17
+4/13/22,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,61.34,Female,42,2
+4/13/22,Maryland,Urban,Maintenance Worker,Leg,Animal Bites,14.19,Male,45,9
+4/14/22,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,79.34,Male,49,18
+4/15/22,Indiana,Urban,Maintenance Worker,Shoulder,Sprains/Strains,209656.63,Male,35,7
+4/15/22,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,61.53,Female,34,2
+4/17/22,West Virginia,Rural,Lineman,Back,Slip/Trip/Fall,188244.76,Male,64,19
+4/17/22,Maryland,Rural,Engineer,Hand/Wrist,Slip/Trip/Fall,77.36,Male,58,3
+4/18/22,Indiana,Rural,Engineer,Knee,Struck by Object,67.19,Male,57,1
+12/21/23,Indiana,Urban,Administrative Staff,Knee,Sprains/Strains,99.9,Male,33,10
+4/19/22,Ohio,Rural,Supervisor/Manager,Multiple Body Parts,Struck by Object,313827.02,Male,23,4
+4/19/22,Maryland,Rural,Office Clerk,Foot/Ankle,Slip/Trip/Fall,89.89,Male,29,7
+4/20/22,Ohio,Rural,Lineman,Multiple Body Parts,Animal Bites,99722.04,Male,38,2
+4/20/22,Maryland,Urban,Inspector,Multiple Body Parts,Struck by Object,23.95,Female,33,1
+4/21/22,Ohio,Rural,Engineer,Hand/Wrist,Automotive,63639.03,Male,47,4
+4/21/22,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,80.27,Female,45,1
+4/22/22,Maryland,Rural,Maintenance Worker,Head,Automotive,67.97,Female,59,6
+4/23/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,91.36,Female,48,4
+4/24/22,Indiana,Rural,Lineman,Head,Struck by Object,59.72,Female,58,6
+4/26/22,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,18.91,Female,39,3
+4/27/22,West Virginia,Rural,Engineer,Arms,Slip/Trip/Fall,63410.84,Male,34,2
+4/27/22,Maryland,Rural,Lineman,Arms,Animal Bites,49.82,Male,64,8
+1/6/21,Maryland,Urban,Administrative Staff,Shoulder,Sprains/Strains,99.62,Male,60,5
+4/30/22,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,41.3,Male,53,7
+5/1/22,Indiana,Urban,Field Technician,Shoulder,Sprains/Strains,202229.73,Female,37,19
+5/2/22,Ohio,Rural,Engineer,Back,Cut/Lacerations,415764.94,Male,23,2
+5/2/22,Maryland,Urban,Accountant,Multiple Body Parts,Slip/Trip/Fall,31.04,Male,40,4
+5/3/22,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,92.1,Male,37,6
+5/4/22,West Virginia,Rural,Engineer,Leg,Automotive,183096.32,Male,64,1
+5/4/22,Ohio,Urban,Inspector,Hand/Wrist,Animal Bites,35600.63,Female,23,2
+2/5/22,Indiana,Rural,Administrative Staff,Shoulder,Sprains/Strains,98.99,Female,54,19
+5/4/22,Ohio,Rural,Field Technician,Shoulder,Struck by Object,39.27,Male,30,10
+5/4/22,Ohio,Rural,Maintenance Worker,Leg,Struck by Object,38.3,Male,40,7
+5/5/22,Ohio,Rural,Supervisor/Manager,Leg,Slip/Trip/Fall,175497.01,Male,53,23
+12/16/23,Ohio,Rural,Administrative Staff,Knee,Automotive,98.79,Male,30,7
+5/5/22,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,45.74,Female,40,11
+5/5/22,Ohio,Urban,Field Technician,Back,Cut/Lacerations,18.24,Male,52,2
+5/6/22,Indiana,Rural,Field Technician,Foot/Ankle,Animal Bites,10.93,Female,49,24
+5/7/22,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,78.48,Female,26,3
+5/11/22,West Virginia,Urban,Administrative Staff,Back,Sprains/Strains,98.64,Male,61,6
+5/9/22,Maryland,Rural,Field Technician,Back,Slip/Trip/Fall,75.18,Female,65,13
+5/10/22,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,111965.5,Male,42,10
+5/10/22,Ohio,Urban,Field Technician,Shoulder,Sprains/Strains,81.06,Female,54,1
+5/10/22,Ohio,Rural,Inspector,Knee,Slip/Trip/Fall,5.52,Male,39,3
+5/10/22,Ohio,Urban,Maintenance Worker,Back,Slip/Trip/Fall,4.35,Female,46,14
+1/19/24,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,98.64,Male,27,6
+5/11/22,Maryland,Urban,Office Clerk,Arms,Cut/Lacerations,56.65,Male,48,30
+5/12/22,West Virginia,Rural,Engineer,Multiple Body Parts,Slip/Trip/Fall,82.57,Female,27,2
+5/12/22,Indiana,Rural,Field Technician,Leg,Cut/Lacerations,9.32,Female,49,29
+5/12/22,West Virginia,Urban,Field Technician,Knee,Animal Bites,6.25,Male,53,10
+5/13/22,West Virginia,Rural,Lineman,Head,Automotive,408166.22,Male,63,7
+5/14/22,Maryland,Rural,Lineman,Hand/Wrist,Automotive,84.89,Male,39,1
+1/10/21,Ohio,Rural,Administrative Staff,Back,Struck by Object,98.6,Male,49,6
+5/16/22,West Virginia,Rural,Engineer,Back,Automotive,73.93,Female,30,5
+5/16/22,Maryland,Rural,Inspector,Head,Slip/Trip/Fall,29.01,Male,64,17
+5/17/22,Indiana,Urban,Maintenance Worker,Head,Struck by Object,66.82,Male,65,8
+5/17/22,Pennsylvania,Rural,Maintenance Worker,Foot/Ankle,Sprains/Strains,33.58,Female,26,8
+5/18/22,Ohio,Rural,Engineer,Arms,Slip/Trip/Fall,321300.29,Male,30,10
+5/18/22,Ohio,Rural,Inspector,Leg,Animal Bites,51525.35,Female,55,18
+5/18/22,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,82.97,Male,61,30
+5/18/22,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,79.31,Female,45,19
+5/19/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,85.21,Male,64,15
+5/19/22,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,74.23,Male,50,7
+5/19/22,West Virginia,Rural,Lineman,Hand/Wrist,Animal Bites,42.19,Female,46,9
+10/24/23,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,97.53,Male,51,8
+5/20/22,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,75.23,Female,36,8
+5/20/22,Ohio,Rural,Office Clerk,Foot/Ankle,Slip/Trip/Fall,66.28,Female,64,6
+5/20/22,West Virginia,Urban,Inspector,Leg,Automotive,43.9,Female,44,16
+5/21/22,Indiana,Rural,Maintenance Worker,Multiple Body Parts,Animal Bites,85.35,Male,61,6
+5/21/22,Indiana,Urban,Maintenance Worker,Arms,Struck by Object,58.71,Female,26,6
+5/21/22,West Virginia,Urban,Accountant,Shoulder,Automotive,29.75,Female,41,16
+5/23/22,Maryland,Rural,Supervisor/Manager,Leg,Automotive,348764.14,Male,45,8
+5/25/22,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,81.49,Female,26,2
+5/25/22,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,45.93,Female,26,3
+5/25/22,Indiana,Urban,Field Technician,Leg,Struck by Object,17.89,Male,42,1
+5/26/22,Ohio,Rural,Office Clerk,Back,Sprains/Strains,42916.62,Male,35,3
+5/26/22,Maryland,Urban,Office Clerk,Foot/Ankle,Cut/Lacerations,700.51,Female,29,10
+5/27/22,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,1.15,Female,30,9
+5/28/22,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,481850.35,Male,36,7
+5/29/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,93.14,Male,56,3
+6/1/22,Pennsylvania,Urban,Office Clerk,Arms,Sprains/Strains,8601.45,Female,51,17
+6/1/22,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,32.23,Male,45,13
+6/4/22,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,183785.52,Male,49,1
+6/4/22,Ohio,Rural,Inspector,Hand/Wrist,Slip/Trip/Fall,70.17,Male,40,7
+6/6/22,Maryland,Rural,Maintenance Worker,Hand/Wrist,Automotive,292845.22,Male,60,6
+6/6/22,West Virginia,Rural,Engineer,Leg,Struck by Object,97.94,Female,46,5
+6/6/22,Ohio,Rural,Maintenance Worker,Foot/Ankle,Slip/Trip/Fall,47.99,Female,40,6
+6/7/22,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,416194.74,Female,48,1
+6/7/22,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,347377.85,Female,23,4
+6/7/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,55.36,Male,30,10
+6/8/22,Ohio,Rural,Maintenance Worker,Knee,Cut/Lacerations,47.34,Female,38,8
+6/10/22,Maryland,Rural,Maintenance Worker,Back,Sprains/Strains,8.34,Male,57,2
+6/11/22,Ohio,Rural,Lineman,Leg,Struck by Object,279489.64,Female,65,10
+6/11/22,Pennsylvania,Rural,Inspector,Leg,Sprains/Strains,30018.55,Male,28,10
+6/11/22,Ohio,Urban,Lineman,Shoulder,Sprains/Strains,47.8,Male,41,8
+6/13/22,Ohio,Rural,Supervisor/Manager,Back,Slip/Trip/Fall,26.65,Female,56,6
+6/13/22,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,16.47,Female,42,10
+6/14/22,Ohio,Rural,Engineer,Multiple Body Parts,Slip/Trip/Fall,496840.63,Male,61,13
+6/14/22,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,155185.21,Female,25,5
+6/14/22,Maryland,Rural,Supervisor/Manager,Head,Automotive,103465.8,Female,58,11
+6/14/22,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,43.17,Female,53,3
+6/15/22,Ohio,Urban,Maintenance Worker,Arms,Cut/Lacerations,356456.01,Male,24,5
+6/16/22,Ohio,Urban,Engineer,Leg,Slip/Trip/Fall,256586.65,Male,22,3
+6/16/22,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,86.84,Female,47,4
+6/16/22,Indiana,Rural,Engineer,Foot/Ankle,Struck by Object,67.49,Male,62,8
+6/17/22,Ohio,Rural,Lineman,Leg,Struck by Object,392138.96,Female,30,8
+6/17/22,Indiana,Urban,Lineman,Shoulder,Sprains/Strains,30.59,Female,21,1
+6/17/22,West Virginia,Urban,Office Clerk,Knee,Sprains/Strains,21.98,Male,30,8
+6/19/22,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,64.48,Female,31,9
+6/20/22,Pennsylvania,Urban,Engineer,Head,Automotive,364416.25,Male,37,16
+6/21/22,West Virginia,Urban,Accountant,Multiple Body Parts,Sprains/Strains,83.61,Male,42,13
+6/22/22,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,47.31,Female,49,6
+6/23/22,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,38.54,Male,45,8
+6/23/22,West Virginia,Rural,Engineer,Multiple Body Parts,Sprains/Strains,31.23,Male,45,5
+6/24/22,Maryland,Urban,Inspector,Shoulder,Sprains/Strains,317100.03,Male,62,3
+6/24/22,Ohio,Rural,Inspector,Foot/Ankle,Sprains/Strains,222125.01,Female,60,6
+6/24/22,Indiana,Rural,Inspector,Head,Sprains/Strains,174109.76,Male,34,1
+6/24/22,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,82.21,Male,47,8
+6/25/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,439381.25,Male,35,5
+6/25/22,West Virginia,Rural,Field Technician,Foot/Ankle,Slip/Trip/Fall,89.11,Female,41,5
+6/27/22,Maryland,Rural,Engineer,Back,Slip/Trip/Fall,479997.26,Male,26,0
+6/27/22,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,1.84,Female,44,11
+6/28/22,Indiana,Urban,Maintenance Worker,Leg,Animal Bites,181766.1,Male,63,6
+6/28/22,Maryland,Rural,Office Clerk,Head,Slip/Trip/Fall,93.78,Male,53,4
+6/28/22,West Virginia,Urban,Accountant,Head,Cut/Lacerations,87.59,Male,51,28
+6/30/22,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,452428.54,Female,65,9
+6/30/22,Ohio,Rural,Lineman,Knee,Struck by Object,80.29,Female,48,3
+6/30/22,Ohio,Rural,Engineer,Head,Slip/Trip/Fall,39.64,Male,57,2
+7/1/22,Ohio,Rural,Engineer,Knee,Slip/Trip/Fall,73.42,Female,63,8
+7/1/22,Indiana,Urban,Accountant,Shoulder,Sprains/Strains,70.45,Male,51,2
+7/1/22,Maryland,Urban,Accountant,Knee,Cut/Lacerations,17.78,Male,47,10
+7/1/22,Indiana,Rural,Inspector,Leg,Automotive,16.31,Male,38,3
+7/2/22,West Virginia,Urban,Maintenance Worker,Knee,Cut/Lacerations,77.57,Female,51,7
+7/4/22,Ohio,Rural,Engineer,Arms,Cut/Lacerations,95.87,Male,62,3
+7/4/22,Ohio,Urban,Lineman,Back,Cut/Lacerations,81.37,Male,53,10
+7/5/22,Ohio,Urban,Inspector,Knee,Sprains/Strains,491051.03,Male,37,4
+7/5/22,Maryland,Rural,Field Technician,Leg,Automotive,287699.08,Female,42,3
+7/5/22,Pennsylvania,Rural,Inspector,Knee,Animal Bites,53364.01,Male,27,8
+7/5/22,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,56.62,Female,55,10
+7/6/22,Pennsylvania,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,165.1,Male,51,10
+9/23/21,Ohio,Urban,Administrative Staff,Hand/Wrist,Sprains/Strains,96.49,Male,36,16
+7/7/22,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,189976.17,Female,47,3
+7/7/22,West Virginia,Urban,Field Technician,Arms,Struck by Object,17.98,Male,51,10
+7/8/22,Ohio,Rural,Field Technician,Multiple Body Parts,Slip/Trip/Fall,69.98,Male,60,9
+7/8/22,West Virginia,Urban,Inspector,Knee,Automotive,68.75,Female,30,9
+7/9/22,Ohio,Rural,Inspector,Multiple Body Parts,Automotive,478387.55,Male,61,1
+7/9/22,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,96.3,Female,45,8
+7/11/22,Maryland,Rural,Maintenance Worker,Foot/Ankle,Automotive,78.71,Male,49,9
+6/28/24,Indiana,Urban,Administrative Staff,Back,Cut/Lacerations,95.29,Male,62,1
+7/12/22,Pennsylvania,Urban,Supervisor/Manager,Foot/Ankle,Automotive,262826.04,Female,31,6
+7/12/22,Maryland,Urban,Maintenance Worker,Shoulder,Slip/Trip/Fall,86.33,Male,57,3
+7/13/22,Ohio,Urban,Lineman,Foot/Ankle,Struck by Object,84.93,Female,43,12
+7/13/22,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,43.08,Female,40,4
+7/13/22,West Virginia,Rural,Engineer,Knee,Animal Bites,2.94,Male,64,5
+7/14/22,Indiana,Urban,Maintenance Worker,Shoulder,Sprains/Strains,145974.91,Female,52,15
+7/14/22,Pennsylvania,Urban,Maintenance Worker,Shoulder,Sprains/Strains,118527.37,Female,41,15
+7/14/22,Pennsylvania,Urban,Inspector,Shoulder,Sprains/Strains,88.65,Male,60,5
+7/14/22,Pennsylvania,Urban,Inspector,Shoulder,Sprains/Strains,84.56,Male,43,12
+7/14/22,Ohio,Rural,Maintenance Worker,Foot/Ankle,Sprains/Strains,16.72,Male,44,7
+7/15/22,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,74.01,Male,61,32
+7/19/22,Indiana,Rural,Engineer,Hand/Wrist,Struck by Object,70.41,Female,59,26
+7/19/22,Indiana,Urban,Office Clerk,Back,Slip/Trip/Fall,45.94,Male,27,9
+5/5/22,West Virginia,Urban,Administrative Staff,Knee,Sprains/Strains,93.89,Male,61,1
+7/19/22,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,7.2,Male,35,2
+7/19/22,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,2.44,Female,37,6
+1/14/21,Indiana,Rural,Administrative Staff,Shoulder,Sprains/Strains,91.82,Female,22,1
+7/22/22,Indiana,Rural,Inspector,Leg,Cut/Lacerations,333707.33,Male,39,20
+7/22/22,Maryland,Rural,Inspector,Hand/Wrist,Sprains/Strains,123257.76,Male,55,4
+7/22/22,West Virginia,Rural,Lineman,Foot/Ankle,Cut/Lacerations,62.29,Male,49,9
+7/22/22,West Virginia,Rural,Office Clerk,Shoulder,Struck by Object,25.4,Female,63,19
+7/25/22,West Virginia,Urban,Office Clerk,Shoulder,Sprains/Strains,778.24,Male,23,4
+1/9/24,Ohio,Urban,Administrative Staff,Knee,Automotive,88.87,Female,21,2
+7/26/22,Maryland,Urban,Accountant,Leg,Sprains/Strains,45.8,Male,65,6
+7/27/22,Ohio,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,40.65,Female,30,8
+7/27/22,Maryland,Rural,Maintenance Worker,Knee,Automotive,2.17,Female,53,13
+7/28/22,Pennsylvania,Rural,Engineer,Foot/Ankle,Struck by Object,138831.53,Female,27,3
+7/28/22,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,35.07,Female,44,10
+7/28/22,Ohio,Urban,Lineman,Multiple Body Parts,Sprains/Strains,12.26,Male,41,1
+7/29/22,Pennsylvania,Urban,Accountant,Hand/Wrist,Struck by Object,94.31,Male,23,2
+7/29/22,Pennsylvania,Rural,Field Technician,Leg,Struck by Object,30.22,Female,28,8
+7/29/22,Maryland,Rural,Engineer,Leg,Automotive,11.43,Female,25,4
+7/30/22,West Virginia,Rural,Engineer,Arms,Animal Bites,60.32,Female,32,2
+8/1/22,Indiana,Urban,Accountant,Head,Cut/Lacerations,56.91,Male,51,10
+8/1/22,Pennsylvania,Rural,Inspector,Leg,Slip/Trip/Fall,8.84,Male,42,8
+8/3/22,Ohio,Rural,Engineer,Hand/Wrist,Automotive,361772.19,Male,50,17
+8/4/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,167300.98,Male,56,3
+8/4/22,Ohio,Rural,Engineer,Shoulder,Cut/Lacerations,84.18,Female,58,11
+8/4/22,Indiana,Rural,Maintenance Worker,Foot/Ankle,Sprains/Strains,11.46,Female,24,5
+9/13/21,West Virginia,Rural,Administrative Staff,Shoulder,Slip/Trip/Fall,88.49,Male,23,2
+8/6/22,West Virginia,Rural,Office Clerk,Leg,Struck by Object,51.95,Male,58,14
+8/6/22,Ohio,Rural,Maintenance Worker,Leg,Animal Bites,37.04,Male,64,11
+8/8/22,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,450093.17,Male,38,10
+8/8/22,Ohio,Rural,Supervisor/Manager,Foot/Ankle,Cut/Lacerations,320559.4,Female,56,19
+8/10/22,Indiana,Rural,Field Technician,Multiple Body Parts,Sprains/Strains,278097.35,Male,42,11
+8/10/22,Indiana,Rural,Maintenance Worker,Multiple Body Parts,Automotive,41,Female,43,1
+8/11/22,Pennsylvania,Rural,Field Technician,Multiple Body Parts,Slip/Trip/Fall,252256.74,Male,65,9
+8/11/22,Maryland,Rural,Engineer,Arms,Animal Bites,56.06,Male,36,10
+8/11/22,Pennsylvania,Urban,Lineman,Shoulder,Struck by Object,41.53,Male,37,3
+8/23/21,Maryland,Rural,Administrative Staff,Shoulder,Struck by Object,88.31,Male,32,6
+8/12/22,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,98791.98,Male,50,32
+8/12/22,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,9428.66,Male,48,1
+8/12/22,West Virginia,Rural,Field Technician,Multiple Body Parts,Struck by Object,78.26,Female,40,6
+8/12/22,Ohio,Urban,Accountant,Knee,Slip/Trip/Fall,77.19,Female,29,6
+8/13/22,Ohio,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,62.54,Male,62,20
+8/14/22,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,59.21,Female,42,16
+8/15/22,Maryland,Urban,Inspector,Knee,Sprains/Strains,446433.33,Male,29,9
+8/15/22,Ohio,Rural,Maintenance Worker,Hand/Wrist,Animal Bites,102.1,Female,57,2
+8/15/22,Pennsylvania,Urban,Supervisor/Manager,Shoulder,Struck by Object,75.49,Female,41,7
+8/15/22,West Virginia,Urban,Accountant,Head,Struck by Object,60.62,Male,50,10
+8/15/22,Indiana,Urban,Inspector,Knee,Animal Bites,34.84,Male,29,7
+8/16/22,Pennsylvania,Urban,Lineman,Shoulder,Sprains/Strains,88.6,Male,54,1
+8/17/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,140053.49,Female,42,6
+8/17/22,Ohio,Rural,Office Clerk,Foot/Ankle,Struck by Object,3890.41,Female,32,14
+8/17/22,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,97.13,Male,55,1
+8/17/22,Pennsylvania,Urban,Maintenance Worker,Back,Slip/Trip/Fall,70.52,Male,53,9
+8/19/22,Indiana,Rural,Field Technician,Knee,Animal Bites,6167.72,Male,43,2
+8/20/22,Ohio,Rural,Supervisor/Manager,Multiple Body Parts,Automotive,120895.84,Male,45,6
+8/20/22,Indiana,Rural,Maintenance Worker,Hand/Wrist,Slip/Trip/Fall,2.11,Male,37,9
+8/21/22,Maryland,Rural,Office Clerk,Multiple Body Parts,Slip/Trip/Fall,75.1,Male,31,7
+8/22/22,Indiana,Rural,Engineer,Hand/Wrist,Slip/Trip/Fall,98.65,Male,27,1
+8/22/22,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,83.94,Male,46,3
+4/30/21,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,86.65,Female,36,9
+8/22/22,West Virginia,Rural,Maintenance Worker,Knee,Slip/Trip/Fall,43.08,Male,29,3
+8/23/22,West Virginia,Rural,Maintenance Worker,Foot/Ankle,Slip/Trip/Fall,48.6,Female,53,10
+8/24/22,West Virginia,Rural,Supervisor/Manager,Knee,Sprains/Strains,365317.47,Male,51,30
+8/24/22,Maryland,Rural,Field Technician,Shoulder,Sprains/Strains,97.61,Female,53,6
+8/24/22,Ohio,Urban,Supervisor/Manager,Foot/Ankle,Animal Bites,53.21,Male,40,11
+8/25/22,Indiana,Urban,Inspector,Multiple Body Parts,Automotive,469303.38,Female,37,4
+8/26/22,Indiana,Rural,Lineman,Leg,Cut/Lacerations,265372.13,Female,51,7
+8/26/22,Maryland,Rural,Field Technician,Shoulder,Cut/Lacerations,188670.95,Female,36,1
+8/26/22,Ohio,Urban,Supervisor/Manager,Foot/Ankle,Automotive,52028,Male,53,10
+8/26/22,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,98.13,Male,65,1
+8/27/22,Indiana,Urban,Maintenance Worker,Shoulder,Sprains/Strains,358227.47,Male,55,29
+8/27/22,West Virginia,Urban,Engineer,Shoulder,Sprains/Strains,232180.55,Female,58,9
+8/27/22,Indiana,Rural,Engineer,Back,Sprains/Strains,83.42,Male,28,4
+8/30/22,Ohio,Urban,Maintenance Worker,Leg,Sprains/Strains,21.14,Male,50,1
+8/31/22,West Virginia,Rural,Inspector,Multiple Body Parts,Animal Bites,60666.76,Male,27,7
+8/31/22,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,8.43,Male,41,4
+9/1/22,West Virginia,Rural,Inspector,Knee,Slip/Trip/Fall,134866.06,Male,22,1
+9/1/22,Maryland,Rural,Inspector,Arms,Struck by Object,95.85,Female,36,6
+9/2/22,Maryland,Rural,Engineer,Foot/Ankle,Struck by Object,29.72,Male,53,6
+9/3/22,Pennsylvania,Rural,Inspector,Foot/Ankle,Animal Bites,749.06,Male,63,10
+9/3/22,Indiana,Rural,Maintenance Worker,Leg,Automotive,20.17,Female,49,1
+9/4/22,West Virginia,Rural,Engineer,Arms,Slip/Trip/Fall,304245.68,Male,25,4
+9/5/22,Ohio,Rural,Inspector,Multiple Body Parts,Automotive,495465.87,Female,23,3
+9/5/22,Maryland,Rural,Inspector,Shoulder,Struck by Object,381025.45,Male,24,1
+9/5/22,Maryland,Rural,Supervisor/Manager,Head,Struck by Object,54.79,Male,27,6
+9/6/22,West Virginia,Urban,Inspector,Shoulder,Sprains/Strains,64.7,Male,46,19
+9/7/22,Maryland,Rural,Office Clerk,Shoulder,Sprains/Strains,8977.46,Male,36,10
+9/7/22,Ohio,Rural,Inspector,Hand/Wrist,Slip/Trip/Fall,69.81,Female,49,1
+9/7/22,Ohio,Urban,Office Clerk,Shoulder,Sprains/Strains,57.86,Female,43,3
+9/8/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,359663.91,Female,21,3
+9/10/22,Maryland,Rural,Lineman,Knee,Animal Bites,60805.73,Male,33,7
+9/10/22,Maryland,Rural,Inspector,Arms,Struck by Object,24152.9,Male,64,1
+9/10/22,Pennsylvania,Rural,Office Clerk,Shoulder,Sprains/Strains,16.26,Female,42,16
+9/12/22,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,53.02,Male,44,17
+9/12/22,Indiana,Urban,Inspector,Hand/Wrist,Automotive,38.05,Female,41,9
+9/12/22,Indiana,Urban,Lineman,Shoulder,Sprains/Strains,35.79,Male,41,1
+9/13/22,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,97.1,Male,33,15
+9/14/22,Maryland,Rural,Maintenance Worker,Foot/Ankle,Slip/Trip/Fall,212607.99,Male,62,13
+9/14/22,Maryland,Rural,Office Clerk,Leg,Automotive,30.55,Female,21,0
+9/14/22,Pennsylvania,Urban,Lineman,Arms,Struck by Object,23.94,Male,24,4
+9/15/22,West Virginia,Rural,Office Clerk,Foot/Ankle,Slip/Trip/Fall,9474.83,Female,38,14
+9/15/22,Maryland,Urban,Maintenance Worker,Arms,Cut/Lacerations,59.63,Female,59,5
+9/15/22,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,49.71,Male,46,13
+9/15/22,Ohio,Urban,Accountant,Shoulder,Cut/Lacerations,36.24,Male,36,4
+9/16/22,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,267073.35,Female,21,3
+9/16/22,Ohio,Rural,Field Technician,Arms,Cut/Lacerations,73.86,Female,25,3
+9/16/22,West Virginia,Urban,Accountant,Back,Sprains/Strains,56.51,Male,37,11
+9/16/22,West Virginia,Rural,Inspector,Multiple Body Parts,Animal Bites,20.24,Female,40,2
+9/17/22,Ohio,Rural,Inspector,Foot/Ankle,Sprains/Strains,189754.59,Male,23,4
+9/18/22,Maryland,Rural,Maintenance Worker,Foot/Ankle,Automotive,30.87,Male,62,6
+9/19/22,Ohio,Rural,Office Clerk,Arms,Sprains/Strains,895.29,Male,21,3
+9/19/22,Maryland,Rural,Field Technician,Hand/Wrist,Cut/Lacerations,82.17,Male,26,1
+9/19/22,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,58.19,Female,37,1
+9/21/22,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,388772.73,Male,47,7
+9/21/22,Ohio,Rural,Lineman,Hand/Wrist,Slip/Trip/Fall,82183.37,Male,50,3
+9/21/22,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,33445.3,Male,35,14
+9/21/22,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,25290.9,Male,45,1
+9/21/22,Indiana,Rural,Lineman,Back,Cut/Lacerations,39.8,Female,49,1
+5/20/22,Indiana,Urban,Administrative Staff,Back,Cut/Lacerations,86.38,Male,63,2
+9/21/22,Maryland,Rural,Lineman,Head,Cut/Lacerations,34.39,Male,63,10
+9/21/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,17.66,Female,34,2
+9/23/22,Ohio,Rural,Maintenance Worker,Hand/Wrist,Automotive,232688.5,Female,54,27
+9/23/22,Pennsylvania,Rural,Engineer,Head,Slip/Trip/Fall,66.15,Female,56,7
+9/23/22,Indiana,Rural,Lineman,Multiple Body Parts,Automotive,20.6,Male,38,5
+9/23/22,Maryland,Urban,Engineer,Multiple Body Parts,Sprains/Strains,10.84,Male,21,1
+9/24/22,Ohio,Urban,Lineman,Shoulder,Sprains/Strains,348430.02,Male,22,1
+9/24/22,West Virginia,Urban,Accountant,Head,Slip/Trip/Fall,92.43,Female,36,1
+9/24/22,Ohio,Rural,Lineman,Leg,Struck by Object,70.52,Male,52,7
+9/24/22,West Virginia,Urban,Engineer,Arms,Animal Bites,63.89,Male,30,1
+9/24/22,Maryland,Rural,Engineer,Shoulder,Cut/Lacerations,56.68,Male,39,7
+9/24/22,Indiana,Rural,Inspector,Arms,Struck by Object,45.22,Female,33,5
+9/25/22,Ohio,Rural,Engineer,Back,Slip/Trip/Fall,380443.04,Female,49,1
+9/25/22,Pennsylvania,Urban,Accountant,Hand/Wrist,Cut/Lacerations,299.62,Male,25,3
+9/26/22,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,8938.5,Male,41,3
+9/26/22,Ohio,Urban,Engineer,Multiple Body Parts,Slip/Trip/Fall,1.88,Male,43,3
+9/27/22,Ohio,Rural,Office Clerk,Foot/Ankle,Automotive,4297.18,Female,36,5
+9/27/22,West Virginia,Urban,Field Technician,Hand/Wrist,Slip/Trip/Fall,29.31,Male,36,1
+9/27/22,Ohio,Rural,Lineman,Head,Sprains/Strains,18.63,Male,45,6
+9/27/22,Ohio,Rural,Lineman,Arms,Animal Bites,7.76,Male,45,8
+2/18/22,Maryland,Urban,Administrative Staff,Knee,Sprains/Strains,85.25,Male,52,7
+9/28/22,Maryland,Rural,Lineman,Head,Cut/Lacerations,347483.33,Male,26,3
+9/28/22,West Virginia,Urban,Engineer,Leg,Slip/Trip/Fall,57061.94,Male,28,6
+9/30/22,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,363182.88,Male,50,10
+9/30/22,Indiana,Rural,Inspector,Head,Automotive,1.61,Male,57,6
+10/1/22,Maryland,Urban,Office Clerk,Foot/Ankle,Cut/Lacerations,22.86,Female,25,0
+10/5/22,West Virginia,Rural,Field Technician,Arms,Struck by Object,89.68,Female,47,4
+10/6/22,West Virginia,Urban,Inspector,Leg,Animal Bites,15848.34,Male,23,5
+10/6/22,West Virginia,Rural,Inspector,Shoulder,Cut/Lacerations,65.87,Female,51,22
+10/6/22,Ohio,Rural,Engineer,Arms,Sprains/Strains,64.72,Female,38,7
+10/6/22,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,53.06,Male,52,28
+10/8/22,West Virginia,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,86.13,Female,32,8
+10/9/22,Ohio,Urban,Engineer,Shoulder,Sprains/Strains,75.89,Male,41,19
+10/10/22,West Virginia,Rural,Lineman,Foot/Ankle,Animal Bites,133.86,Male,64,3
+10/10/22,Ohio,Rural,Inspector,Arms,Animal Bites,6.33,Male,37,8
+10/11/22,Ohio,Urban,Supervisor/Manager,Hand/Wrist,Slip/Trip/Fall,31.22,Male,53,3
+10/12/22,Maryland,Urban,Inspector,Hand/Wrist,Slip/Trip/Fall,491526.78,Female,53,8
+10/12/22,Ohio,Rural,Inspector,Arms,Sprains/Strains,84.63,Male,41,22
+10/12/22,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,23.41,Male,47,6
+10/12/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,9.67,Male,50,5
+10/13/22,Ohio,Urban,Inspector,Foot/Ankle,Animal Bites,6290.34,Male,33,1
+10/13/22,West Virginia,Urban,Office Clerk,Foot/Ankle,Struck by Object,1.77,Male,50,1
+10/14/22,Ohio,Rural,Lineman,Knee,Animal Bites,7233.06,Female,46,9
+10/16/22,Indiana,Urban,Accountant,Shoulder,Sprains/Strains,2822.84,Female,54,13
+10/16/22,Ohio,Rural,Lineman,Knee,Slip/Trip/Fall,97.95,Male,21,1
+10/19/22,Maryland,Rural,Inspector,Head,Automotive,34560.9,Male,42,14
+10/19/22,Maryland,Rural,Inspector,Arms,Struck by Object,69.21,Female,61,1
+10/19/22,Ohio,Rural,Field Technician,Head,Slip/Trip/Fall,21.09,Male,51,2
+10/19/22,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,21.05,Male,21,0
+10/19/22,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,15.39,Male,55,3
+10/19/22,Ohio,Urban,Accountant,Leg,Slip/Trip/Fall,4.28,Female,34,4
+10/19/22,West Virginia,Rural,Field Technician,Hand/Wrist,Cut/Lacerations,3.68,Female,43,5
+10/20/22,Maryland,Rural,Engineer,Leg,Sprains/Strains,72.93,Male,54,9
+10/20/22,Maryland,Urban,Accountant,Knee,Sprains/Strains,65.41,Female,64,22
+6/13/23,Ohio,Rural,Administrative Staff,Foot/Ankle,Automotive,84.7,Male,28,2
+10/22/22,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,83.88,Male,51,8
+10/24/22,Indiana,Urban,Accountant,Shoulder,Sprains/Strains,25.9,Female,37,2
+10/24/22,Maryland,Rural,Maintenance Worker,Back,Slip/Trip/Fall,16.14,Male,28,6
+10/26/22,Ohio,Rural,Lineman,Back,Sprains/Strains,48.24,Female,50,4
+10/27/22,Indiana,Urban,Engineer,Shoulder,Sprains/Strains,121801.64,Male,50,7
+10/28/22,Ohio,Rural,Field Technician,Hand/Wrist,Struck by Object,30781.07,Male,44,4
+10/28/22,West Virginia,Urban,Lineman,Arms,Sprains/Strains,87.64,Male,41,4
+10/29/22,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,407352.21,Male,43,3
+10/29/22,Ohio,Rural,Field Technician,Leg,Cut/Lacerations,164484.79,Female,53,13
+10/29/22,West Virginia,Rural,Engineer,Multiple Body Parts,Cut/Lacerations,91.1,Male,55,5
+10/31/22,West Virginia,Rural,Field Technician,Leg,Struck by Object,448575.87,Male,31,9
+10/31/22,Indiana,Urban,Inspector,Multiple Body Parts,Animal Bites,29.99,Male,37,19
+11/1/22,Maryland,Rural,Engineer,Shoulder,Automotive,4.98,Male,41,16
+11/2/22,Maryland,Urban,Inspector,Hand/Wrist,Struck by Object,371257.17,Male,53,20
+11/2/22,Pennsylvania,Rural,Field Technician,Back,Slip/Trip/Fall,337870.74,Male,36,10
+11/2/22,Ohio,Rural,Inspector,Leg,Animal Bites,824.88,Male,55,7
+11/3/22,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,25.52,Female,30,5
+11/4/22,Ohio,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,40983.63,Female,36,4
+11/5/22,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,261406.23,Female,26,1
+11/5/22,Indiana,Urban,Engineer,Shoulder,Sprains/Strains,66.86,Male,59,3
+11/5/22,Indiana,Rural,Engineer,Leg,Slip/Trip/Fall,18.59,Female,40,2
+11/6/22,Maryland,Rural,Maintenance Worker,Leg,Automotive,27.12,Male,23,5
+5/4/22,Indiana,Urban,Administrative Staff,Back,Sprains/Strains,84.09,Male,44,24
+11/8/22,Maryland,Rural,Lineman,Multiple Body Parts,Sprains/Strains,79.88,Female,46,18
+11/9/22,West Virginia,Urban,Office Clerk,Head,Struck by Object,68790.02,Male,50,31
+11/9/22,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,6.75,Female,37,18
+11/10/22,Ohio,Rural,Field Technician,Knee,Struck by Object,276516.42,Male,58,10
+3/1/21,Indiana,Urban,Administrative Staff,Foot/Ankle,Sprains/Strains,83.67,Male,25,2
+11/11/22,Ohio,Urban,Accountant,Hand/Wrist,Sprains/Strains,380.98,Male,62,33
+11/14/22,Ohio,Urban,Engineer,Shoulder,Struck by Object,80.63,Female,39,2
+11/14/22,Maryland,Rural,Lineman,Multiple Body Parts,Sprains/Strains,65.86,Male,44,1
+11/15/22,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,25.48,Female,39,3
+11/16/22,Ohio,Rural,Field Technician,Back,Sprains/Strains,492799.21,Male,43,9
+11/16/22,Ohio,Rural,Inspector,Head,Slip/Trip/Fall,60.09,Male,60,5
+11/17/22,Pennsylvania,Rural,Maintenance Worker,Shoulder,Sprains/Strains,409336.37,Male,38,2
+11/17/22,Maryland,Rural,Engineer,Multiple Body Parts,Struck by Object,237741.14,Male,39,0
+11/17/22,West Virginia,Rural,Inspector,Leg,Struck by Object,94.37,Male,23,2
+11/7/22,Indiana,Rural,Administrative Staff,Head,Automotive,83.39,Female,29,6
+12/2/21,Indiana,Urban,Administrative Staff,Arms,Automotive,82.93,Female,28,9
+11/18/22,Indiana,Rural,Maintenance Worker,Foot/Ankle,Struck by Object,69.92,Male,51,19
+11/19/22,West Virginia,Rural,Engineer,Knee,Struck by Object,376660.43,Male,54,6
+11/19/22,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,46.4,Female,44,4
+11/21/22,West Virginia,Urban,Field Technician,Arms,Animal Bites,93.16,Male,60,1
+11/22/22,West Virginia,Urban,Office Clerk,Shoulder,Sprains/Strains,84.31,Male,40,6
+11/22/22,Indiana,Urban,Accountant,Shoulder,Sprains/Strains,51.38,Female,43,19
+11/22/22,Ohio,Rural,Lineman,Arms,Struck by Object,22.86,Male,60,8
+11/23/22,Ohio,Rural,Inspector,Back,Struck by Object,11.46,Male,37,7
+11/23/22,Indiana,Urban,Inspector,Leg,Slip/Trip/Fall,2.52,Female,58,37
+11/24/22,Ohio,Rural,Inspector,Multiple Body Parts,Struck by Object,154007.77,Female,22,1
+11/24/22,Ohio,Rural,Field Technician,Arms,Automotive,78135.69,Female,35,17
+11/24/22,Ohio,Urban,Lineman,Arms,Struck by Object,88.03,Female,57,26
+11/25/22,Indiana,Urban,Accountant,Leg,Slip/Trip/Fall,809.91,Female,31,9
+11/26/22,Indiana,Rural,Maintenance Worker,Head,Slip/Trip/Fall,77.53,Female,30,6
+11/28/22,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,93.72,Male,25,0
+11/28/22,Indiana,Urban,Engineer,Multiple Body Parts,Slip/Trip/Fall,19.99,Male,59,7
+11/29/22,Maryland,Rural,Engineer,Head,Sprains/Strains,102859.22,Female,63,10
+11/29/22,Pennsylvania,Rural,Engineer,Head,Cut/Lacerations,37.66,Female,46,3
+11/30/22,Ohio,Urban,Field Technician,Shoulder,Sprains/Strains,411682.18,Male,56,20
+11/30/22,Ohio,Rural,Inspector,Knee,Slip/Trip/Fall,81.87,Male,36,9
+11/30/22,West Virginia,Urban,Lineman,Leg,Sprains/Strains,68.33,Male,42,10
+12/1/22,West Virginia,Rural,Engineer,Arms,Sprains/Strains,305701.08,Male,53,2
+12/1/22,Ohio,Rural,Inspector,Shoulder,Cut/Lacerations,83.04,Male,41,5
+12/2/22,Ohio,Urban,Supervisor/Manager,Knee,Cut/Lacerations,80.32,Male,56,8
+12/2/22,Indiana,Rural,Engineer,Shoulder,Cut/Lacerations,51.75,Male,38,15
+12/3/22,Maryland,Rural,Engineer,Back,Struck by Object,53.83,Male,30,12
+12/4/22,West Virginia,Rural,Field Technician,Foot/Ankle,Struck by Object,379206.23,Female,63,9
+12/5/22,West Virginia,Rural,Maintenance Worker,Foot/Ankle,Sprains/Strains,77.38,Male,32,5
+12/5/22,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,61.98,Male,27,7
+12/5/22,West Virginia,Urban,Accountant,Leg,Struck by Object,61.43,Male,31,2
+12/6/22,Ohio,Rural,Supervisor/Manager,Back,Cut/Lacerations,219414.2,Female,55,9
+12/7/22,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,257606.34,Male,24,4
+12/7/22,Ohio,Rural,Inspector,Head,Cut/Lacerations,14489.64,Male,58,3
+12/7/22,Pennsylvania,Urban,Accountant,Multiple Body Parts,Automotive,58.32,Male,55,1
+12/10/22,Indiana,Urban,Accountant,Hand/Wrist,Struck by Object,2.06,Female,47,8
+12/11/22,Maryland,Urban,Lineman,Arms,Struck by Object,53.2,Female,57,9
+12/12/22,Pennsylvania,Rural,Lineman,Hand/Wrist,Animal Bites,98.74,Male,26,1
+12/13/22,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,250693.29,Male,27,6
+12/13/22,Pennsylvania,Rural,Office Clerk,Shoulder,Sprains/Strains,76.36,Male,25,7
+12/15/22,Ohio,Rural,Maintenance Worker,Knee,Cut/Lacerations,473235.64,Male,31,9
+12/15/22,Pennsylvania,Rural,Field Technician,Leg,Struck by Object,49.41,Male,36,2
+12/16/22,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,340377.04,Female,21,1
+12/16/22,Ohio,Urban,Field Technician,Hand/Wrist,Slip/Trip/Fall,299004.45,Female,27,1
+12/16/22,Ohio,Rural,Maintenance Worker,Knee,Struck by Object,29.71,Male,64,27
+12/17/22,Maryland,Rural,Inspector,Arms,Animal Bites,93.79,Male,49,5
+12/18/22,Ohio,Urban,Accountant,Knee,Slip/Trip/Fall,5223.02,Male,56,10
+12/19/22,Indiana,Rural,Engineer,Hand/Wrist,Sprains/Strains,221872.05,Male,60,12
+12/19/22,Ohio,Rural,Maintenance Worker,Arms,Automotive,52.71,Male,48,3
+12/19/22,Ohio,Rural,Office Clerk,Leg,Slip/Trip/Fall,35.55,Male,46,26
+12/21/22,Pennsylvania,Rural,Lineman,Hand/Wrist,Slip/Trip/Fall,330400.52,Male,49,4
+12/22/22,Maryland,Urban,Maintenance Worker,Foot/Ankle,Animal Bites,1319.28,Male,49,14
+12/22/22,Indiana,Urban,Field Technician,Shoulder,Cut/Lacerations,57.93,Female,22,2
+12/22/22,Maryland,Rural,Office Clerk,Hand/Wrist,Slip/Trip/Fall,21.17,Female,48,11
+12/23/22,Pennsylvania,Rural,Field Technician,Leg,Sprains/Strains,88.73,Female,61,10
+12/25/22,Ohio,Rural,Inspector,Leg,Cut/Lacerations,89.9,Female,60,9
+12/25/22,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,75.81,Female,38,18
+12/26/22,Indiana,Urban,Office Clerk,Foot/Ankle,Cut/Lacerations,85.21,Female,55,10
+12/26/22,Maryland,Rural,Field Technician,Back,Cut/Lacerations,56.07,Female,29,0
+12/27/22,West Virginia,Rural,Supervisor/Manager,Multiple Body Parts,Struck by Object,7126.08,Female,31,9
+12/28/22,Indiana,Rural,Field Technician,Multiple Body Parts,Slip/Trip/Fall,359410.56,Male,29,8
+12/29/22,West Virginia,Rural,Lineman,Hand/Wrist,Automotive,11.47,Male,61,3
+12/30/22,Maryland,Rural,Engineer,Leg,Sprains/Strains,188572.68,Female,21,3
+12/30/22,Maryland,Urban,Maintenance Worker,Shoulder,Sprains/Strains,154725.76,Male,39,15
+12/30/22,Maryland,Rural,Field Technician,Leg,Slip/Trip/Fall,63.7,Female,53,7
+12/31/22,Ohio,Rural,Lineman,Foot/Ankle,Sprains/Strains,104850.97,Female,53,20
+1/2/23,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,67482.15,Female,64,1
+1/2/23,Maryland,Rural,Lineman,Leg,Slip/Trip/Fall,32658.3,Male,41,9
+1/2/23,Maryland,Urban,Maintenance Worker,Shoulder,Sprains/Strains,26.75,Female,43,2
+1/2/23,West Virginia,Urban,Office Clerk,Back,Struck by Object,26.11,Male,33,3
+1/3/23,Indiana,Rural,Engineer,Shoulder,Sprains/Strains,45.18,Male,57,10
+1/4/23,West Virginia,Urban,Accountant,Knee,Cut/Lacerations,393,Female,57,8
+1/4/23,Ohio,Rural,Engineer,Foot/Ankle,Animal Bites,84.61,Female,36,10
+1/5/23,Indiana,Rural,Supervisor/Manager,Knee,Sprains/Strains,51.54,Male,62,5
+1/5/23,Ohio,Rural,Field Technician,Back,Sprains/Strains,48.38,Female,39,4
+1/5/23,Ohio,Rural,Inspector,Multiple Body Parts,Cut/Lacerations,40.41,Male,42,12
+1/7/23,West Virginia,Rural,Lineman,Foot/Ankle,Automotive,95.33,Female,54,8
+1/7/23,Indiana,Rural,Engineer,Knee,Animal Bites,41.25,Female,34,2
+1/8/23,Ohio,Urban,Accountant,Leg,Slip/Trip/Fall,90716.85,Male,29,5
+1/9/23,Ohio,Urban,Accountant,Leg,Slip/Trip/Fall,43384.83,Male,23,4
+1/10/23,Indiana,Rural,Lineman,Multiple Body Parts,Automotive,490515.13,Male,62,1
+1/10/23,Ohio,Rural,Office Clerk,Arms,Sprains/Strains,84951.44,Female,45,12
+1/10/23,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,65.94,Male,38,10
+1/11/23,Ohio,Urban,Engineer,Back,Slip/Trip/Fall,85.47,Male,55,6
+1/11/23,Ohio,Rural,Lineman,Leg,Struck by Object,30.71,Female,55,9
+1/12/23,Indiana,Urban,Accountant,Shoulder,Sprains/Strains,45.33,Male,60,19
+1/12/23,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,24.33,Female,51,9
+1/13/23,Maryland,Urban,Maintenance Worker,Shoulder,Sprains/Strains,23.77,Male,45,9
+1/18/23,West Virginia,Rural,Field Technician,Foot/Ankle,Animal Bites,15.91,Male,42,9
+1/19/23,Maryland,Rural,Inspector,Hand/Wrist,Animal Bites,94394,Female,54,9
+1/19/23,Ohio,Rural,Office Clerk,Hand/Wrist,Automotive,88.91,Female,26,1
+1/19/23,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,88.33,Male,53,1
+1/19/23,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,63.42,Female,57,7
+1/19/23,Ohio,Urban,Field Technician,Hand/Wrist,Automotive,58.08,Male,32,7
+1/19/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,38.11,Male,65,7
+1/19/23,Ohio,Rural,Engineer,Multiple Body Parts,Automotive,20.3,Male,56,11
+1/19/23,Indiana,Urban,Maintenance Worker,Knee,Animal Bites,18.11,Female,45,20
+1/20/23,Maryland,Urban,Engineer,Foot/Ankle,Sprains/Strains,24036.02,Female,53,7
+1/20/23,Ohio,Rural,Maintenance Worker,Arms,Automotive,90.53,Female,58,9
+1/20/23,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,43.18,Female,36,17
+1/23/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,276859.11,Female,51,8
+1/25/23,Ohio,Urban,Accountant,Leg,Slip/Trip/Fall,5504.37,Male,52,13
+1/25/23,Ohio,Urban,Field Technician,Arms,Animal Bites,80.6,Male,34,16
+1/25/23,Ohio,Rural,Engineer,Foot/Ankle,Slip/Trip/Fall,49.58,Female,31,1
+1/27/23,Ohio,Rural,Inspector,Arms,Sprains/Strains,55.69,Male,34,4
+1/28/23,Ohio,Rural,Engineer,Foot/Ankle,Automotive,60.67,Male,27,7
+1/30/23,Maryland,Urban,Accountant,Foot/Ankle,Automotive,615.21,Male,28,5
+1/30/23,Indiana,Rural,Engineer,Leg,Cut/Lacerations,56.86,Male,57,39
+1/30/23,Ohio,Rural,Inspector,Foot/Ankle,Cut/Lacerations,21.15,Female,28,6
+2/1/23,Pennsylvania,Rural,Lineman,Shoulder,Sprains/Strains,30.56,Male,27,1
+2/2/23,Ohio,Rural,Maintenance Worker,Multiple Body Parts,Struck by Object,153812.01,Female,54,2
+2/2/23,Indiana,Rural,Field Technician,Multiple Body Parts,Sprains/Strains,97.08,Male,52,8
+2/2/23,Maryland,Rural,Maintenance Worker,Back,Automotive,80.17,Male,63,5
+2/2/23,Pennsylvania,Rural,Supervisor/Manager,Multiple Body Parts,Cut/Lacerations,54.08,Male,40,17
+2/2/23,Ohio,Rural,Maintenance Worker,Hand/Wrist,Cut/Lacerations,20.06,Male,45,16
+8/18/24,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,79.1,Male,53,18
+2/3/23,West Virginia,Rural,Engineer,Multiple Body Parts,Automotive,9.74,Male,41,3
+2/4/23,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,282573.82,Male,28,3
+2/4/23,Maryland,Rural,Field Technician,Shoulder,Sprains/Strains,24211.81,Female,62,4
+2/4/23,West Virginia,Rural,Maintenance Worker,Back,Struck by Object,57.4,Male,44,2
+2/4/23,Pennsylvania,Rural,Lineman,Knee,Animal Bites,50.23,Male,35,15
+2/4/23,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,20.22,Female,36,2
+2/5/23,Indiana,Urban,Engineer,Shoulder,Sprains/Strains,39.67,Male,56,9
+2/5/23,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,9.96,Male,22,1
+2/6/23,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,29.87,Male,21,3
+2/6/23,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,20.13,Male,48,10
+2/7/23,Ohio,Rural,Field Technician,Leg,Slip/Trip/Fall,34741.4,Female,40,10
+2/7/23,Ohio,Rural,Inspector,Arms,Sprains/Strains,5.91,Male,46,9
+2/8/23,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,348125.95,Male,48,10
+2/8/23,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,89.61,Male,38,7
+2/8/23,Ohio,Urban,Lineman,Hand/Wrist,Animal Bites,37.47,Female,50,17
+2/8/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,20.53,Female,37,8
+2/8/23,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,20.33,Male,22,4
+2/8/23,Ohio,Urban,Field Technician,Shoulder,Sprains/Strains,14.7,Male,41,19
+2/9/23,Maryland,Rural,Maintenance Worker,Shoulder,Cut/Lacerations,201783.37,Male,61,7
+2/9/23,Maryland,Rural,Maintenance Worker,Head,Struck by Object,26115.54,Male,47,2
+2/10/23,Indiana,Rural,Field Technician,Multiple Body Parts,Slip/Trip/Fall,205473.55,Female,24,3
+2/10/23,Ohio,Rural,Engineer,Knee,Sprains/Strains,95.96,Male,26,3
+2/13/23,West Virginia,Rural,Maintenance Worker,Leg,Cut/Lacerations,27.29,Female,46,8
+2/14/23,Indiana,Rural,Maintenance Worker,Leg,Slip/Trip/Fall,85.22,Male,54,15
+2/14/23,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,77.08,Female,56,16
+2/14/23,Maryland,Urban,Inspector,Shoulder,Sprains/Strains,61.74,Female,36,16
+2/14/23,Ohio,Rural,Field Technician,Arms,Struck by Object,49.91,Male,38,19
+2/15/23,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,77296.33,Male,49,9
+3/1/24,Ohio,Urban,Administrative Staff,Shoulder,Sprains/Strains,78.92,Male,58,14
+2/15/23,Indiana,Rural,Office Clerk,Foot/Ankle,Sprains/Strains,45.34,Male,24,1
+2/16/23,West Virginia,Urban,Office Clerk,Multiple Body Parts,Slip/Trip/Fall,1168.18,Male,54,8
+10/12/21,West Virginia,Urban,Administrative Staff,Shoulder,Sprains/Strains,77.81,Male,65,4
+2/16/23,Ohio,Rural,Lineman,Knee,Sprains/Strains,33.18,Female,29,5
+2/16/23,Maryland,Urban,Lineman,Shoulder,Struck by Object,10,Female,53,5
+2/17/23,Maryland,Urban,Lineman,Arms,Struck by Object,113482.46,Male,24,5
+2/17/23,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,97.99,Female,34,10
+2/17/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,43.52,Male,39,17
+2/17/23,Pennsylvania,Rural,Field Technician,Multiple Body Parts,Animal Bites,15.99,Male,42,6
+2/18/23,Maryland,Urban,Accountant,Hand/Wrist,Automotive,74.84,Female,62,2
+2/18/23,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,72.53,Female,40,5
+2/18/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,55.51,Female,36,8
+10/31/24,Ohio,Rural,Administrative Staff,Knee,Sprains/Strains,77.57,Male,60,1
+2/19/23,Ohio,Urban,Engineer,Foot/Ankle,Animal Bites,2807.58,Female,61,9
+3/21/22,Ohio,Urban,Administrative Staff,Foot/Ankle,Cut/Lacerations,77.48,Male,34,7
+2/20/23,West Virginia,Rural,Supervisor/Manager,Head,Cut/Lacerations,15.66,Female,62,1
+2/23/23,Ohio,Rural,Engineer,Head,Automotive,383943.86,Male,25,5
+2/23/23,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,233850.68,Female,33,7
+2/23/23,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,24409.06,Male,46,20
+2/23/23,West Virginia,Urban,Inspector,Hand/Wrist,Cut/Lacerations,77.24,Male,60,7
+2/23/23,Ohio,Urban,Maintenance Worker,Foot/Ankle,Animal Bites,22.12,Female,26,6
+2/24/23,Ohio,Urban,Engineer,Shoulder,Sprains/Strains,86.17,Female,34,16
+2/25/23,Pennsylvania,Urban,Engineer,Shoulder,Automotive,276601.5,Female,37,9
+2/25/23,Indiana,Urban,Field Technician,Multiple Body Parts,Struck by Object,165916.12,Male,50,10
+2/25/23,Ohio,Rural,Office Clerk,Leg,Slip/Trip/Fall,11.86,Male,24,5
+2/28/23,Ohio,Rural,Maintenance Worker,Multiple Body Parts,Animal Bites,37107.58,Female,42,5
+3/1/23,West Virginia,Rural,Inspector,Knee,Cut/Lacerations,221058.38,Male,39,17
+3/1/23,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,29016.75,Male,52,7
+3/1/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,49.96,Female,41,15
+3/2/23,Ohio,Rural,Inspector,Foot/Ankle,Animal Bites,98.71,Male,36,17
+3/2/23,Ohio,Urban,Inspector,Head,Slip/Trip/Fall,79.78,Female,48,5
+3/2/23,Maryland,Rural,Maintenance Worker,Arms,Automotive,61.47,Female,47,8
+3/2/23,Indiana,Rural,Maintenance Worker,Knee,Cut/Lacerations,39.61,Female,53,2
+3/2/23,Indiana,Rural,Maintenance Worker,Hand/Wrist,Animal Bites,22.22,Female,55,2
+5/18/23,Indiana,Urban,Administrative Staff,Arms,Struck by Object,77.15,Male,35,7
+3/3/23,Maryland,Urban,Field Technician,Hand/Wrist,Slip/Trip/Fall,119505.18,Male,53,9
+3/3/23,West Virginia,Rural,Supervisor/Manager,Knee,Cut/Lacerations,47.77,Male,33,5
+3/3/23,Indiana,Rural,Engineer,Knee,Animal Bites,11.62,Male,37,7
+3/4/23,Maryland,Rural,Inspector,Arms,Slip/Trip/Fall,86.48,Female,44,2
+3/6/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,490355.24,Male,60,3
+3/6/23,West Virginia,Rural,Inspector,Shoulder,Struck by Object,34.86,Female,59,11
+3/7/23,Ohio,Rural,Field Technician,Foot/Ankle,Animal Bites,38.67,Female,27,3
+1/22/21,Ohio,Urban,Administrative Staff,Shoulder,Sprains/Strains,74.09,Female,45,15
+3/8/23,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,325716.22,Female,43,5
+3/8/23,Ohio,Rural,Lineman,Multiple Body Parts,Automotive,165220.38,Male,42,9
+3/8/23,Ohio,Rural,Supervisor/Manager,Head,Struck by Object,146904.96,Female,36,17
+3/8/23,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,18.28,Male,64,2
+3/10/23,Ohio,Rural,Supervisor/Manager,Hand/Wrist,Animal Bites,77.09,Male,39,10
+3/11/23,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,492274.29,Male,62,18
+3/11/23,Ohio,Rural,Maintenance Worker,Hand/Wrist,Animal Bites,97.28,Male,56,3
+3/12/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,475640.45,Female,38,11
+3/15/23,Ohio,Rural,Engineer,Multiple Body Parts,Sprains/Strains,362193.12,Male,47,13
+3/15/23,Maryland,Rural,Inspector,Multiple Body Parts,Animal Bites,46.23,Male,56,1
+3/15/23,Ohio,Urban,Accountant,Hand/Wrist,Sprains/Strains,32.26,Male,25,3
+3/16/23,Pennsylvania,Urban,Field Technician,Back,Automotive,228330.61,Male,32,1
+3/16/23,Indiana,Urban,Field Technician,Arms,Sprains/Strains,98.15,Female,57,11
+3/17/23,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,83.84,Female,41,1
+3/18/23,Ohio,Rural,Engineer,Hand/Wrist,Animal Bites,44.45,Male,25,4
+3/20/23,Ohio,Urban,Accountant,Hand/Wrist,Sprains/Strains,84.87,Female,58,15
+3/20/23,Pennsylvania,Urban,Accountant,Shoulder,Sprains/Strains,75.49,Female,43,20
+3/21/23,Pennsylvania,Rural,Maintenance Worker,Leg,Sprains/Strains,42.07,Male,50,4
+3/21/23,Ohio,Rural,Office Clerk,Hand/Wrist,Struck by Object,7.75,Male,24,4
+3/22/23,West Virginia,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,94.34,Female,36,2
+3/22/23,Ohio,Urban,Maintenance Worker,Hand/Wrist,Struck by Object,81.45,Female,31,12
+3/22/23,Ohio,Urban,Maintenance Worker,Leg,Struck by Object,74.41,Male,56,7
+3/22/23,West Virginia,Rural,Field Technician,Head,Automotive,8.63,Male,46,3
+3/23/23,Maryland,Rural,Maintenance Worker,Foot/Ankle,Struck by Object,81802.22,Female,57,7
+3/23/23,Maryland,Rural,Office Clerk,Shoulder,Sprains/Strains,353.56,Female,57,20
+3/23/23,Indiana,Urban,Inspector,Knee,Sprains/Strains,44.57,Male,51,2
+3/23/23,Maryland,Urban,Field Technician,Leg,Animal Bites,39.93,Female,52,12
+3/24/23,Ohio,Rural,Engineer,Back,Automotive,293635.51,Female,52,11
+3/24/23,Maryland,Rural,Inspector,Leg,Animal Bites,4949.23,Female,61,20
+3/24/23,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,37.82,Male,25,4
+3/26/23,Ohio,Urban,Engineer,Multiple Body Parts,Sprains/Strains,52.49,Female,27,6
+3/27/23,Pennsylvania,Rural,Maintenance Worker,Shoulder,Sprains/Strains,98.04,Male,55,4
+3/27/23,Maryland,Rural,Lineman,Leg,Sprains/Strains,48.84,Female,23,4
+3/28/23,Pennsylvania,Rural,Lineman,Multiple Body Parts,Slip/Trip/Fall,424034.08,Male,35,4
+3/28/23,Indiana,Urban,Maintenance Worker,Arms,Struck by Object,52.6,Female,40,1
+3/29/23,Pennsylvania,Urban,Office Clerk,Head,Struck by Object,57,Female,48,1
+3/30/23,Ohio,Urban,Maintenance Worker,Back,Cut/Lacerations,255640.88,Male,36,8
+3/31/23,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,39.62,Female,32,5
+4/4/23,Pennsylvania,Urban,Inspector,Shoulder,Sprains/Strains,325244.9,Female,30,1
+4/4/23,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,61.03,Male,60,4
+4/4/23,Ohio,Rural,Field Technician,Leg,Slip/Trip/Fall,7.37,Male,25,7
+4/5/23,West Virginia,Urban,Accountant,Back,Automotive,12231.44,Male,50,10
+4/5/23,West Virginia,Urban,Supervisor/Manager,Head,Struck by Object,51.71,Male,26,4
+4/6/23,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,89.78,Female,22,0
+4/6/23,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,16.78,Male,53,1
+4/7/23,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,461738.27,Male,26,1
+4/7/23,West Virginia,Rural,Inspector,Head,Cut/Lacerations,10.53,Female,27,6
+4/8/23,Ohio,Urban,Engineer,Head,Automotive,71.43,Male,32,10
+4/8/23,West Virginia,Rural,Maintenance Worker,Knee,Automotive,32.74,Male,40,8
+4/9/23,Pennsylvania,Rural,Supervisor/Manager,Leg,Struck by Object,85500.78,Female,53,4
+10/21/21,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,73.4,Female,62,14
+4/10/23,Indiana,Rural,Inspector,Multiple Body Parts,Slip/Trip/Fall,6.33,Male,42,1
+4/11/23,Indiana,Urban,Maintenance Worker,Leg,Slip/Trip/Fall,56419.7,Male,37,10
+4/11/23,Pennsylvania,Rural,Lineman,Knee,Sprains/Strains,82.07,Female,49,4
+4/11/23,Maryland,Urban,Office Clerk,Hand/Wrist,Sprains/Strains,10.77,Male,34,5
+4/12/23,Pennsylvania,Urban,Engineer,Multiple Body Parts,Slip/Trip/Fall,64.36,Male,23,4
+4/12/23,Maryland,Urban,Field Technician,Arms,Slip/Trip/Fall,20.33,Male,41,9
+4/13/23,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,132703.29,Male,26,5
+4/13/23,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,89665.27,Male,34,9
+4/13/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,22.74,Female,31,3
+4/14/23,Indiana,Rural,Engineer,Shoulder,Sprains/Strains,125040.09,Male,52,9
+4/15/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,58.09,Female,62,4
+4/17/23,Pennsylvania,Rural,Inspector,Multiple Body Parts,Automotive,4.61,Female,36,4
+4/18/23,Ohio,Rural,Supervisor/Manager,Multiple Body Parts,Automotive,92.58,Female,40,11
+4/18/23,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,57.31,Male,43,1
+4/18/23,Ohio,Rural,Supervisor/Manager,Head,Automotive,52.3,Male,42,16
+4/19/23,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,329440.78,Male,33,5
+4/20/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,330.39,Male,36,4
+4/22/23,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,54.05,Female,41,7
+4/25/23,Ohio,Rural,Supervisor/Manager,Knee,Cut/Lacerations,129596.82,Male,48,23
+4/26/23,Ohio,Rural,Inspector,Multiple Body Parts,Slip/Trip/Fall,116189.34,Female,26,5
+4/26/23,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,87.49,Female,49,7
+4/26/23,West Virginia,Rural,Engineer,Leg,Animal Bites,41.39,Female,45,3
+4/27/23,Ohio,Rural,Supervisor/Manager,Arms,Animal Bites,33.29,Male,64,9
+4/27/23,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,28.16,Male,42,9
+4/27/23,Indiana,Rural,Field Technician,Back,Slip/Trip/Fall,27.33,Male,28,10
+4/28/23,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,57.22,Male,58,9
+4/28/23,Ohio,Rural,Lineman,Back,Automotive,31.49,Female,62,8
+4/29/23,Ohio,Rural,Engineer,Shoulder,Slip/Trip/Fall,222481.97,Female,37,7
+4/29/23,West Virginia,Urban,Supervisor/Manager,Shoulder,Slip/Trip/Fall,187295.57,Male,37,6
+4/30/23,Maryland,Rural,Field Technician,Hand/Wrist,Cut/Lacerations,491091.27,Male,28,8
+4/30/23,West Virginia,Urban,Engineer,Foot/Ankle,Animal Bites,58.93,Male,25,1
+4/30/23,Ohio,Rural,Engineer,Shoulder,Slip/Trip/Fall,27.41,Male,29,1
+5/1/23,Ohio,Rural,Office Clerk,Head,Sprains/Strains,99.46,Male,64,3
+5/1/23,Ohio,Rural,Maintenance Worker,Knee,Cut/Lacerations,59.02,Male,46,8
+5/1/23,Pennsylvania,Rural,Inspector,Knee,Animal Bites,13.51,Female,47,18
+5/2/23,Ohio,Urban,Field Technician,Leg,Slip/Trip/Fall,242680.55,Female,54,31
+5/2/23,West Virginia,Rural,Maintenance Worker,Hand/Wrist,Slip/Trip/Fall,62.16,Female,21,3
+5/3/23,Maryland,Rural,Lineman,Head,Cut/Lacerations,71.87,Male,36,3
+5/3/23,Pennsylvania,Rural,Maintenance Worker,Leg,Cut/Lacerations,31.99,Male,55,1
+5/3/23,Pennsylvania,Rural,Lineman,Knee,Animal Bites,7.33,Male,57,9
+5/4/23,Maryland,Rural,Maintenance Worker,Arms,Sprains/Strains,117976.25,Male,25,7
+5/4/23,Ohio,Rural,Maintenance Worker,Knee,Struck by Object,109372.68,Male,48,6
+5/4/23,Maryland,Rural,Office Clerk,Knee,Sprains/Strains,23.98,Male,28,5
+5/4/23,Ohio,Rural,Inspector,Back,Automotive,6.63,Female,33,3
+5/5/23,West Virginia,Rural,Field Technician,Head,Cut/Lacerations,75.55,Female,31,10
+5/5/23,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,62.59,Female,42,2
+5/9/23,Indiana,Rural,Field Technician,Leg,Sprains/Strains,123961.96,Female,52,5
+5/9/23,Ohio,Rural,Maintenance Worker,Hand/Wrist,Cut/Lacerations,61.38,Female,42,10
+5/10/23,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,99.3,Male,33,1
+5/10/23,Indiana,Urban,Engineer,Multiple Body Parts,Animal Bites,73.99,Female,21,1
+5/11/23,Indiana,Rural,Inspector,Back,Struck by Object,83275.25,Female,36,7
+5/11/23,Ohio,Urban,Lineman,Shoulder,Sprains/Strains,71.93,Male,56,5
+5/11/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,45.84,Female,32,10
+5/11/23,Ohio,Urban,Engineer,Shoulder,Sprains/Strains,19.18,Male,25,7
+5/11/23,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,16.61,Male,35,1
+5/11/23,Ohio,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,16.14,Male,21,2
+5/12/23,Maryland,Urban,Lineman,Shoulder,Sprains/Strains,66.78,Female,45,26
+5/15/23,Maryland,Rural,Field Technician,Shoulder,Automotive,6.15,Male,62,10
+5/15/23,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,3.78,Female,47,1
+5/16/23,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,24.58,Female,31,8
+5/17/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,436287.55,Male,52,5
+5/17/23,West Virginia,Rural,Field Technician,Hand/Wrist,Animal Bites,71.9,Male,48,8
+5/18/23,Maryland,Rural,Field Technician,Knee,Cut/Lacerations,181435.83,Male,52,4
+3/8/24,West Virginia,Urban,Administrative Staff,Leg,Struck by Object,72.81,Male,34,7
+5/19/23,West Virginia,Rural,Lineman,Back,Automotive,80.96,Male,40,6
+5/23/23,Indiana,Rural,Maintenance Worker,Multiple Body Parts,Automotive,474827.14,Female,52,9
+5/24/23,West Virginia,Rural,Maintenance Worker,Hand/Wrist,Sprains/Strains,29571.11,Female,41,5
+5/24/23,Pennsylvania,Urban,Office Clerk,Head,Automotive,81.64,Male,30,4
+10/2/24,Pennsylvania,Rural,Administrative Staff,Hand/Wrist,Sprains/Strains,71.23,Male,23,3
+5/25/23,Indiana,Urban,Lineman,Shoulder,Sprains/Strains,76.53,Male,57,18
+5/25/23,Maryland,Rural,Supervisor/Manager,Back,Sprains/Strains,24.31,Female,55,1
+5/26/23,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,127173.49,Female,58,3
+7/6/22,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,70.39,Male,48,2
+5/26/23,West Virginia,Rural,Inspector,Foot/Ankle,Slip/Trip/Fall,32.92,Female,38,9
+5/30/23,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,58.36,Male,49,2
+5/30/23,Indiana,Rural,Maintenance Worker,Multiple Body Parts,Automotive,50.7,Female,32,0
+5/31/23,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,452520.69,Male,30,3
+6/1/23,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,56932.05,Female,41,2
+6/1/23,Indiana,Urban,Office Clerk,Knee,Struck by Object,76.13,Female,61,5
+6/3/23,Indiana,Rural,Lineman,Foot/Ankle,Animal Bites,72.43,Female,39,17
+9/13/21,Indiana,Rural,Administrative Staff,Multiple Body Parts,Slip/Trip/Fall,70.18,Male,37,17
+6/7/23,Indiana,Rural,Inspector,Knee,Slip/Trip/Fall,167809.51,Female,65,20
+6/7/23,Pennsylvania,Rural,Lineman,Shoulder,Sprains/Strains,46175.48,Female,27,7
+6/7/23,Ohio,Rural,Field Technician,Foot/Ankle,Animal Bites,90.93,Male,32,6
+6/7/23,Ohio,Rural,Field Technician,Leg,Slip/Trip/Fall,20.08,Female,57,1
+6/7/23,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,18.38,Male,40,4
+6/8/23,Ohio,Rural,Field Technician,Head,Sprains/Strains,462277.47,Female,52,17
+6/8/23,Maryland,Rural,Inspector,Leg,Automotive,95204.05,Female,39,12
+12/20/21,Indiana,Rural,Administrative Staff,Shoulder,Sprains/Strains,68.88,Male,23,0
+6/8/23,Ohio,Rural,Field Technician,Shoulder,Slip/Trip/Fall,6.01,Female,34,8
+6/9/23,Pennsylvania,Urban,Lineman,Shoulder,Sprains/Strains,323071.4,Female,29,4
+6/9/23,Ohio,Rural,Inspector,Arms,Sprains/Strains,8.72,Male,50,9
+6/10/23,Pennsylvania,Rural,Field Technician,Head,Automotive,376092.56,Male,52,2
+6/10/23,Ohio,Urban,Field Technician,Hand/Wrist,Struck by Object,329671.39,Female,21,3
+6/11/23,Ohio,Rural,Inspector,Knee,Struck by Object,87.88,Male,38,9
+3/20/24,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,68.58,Female,24,2
+6/13/23,Ohio,Rural,Field Technician,Foot/Ankle,Slip/Trip/Fall,268147.14,Male,37,12
+8/22/22,Indiana,Urban,Administrative Staff,Knee,Automotive,67.85,Male,47,21
+6/13/23,Ohio,Urban,Administrative Staff,Multiple Body Parts,Cut/Lacerations,67.11,Male,42,2
+4/30/22,Ohio,Urban,Administrative Staff,Shoulder,Cut/Lacerations,64.69,Male,51,26
+6/13/23,Ohio,Rural,Engineer,Multiple Body Parts,Cut/Lacerations,34.16,Female,30,3
+2/22/24,Maryland,Urban,Administrative Staff,Arms,Struck by Object,64.06,Female,59,9
+11/1/21,Ohio,Rural,Administrative Staff,Head,Slip/Trip/Fall,62.58,Male,51,8
+6/17/23,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,130796.42,Male,32,4
+6/17/23,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,24.59,Female,44,4
+6/18/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,86421.8,Male,55,12
+6/19/23,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,96.78,Male,37,14
+6/20/23,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,37496.14,Female,50,1
+6/20/23,Indiana,Rural,Lineman,Foot/Ankle,Animal Bites,88.59,Male,26,4
+6/20/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,77.21,Male,38,9
+6/21/23,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,84.6,Male,53,7
+6/21/23,West Virginia,Rural,Maintenance Worker,Back,Struck by Object,19.85,Female,34,3
+6/21/23,Ohio,Rural,Maintenance Worker,Hand/Wrist,Slip/Trip/Fall,17.91,Male,50,12
+6/22/23,Ohio,Rural,Supervisor/Manager,Head,Sprains/Strains,291064.92,Female,27,8
+6/22/23,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,48526.33,Male,62,7
+6/22/23,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,95.68,Male,45,1
+6/22/23,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,25.4,Male,47,7
+6/23/23,Ohio,Urban,Accountant,Leg,Cut/Lacerations,15821.08,Male,56,8
+6/23/23,West Virginia,Rural,Lineman,Foot/Ankle,Sprains/Strains,86.46,Male,55,2
+6/24/23,Maryland,Rural,Engineer,Knee,Sprains/Strains,77.66,Male,46,7
+6/25/23,Maryland,Rural,Lineman,Foot/Ankle,Struck by Object,48711.19,Female,24,2
+3/25/21,Ohio,Rural,Administrative Staff,Knee,Automotive,60.4,Male,51,1
+6/26/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,96.69,Male,22,2
+6/26/23,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,76.1,Male,58,9
+6/27/23,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,437978.4,Male,41,20
+6/27/23,West Virginia,Rural,Lineman,Knee,Slip/Trip/Fall,94.58,Male,39,6
+6/27/23,Ohio,Urban,Engineer,Arms,Animal Bites,26.05,Male,35,7
+6/28/23,West Virginia,Rural,Engineer,Back,Cut/Lacerations,381681.54,Female,56,33
+6/28/23,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,57.31,Male,48,4
+6/29/23,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,86.53,Male,26,3
+6/29/23,West Virginia,Rural,Engineer,Knee,Slip/Trip/Fall,48.88,Male,64,14
+7/1/23,Indiana,Urban,Field Technician,Knee,Automotive,88.64,Male,23,1
+7/4/23,Maryland,Rural,Supervisor/Manager,Back,Struck by Object,60.42,Male,46,9
+7/5/23,Maryland,Rural,Lineman,Multiple Body Parts,Cut/Lacerations,407373.71,Male,55,3
+6/13/23,West Virginia,Rural,Administrative Staff,Shoulder,Sprains/Strains,60.27,Male,41,9
+7/5/23,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,11.59,Male,34,1
+7/6/23,Ohio,Rural,Maintenance Worker,Arms,Slip/Trip/Fall,366268.28,Female,46,1
+7/7/23,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,176965.68,Male,25,6
+7/7/23,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,60.22,Male,33,6
+7/10/23,West Virginia,Urban,Engineer,Shoulder,Sprains/Strains,355547.98,Male,58,37
+7/11/23,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,39.4,Male,27,9
+7/12/23,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,89.92,Female,24,0
+7/12/23,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,89.06,Male,47,10
+7/12/23,Maryland,Rural,Maintenance Worker,Back,Cut/Lacerations,70.01,Male,45,27
+3/30/22,West Virginia,Urban,Administrative Staff,Shoulder,Sprains/Strains,59.99,Male,51,7
+7/12/23,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,10.49,Male,23,1
+7/13/23,Maryland,Rural,Maintenance Worker,Leg,Struck by Object,73.11,Female,60,1
+7/13/23,Ohio,Urban,Engineer,Foot/Ankle,Animal Bites,18.36,Female,55,12
+5/24/23,Maryland,Urban,Administrative Staff,Knee,Sprains/Strains,59.99,Female,41,12
+7/14/23,Ohio,Urban,Field Technician,Foot/Ankle,Animal Bites,40325.76,Female,62,28
+7/14/23,Maryland,Rural,Office Clerk,Arms,Slip/Trip/Fall,35.86,Male,45,2
+7/15/23,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,28.34,Male,49,2
+7/15/23,Indiana,Urban,Accountant,Arms,Slip/Trip/Fall,4.71,Female,46,17
+7/16/23,Indiana,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,16.7,Male,31,3
+7/17/23,Indiana,Rural,Maintenance Worker,Head,Struck by Object,7952.39,Male,29,6
+7/17/23,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,38.58,Male,53,9
+7/17/23,Maryland,Urban,Engineer,Multiple Body Parts,Sprains/Strains,34.87,Male,25,7
+7/18/23,Ohio,Urban,Maintenance Worker,Hand/Wrist,Animal Bites,74.02,Male,36,8
+7/20/23,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,66418.96,Female,47,1
+7/21/23,Ohio,Rural,Office Clerk,Multiple Body Parts,Sprains/Strains,91.92,Male,36,7
+7/22/23,West Virginia,Urban,Maintenance Worker,Multiple Body Parts,Sprains/Strains,278701.33,Male,55,3
+7/22/23,Indiana,Rural,Maintenance Worker,Back,Cut/Lacerations,160405.55,Male,64,30
+7/25/23,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,420121.72,Male,28,8
+7/25/23,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,2061.84,Female,63,9
+7/25/23,Pennsylvania,Rural,Maintenance Worker,Multiple Body Parts,Animal Bites,9.22,Female,65,7
+7/26/23,Ohio,Urban,Supervisor/Manager,Leg,Cut/Lacerations,43583.8,Male,44,4
+7/26/23,West Virginia,Rural,Lineman,Foot/Ankle,Slip/Trip/Fall,54.79,Male,46,5
+7/27/23,Indiana,Urban,Field Technician,Hand/Wrist,Sprains/Strains,30.02,Male,51,10
+7/28/23,Pennsylvania,Rural,Maintenance Worker,Arms,Sprains/Strains,90748.51,Male,48,6
+7/28/23,Ohio,Rural,Field Technician,Arms,Animal Bites,74.62,Male,59,2
+7/28/23,Indiana,Rural,Lineman,Arms,Slip/Trip/Fall,53.51,Male,54,18
+7/28/23,Maryland,Urban,Accountant,Knee,Struck by Object,49.89,Male,48,10
+7/30/23,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,209988.23,Male,34,1
+8/1/23,Pennsylvania,Rural,Engineer,Leg,Slip/Trip/Fall,55.38,Male,55,9
+8/1/23,Maryland,Urban,Accountant,Hand/Wrist,Slip/Trip/Fall,15.45,Male,51,10
+8/1/23,Maryland,Rural,Inspector,Foot/Ankle,Sprains/Strains,11.65,Female,54,13
+8/1/23,Ohio,Rural,Lineman,Arms,Struck by Object,7.75,Male,49,9
+8/2/23,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,85.36,Female,46,2
+8/3/23,Ohio,Rural,Engineer,Knee,Sprains/Strains,74202.55,Female,42,7
+8/3/23,Ohio,Rural,Maintenance Worker,Multiple Body Parts,Struck by Object,61.68,Female,60,13
+8/3/23,Ohio,Rural,Field Technician,Knee,Struck by Object,52.33,Male,65,3
+8/3/23,Maryland,Rural,Lineman,Foot/Ankle,Slip/Trip/Fall,35.86,Male,52,10
+8/4/23,Indiana,Rural,Inspector,Back,Automotive,24.15,Male,33,9
+8/5/23,Ohio,Rural,Field Technician,Leg,Sprains/Strains,42.54,Male,55,3
+8/5/23,West Virginia,Urban,Inspector,Shoulder,Cut/Lacerations,23.42,Male,39,13
+8/6/23,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,50.04,Male,45,13
+8/6/23,Indiana,Urban,Office Clerk,Head,Cut/Lacerations,41.86,Male,61,8
+8/7/23,Ohio,Rural,Field Technician,Arms,Cut/Lacerations,42260.17,Female,53,8
+8/7/23,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,48.97,Female,45,3
+8/7/23,Ohio,Rural,Engineer,Hand/Wrist,Slip/Trip/Fall,42.88,Male,53,6
+8/10/23,Ohio,Rural,Supervisor/Manager,Head,Automotive,464457.14,Male,62,9
+8/10/23,Maryland,Urban,Supervisor/Manager,Hand/Wrist,Animal Bites,62501.9,Female,47,6
+8/10/23,Indiana,Rural,Office Clerk,Knee,Automotive,42.95,Female,46,4
+8/10/23,Indiana,Rural,Office Clerk,Hand/Wrist,Struck by Object,37.24,Female,45,2
+8/11/23,West Virginia,Rural,Engineer,Foot/Ankle,Struck by Object,245790.41,Female,42,9
+8/11/23,Ohio,Rural,Engineer,Hand/Wrist,Animal Bites,35.72,Male,36,1
+1/5/24,Pennsylvania,Rural,Administrative Staff,Back,Automotive,59.99,Female,65,4
+8/12/23,West Virginia,Rural,Engineer,Head,Slip/Trip/Fall,69.05,Male,36,15
+8/14/23,West Virginia,Urban,Field Technician,Arms,Struck by Object,331594.67,Female,40,1
+8/14/23,Ohio,Urban,Field Technician,Leg,Sprains/Strains,21.55,Male,44,2
+8/14/23,Ohio,Urban,Engineer,Shoulder,Sprains/Strains,4.87,Male,58,3
+8/15/23,Maryland,Rural,Office Clerk,Shoulder,Sprains/Strains,63.92,Male,33,3
+8/16/23,Ohio,Rural,Field Technician,Leg,Sprains/Strains,211933.23,Female,45,3
+8/16/23,Maryland,Rural,Maintenance Worker,Foot/Ankle,Automotive,39.51,Male,61,20
+8/16/23,Maryland,Urban,Field Technician,Multiple Body Parts,Automotive,19.26,Male,54,5
+8/17/23,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,243607.8,Male,22,2
+8/18/23,West Virginia,Rural,Field Technician,Leg,Sprains/Strains,462689.44,Female,45,17
+8/18/23,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,92.29,Male,64,9
+8/19/23,Pennsylvania,Urban,Maintenance Worker,Shoulder,Sprains/Strains,38151.58,Male,51,8
+8/20/23,West Virginia,Rural,Maintenance Worker,Shoulder,Slip/Trip/Fall,52070.88,Male,58,20
+8/20/23,Ohio,Rural,Maintenance Worker,Multiple Body Parts,Automotive,14859.26,Female,39,15
+8/20/23,West Virginia,Rural,Inspector,Knee,Struck by Object,36.84,Male,51,5
+8/21/23,Ohio,Urban,Engineer,Leg,Struck by Object,49226.93,Female,34,2
+8/21/23,Indiana,Urban,Accountant,Arms,Struck by Object,74.24,Female,64,2
+8/21/23,Ohio,Rural,Engineer,Shoulder,Slip/Trip/Fall,9.68,Female,52,1
+8/23/23,Indiana,Rural,Field Technician,Head,Cut/Lacerations,374419.59,Female,26,5
+5/24/21,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,59.75,Male,47,2
+8/24/23,Indiana,Rural,Engineer,Foot/Ankle,Sprains/Strains,28974.37,Male,29,2
+8/24/23,Indiana,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,99.51,Female,47,2
+8/24/23,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,70.45,Male,36,4
+8/25/23,Ohio,Rural,Inspector,Knee,Automotive,265863.32,Female,44,6
+8/25/23,Indiana,Urban,Engineer,Multiple Body Parts,Struck by Object,260462.6,Male,35,10
+8/25/23,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,89.01,Female,29,7
+8/25/23,Ohio,Rural,Engineer,Leg,Slip/Trip/Fall,22.64,Female,43,4
+8/26/23,Ohio,Rural,Maintenance Worker,Knee,Animal Bites,24.98,Male,64,5
+8/27/23,West Virginia,Urban,Lineman,Head,Struck by Object,48.06,Female,57,12
+8/29/23,Maryland,Rural,Maintenance Worker,Hand/Wrist,Slip/Trip/Fall,58.41,Male,60,8
+8/29/23,Maryland,Rural,Inspector,Multiple Body Parts,Sprains/Strains,26.2,Male,56,3
+3/1/22,Maryland,Rural,Administrative Staff,Multiple Body Parts,Slip/Trip/Fall,59.26,Male,40,8
+8/31/23,West Virginia,Rural,Engineer,Knee,Sprains/Strains,56.62,Female,57,35
+8/31/23,West Virginia,Rural,Engineer,Back,Struck by Object,5.59,Male,41,4
+9/1/23,West Virginia,Rural,Inspector,Knee,Cut/Lacerations,276429.61,Male,47,5
+9/1/23,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,70.24,Female,48,2
+9/1/23,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,22.12,Female,44,7
+9/4/23,Indiana,Rural,Inspector,Arms,Struck by Object,341374.75,Female,36,8
+9/4/23,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,159767.92,Male,50,2
+9/4/23,Indiana,Urban,Lineman,Foot/Ankle,Sprains/Strains,74.43,Female,40,10
+9/5/23,Indiana,Rural,Lineman,Arms,Struck by Object,100755.33,Male,44,14
+9/5/23,Pennsylvania,Rural,Office Clerk,Back,Slip/Trip/Fall,425.9,Female,58,6
+9/6/23,Ohio,Rural,Lineman,Arms,Cut/Lacerations,246098.8,Male,21,3
+9/6/23,Pennsylvania,Rural,Inspector,Multiple Body Parts,Sprains/Strains,40251.09,Female,40,12
+9/6/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,11.34,Male,29,2
+9/7/23,Ohio,Rural,Supervisor/Manager,Leg,Struck by Object,157631.25,Female,56,16
+9/7/23,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,23.59,Male,36,7
+9/8/23,Indiana,Rural,Engineer,Shoulder,Sprains/Strains,5.41,Male,63,9
+9/9/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,122441.33,Male,53,7
+9/11/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,88.83,Female,41,8
+9/11/23,West Virginia,Urban,Field Technician,Leg,Slip/Trip/Fall,37.7,Male,51,31
+9/12/23,Ohio,Urban,Maintenance Worker,Knee,Cut/Lacerations,315766.17,Male,58,3
+9/12/23,Ohio,Rural,Inspector,Arms,Animal Bites,40.42,Male,56,16
+9/12/23,Pennsylvania,Rural,Inspector,Multiple Body Parts,Cut/Lacerations,12.37,Female,55,2
+9/12/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,8.89,Female,54,11
+9/13/23,Maryland,Rural,Field Technician,Back,Cut/Lacerations,491294.86,Male,51,8
+9/13/23,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,419330.2,Female,24,4
+9/13/23,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,287117.08,Male,23,2
+9/13/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,243223.19,Male,59,4
+9/13/23,Pennsylvania,Rural,Inspector,Arms,Automotive,178624.04,Male,51,1
+9/13/23,West Virginia,Rural,Inspector,Foot/Ankle,Struck by Object,66.23,Male,41,5
+9/13/23,Ohio,Urban,Lineman,Head,Automotive,56.29,Male,38,10
+9/13/23,Pennsylvania,Urban,Lineman,Shoulder,Sprains/Strains,29.49,Male,35,15
+9/13/23,Ohio,Urban,Supervisor/Manager,Arms,Slip/Trip/Fall,18.24,Female,39,16
+9/14/23,Pennsylvania,Rural,Maintenance Worker,Shoulder,Sprains/Strains,384386.36,Male,63,18
+9/14/23,Ohio,Urban,Engineer,Foot/Ankle,Animal Bites,58.67,Male,47,9
+9/15/23,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,71.92,Male,53,5
+9/15/23,Ohio,Rural,Lineman,Knee,Animal Bites,38.45,Male,55,18
+9/15/23,Ohio,Urban,Accountant,Foot/Ankle,Sprains/Strains,3.74,Female,34,7
+9/16/23,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,81.06,Female,62,2
+9/18/23,West Virginia,Urban,Accountant,Multiple Body Parts,Slip/Trip/Fall,7545.48,Female,60,8
+9/18/23,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,91.49,Male,27,3
+9/18/23,Indiana,Rural,Inspector,Hand/Wrist,Sprains/Strains,57.91,Female,28,3
+9/18/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,41.57,Female,63,1
+9/19/23,Maryland,Urban,Accountant,Head,Sprains/Strains,9458.34,Female,27,1
+9/19/23,Maryland,Rural,Inspector,Multiple Body Parts,Cut/Lacerations,76.12,Female,64,17
+9/21/23,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,31.05,Male,53,8
+9/21/23,West Virginia,Rural,Inspector,Shoulder,Slip/Trip/Fall,21.24,Male,21,2
+9/22/23,Pennsylvania,Rural,Lineman,Hand/Wrist,Struck by Object,329224.98,Female,41,2
+9/22/23,Indiana,Rural,Field Technician,Head,Automotive,98881.12,Male,56,34
+9/22/23,Pennsylvania,Rural,Supervisor/Manager,Leg,Slip/Trip/Fall,76.82,Female,56,1
+9/23/23,Ohio,Rural,Maintenance Worker,Hand/Wrist,Automotive,65.05,Male,47,1
+9/25/23,Maryland,Rural,Office Clerk,Shoulder,Sprains/Strains,71193.24,Male,22,2
+9/26/23,Maryland,Rural,Engineer,Head,Automotive,404489.06,Male,32,7
+9/26/23,Maryland,Urban,Maintenance Worker,Hand/Wrist,Automotive,284830.83,Male,23,0
+9/26/23,Pennsylvania,Rural,Engineer,Hand/Wrist,Slip/Trip/Fall,270593.01,Female,31,5
+9/26/23,West Virginia,Rural,Field Technician,Foot/Ankle,Cut/Lacerations,76.51,Female,54,1
+8/30/23,Ohio,Urban,Administrative Staff,Shoulder,Slip/Trip/Fall,59.24,Female,29,9
+9/27/23,Ohio,Urban,Engineer,Multiple Body Parts,Animal Bites,34.81,Male,49,9
+9/27/23,West Virginia,Rural,Lineman,Knee,Cut/Lacerations,7.93,Male,65,4
+4/18/22,Ohio,Urban,Administrative Staff,Foot/Ankle,Struck by Object,58.07,Male,35,0
+9/28/23,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,74.89,Male,24,5
+9/28/23,Pennsylvania,Urban,Accountant,Shoulder,Slip/Trip/Fall,67.46,Male,24,6
+9/28/23,West Virginia,Rural,Lineman,Arms,Sprains/Strains,24.35,Female,38,7
+9/28/23,West Virginia,Rural,Lineman,Leg,Cut/Lacerations,2.28,Male,62,10
+9/29/23,Ohio,Rural,Maintenance Worker,Arms,Struck by Object,169910.32,Female,49,23
+9/29/23,Indiana,Urban,Field Technician,Shoulder,Struck by Object,25.81,Male,47,7
+10/1/23,Pennsylvania,Rural,Inspector,Knee,Sprains/Strains,94.1,Male,63,3
+10/1/23,West Virginia,Urban,Engineer,Multiple Body Parts,Struck by Object,36.5,Male,51,6
+7/5/23,Ohio,Urban,Administrative Staff,Shoulder,Sprains/Strains,57.98,Female,32,14
+10/3/23,Pennsylvania,Rural,Maintenance Worker,Shoulder,Sprains/Strains,40.34,Male,34,3
+10/4/23,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,236379.35,Female,50,5
+10/4/23,Indiana,Rural,Inspector,Knee,Cut/Lacerations,111736.65,Male,28,4
+10/4/23,Ohio,Rural,Office Clerk,Head,Automotive,73.62,Male,32,9
+10/4/23,Indiana,Urban,Office Clerk,Head,Sprains/Strains,71.91,Female,21,3
+10/4/23,Maryland,Rural,Lineman,Hand/Wrist,Animal Bites,3.85,Female,38,10
+10/5/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,506.98,Female,24,3
+10/5/23,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,82.61,Female,52,15
+10/5/23,West Virginia,Rural,Engineer,Shoulder,Cut/Lacerations,52.39,Female,45,4
+10/5/23,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,13.61,Female,30,9
+10/5/23,Ohio,Rural,Engineer,Arms,Animal Bites,3.25,Male,32,3
+10/5/23,Pennsylvania,Urban,Engineer,Hand/Wrist,Animal Bites,2.65,Male,48,2
+10/6/23,Maryland,Rural,Lineman,Hand/Wrist,Struck by Object,121929.07,Male,43,7
+10/7/23,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,88.43,Male,53,10
+10/7/23,Ohio,Rural,Maintenance Worker,Foot/Ankle,Automotive,70.84,Male,48,6
+10/10/23,West Virginia,Rural,Lineman,Multiple Body Parts,Cut/Lacerations,313261.16,Female,54,18
+5/28/21,Maryland,Urban,Administrative Staff,Foot/Ankle,Struck by Object,56.52,Male,47,5
+10/11/23,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,32.22,Female,54,6
+10/12/23,West Virginia,Rural,Supervisor/Manager,Back,Slip/Trip/Fall,137721.46,Male,56,3
+10/12/23,Ohio,Rural,Field Technician,Arms,Sprains/Strains,85.69,Female,61,30
+10/12/23,Indiana,Rural,Engineer,Multiple Body Parts,Cut/Lacerations,37.5,Female,26,7
+10/12/23,West Virginia,Urban,Maintenance Worker,Multiple Body Parts,Cut/Lacerations,4.1,Female,48,12
+10/13/23,Ohio,Rural,Office Clerk,Multiple Body Parts,Struck by Object,31898.16,Male,49,2
+10/13/23,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,76.52,Male,54,7
+10/14/23,West Virginia,Rural,Lineman,Shoulder,Slip/Trip/Fall,349384.86,Male,31,2
+10/18/23,Ohio,Rural,Maintenance Worker,Leg,Animal Bites,51183.06,Female,26,6
+10/18/23,Indiana,Rural,Supervisor/Manager,Head,Struck by Object,45.73,Female,26,7
+10/18/23,Ohio,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,24.98,Male,28,10
+10/19/23,Pennsylvania,Urban,Engineer,Hand/Wrist,Struck by Object,193287.1,Female,39,4
+10/19/23,West Virginia,Rural,Field Technician,Foot/Ankle,Cut/Lacerations,168455.65,Male,63,5
+10/19/23,Maryland,Rural,Engineer,Foot/Ankle,Automotive,90.15,Male,22,4
+10/21/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,88564.98,Female,52,8
+10/21/23,West Virginia,Rural,Lineman,Leg,Animal Bites,56.56,Male,40,20
+10/21/23,West Virginia,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,52.51,Female,42,3
+10/23/23,Maryland,Urban,Lineman,Shoulder,Automotive,98.73,Male,21,3
+10/23/23,Maryland,Rural,Inspector,Arms,Struck by Object,48.52,Male,21,3
+10/24/23,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,441948.66,Female,64,32
+2/25/22,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,55.26,Male,33,8
+10/24/23,Ohio,Rural,Lineman,Arms,Automotive,90.96,Male,56,3
+10/24/23,Maryland,Urban,Inspector,Arms,Automotive,42.16,Male,25,4
+10/25/23,Maryland,Rural,Inspector,Knee,Automotive,11521.74,Male,30,4
+10/25/23,Pennsylvania,Rural,Office Clerk,Shoulder,Sprains/Strains,19,Male,58,2
+10/26/23,Pennsylvania,Rural,Engineer,Shoulder,Sprains/Strains,42.89,Female,36,18
+10/28/23,Indiana,Urban,Accountant,Head,Slip/Trip/Fall,85.7,Female,32,11
+10/28/23,West Virginia,Urban,Office Clerk,Back,Struck by Object,81.79,Male,60,1
+10/31/23,Ohio,Rural,Inspector,Head,Sprains/Strains,66.91,Male,50,20
+11/1/23,Indiana,Rural,Maintenance Worker,Multiple Body Parts,Slip/Trip/Fall,441992.81,Female,59,1
+11/1/23,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,74.65,Male,48,8
+11/1/23,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,47.28,Male,31,3
+11/3/23,Pennsylvania,Urban,Maintenance Worker,Head,Struck by Object,50033.95,Male,51,17
+11/6/23,Ohio,Urban,Field Technician,Shoulder,Automotive,98.32,Female,48,10
+11/8/23,West Virginia,Urban,Supervisor/Manager,Leg,Sprains/Strains,213417.87,Female,63,9
+11/8/23,West Virginia,Rural,Maintenance Worker,Leg,Automotive,72943.37,Male,23,1
+11/9/23,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,74.67,Male,50,3
+11/9/23,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,63.03,Male,34,4
+11/10/23,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,411980.87,Female,49,2
+11/11/23,Indiana,Urban,Field Technician,Back,Slip/Trip/Fall,82.99,Female,47,28
+11/12/23,Maryland,Rural,Supervisor/Manager,Back,Slip/Trip/Fall,377812.64,Female,33,6
+11/13/23,Ohio,Rural,Office Clerk,Multiple Body Parts,Struck by Object,1862.43,Male,57,25
+11/13/23,Maryland,Urban,Accountant,Multiple Body Parts,Slip/Trip/Fall,80.96,Male,45,2
+11/14/23,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,214019.1,Female,42,6
+11/15/23,West Virginia,Rural,Maintenance Worker,Arms,Sprains/Strains,419824.31,Male,63,29
+11/17/23,Indiana,Urban,Inspector,Shoulder,Sprains/Strains,384049.36,Female,38,1
+11/17/23,Indiana,Rural,Lineman,Multiple Body Parts,Struck by Object,279720.12,Male,51,26
+11/17/23,West Virginia,Urban,Lineman,Shoulder,Sprains/Strains,17.28,Female,53,1
+11/18/23,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,7522.07,Female,48,15
+11/18/23,West Virginia,Urban,Supervisor/Manager,Arms,Sprains/Strains,52.49,Male,42,7
+11/19/23,Ohio,Rural,Maintenance Worker,Leg,Automotive,327658.17,Male,57,3
+11/19/23,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,324195.28,Female,27,7
+11/20/23,Ohio,Rural,Engineer,Leg,Automotive,96.86,Female,42,9
+11/20/23,Maryland,Rural,Field Technician,Knee,Animal Bites,71.08,Male,35,9
+11/20/23,Indiana,Rural,Field Technician,Leg,Automotive,37.72,Male,26,8
+11/20/23,West Virginia,Rural,Supervisor/Manager,Multiple Body Parts,Sprains/Strains,35.7,Female,28,6
+11/20/23,Indiana,Rural,Lineman,Foot/Ankle,Sprains/Strains,31.98,Male,34,5
+11/21/23,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,56.52,Male,42,18
+11/21/23,West Virginia,Urban,Engineer,Knee,Sprains/Strains,6.93,Female,44,22
+10/21/22,Pennsylvania,Rural,Administrative Staff,Shoulder,Struck by Object,53.26,Male,51,1
+11/22/23,Indiana,Urban,Office Clerk,Back,Cut/Lacerations,624.25,Female,62,15
+11/22/23,Pennsylvania,Rural,Engineer,Head,Cut/Lacerations,8.73,Male,23,1
+11/22/23,Ohio,Urban,Engineer,Leg,Automotive,2.12,Female,53,17
+11/23/23,Ohio,Rural,Inspector,Knee,Cut/Lacerations,498895.47,Male,43,21
+11/23/23,Maryland,Rural,Engineer,Arms,Automotive,80.85,Female,49,11
+11/24/23,Ohio,Urban,Accountant,Head,Automotive,46255.54,Female,45,10
+11/24/23,West Virginia,Rural,Supervisor/Manager,Foot/Ankle,Animal Bites,603.35,Male,63,8
+11/24/23,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,90.98,Male,59,9
+11/25/23,Indiana,Rural,Lineman,Multiple Body Parts,Slip/Trip/Fall,42.42,Female,36,2
+5/26/23,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,52.79,Female,47,6
+11/27/23,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,23052.12,Female,53,1
+11/27/23,Maryland,Rural,Maintenance Worker,Back,Automotive,43.41,Male,40,17
+11/27/23,West Virginia,Rural,Office Clerk,Foot/Ankle,Automotive,42.32,Male,40,2
+11/27/23,Maryland,Rural,Inspector,Back,Sprains/Strains,38.86,Male,23,5
+3/3/21,Maryland,Urban,Administrative Staff,Head,Sprains/Strains,52.57,Male,56,5
+11/28/23,Indiana,Rural,Maintenance Worker,Head,Struck by Object,35.23,Female,47,7
+11/29/23,Pennsylvania,Urban,Field Technician,Hand/Wrist,Animal Bites,78.4,Male,47,6
+11/29/23,Ohio,Rural,Supervisor/Manager,Head,Automotive,74.31,Female,62,8
+1/5/21,Pennsylvania,Rural,Administrative Staff,Knee,Slip/Trip/Fall,51.23,Male,48,9
+11/30/23,Maryland,Rural,Office Clerk,Multiple Body Parts,Sprains/Strains,72.31,Female,57,8
+11/30/23,Ohio,Rural,Supervisor/Manager,Arms,Automotive,4.26,Female,53,5
+12/1/23,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,454656.69,Male,52,4
+12/1/23,Pennsylvania,Rural,Office Clerk,Knee,Sprains/Strains,94.59,Male,36,9
+7/12/23,Pennsylvania,Urban,Administrative Staff,Leg,Sprains/Strains,51.06,Female,28,5
+12/2/23,Ohio,Urban,Engineer,Knee,Slip/Trip/Fall,69.17,Female,52,6
+12/4/23,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,82.85,Female,22,1
+12/4/23,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,69.48,Male,50,20
+12/4/23,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,20.73,Male,33,15
+12/5/23,Pennsylvania,Urban,Office Clerk,Multiple Body Parts,Sprains/Strains,63.45,Male,52,7
+12/5/23,Ohio,Rural,Inspector,Arms,Slip/Trip/Fall,20.61,Male,42,6
+12/6/23,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,436245.42,Female,58,1
+12/6/23,Ohio,Rural,Inspector,Knee,Cut/Lacerations,299143.85,Male,43,3
+12/6/23,Ohio,Rural,Office Clerk,Foot/Ankle,Slip/Trip/Fall,688.05,Male,54,6
+12/6/23,Indiana,Urban,Inspector,Shoulder,Sprains/Strains,34.18,Female,25,7
+12/7/23,Indiana,Urban,Accountant,Knee,Automotive,269.77,Female,28,0
+12/7/23,West Virginia,Rural,Maintenance Worker,Hand/Wrist,Automotive,90.2,Male,46,4
+12/8/23,Ohio,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,79.46,Male,47,3
+12/8/23,West Virginia,Rural,Inspector,Back,Automotive,63.14,Male,41,7
+12/9/23,West Virginia,Urban,Field Technician,Multiple Body Parts,Sprains/Strains,159201.33,Male,32,10
+12/12/23,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,57.57,Male,50,7
+12/13/23,Maryland,Rural,Field Technician,Knee,Struck by Object,455824.13,Female,61,1
+12/13/23,Ohio,Rural,Lineman,Multiple Body Parts,Animal Bites,512.78,Female,48,8
+12/13/23,Indiana,Rural,Engineer,Shoulder,Sprains/Strains,68.33,Male,34,1
+12/13/23,Maryland,Rural,Maintenance Worker,Multiple Body Parts,Automotive,66.73,Female,50,4
+12/13/23,Ohio,Urban,Supervisor/Manager,Multiple Body Parts,Automotive,5.33,Female,37,5
+12/14/23,Pennsylvania,Rural,Field Technician,Hand/Wrist,Automotive,43.42,Male,51,6
+12/14/23,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,5.52,Male,61,7
+12/15/23,Indiana,Rural,Field Technician,Hand/Wrist,Sprains/Strains,332173.47,Male,41,1
+12/15/23,Indiana,Rural,Engineer,Multiple Body Parts,Automotive,19.73,Female,36,8
+12/16/23,Maryland,Rural,Maintenance Worker,Head,Automotive,217579.65,Male,63,7
+2/15/23,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,51.01,Female,31,5
+12/16/23,Ohio,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,40.59,Female,22,3
+12/19/23,West Virginia,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,295400.16,Male,36,8
+12/20/23,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,368420.79,Male,36,12
+12/20/23,Indiana,Rural,Field Technician,Hand/Wrist,Animal Bites,99.73,Female,48,9
+12/20/23,Ohio,Rural,Engineer,Foot/Ankle,Cut/Lacerations,31.24,Male,65,3
+12/21/23,Ohio,Urban,Lineman,Shoulder,Cut/Lacerations,167138.14,Female,51,31
+9/4/24,West Virginia,Rural,Administrative Staff,Shoulder,Sprains/Strains,50.62,Male,47,16
+12/21/23,West Virginia,Rural,Supervisor/Manager,Head,Cut/Lacerations,76.01,Male,34,1
+12/21/23,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,5.42,Female,22,2
+12/25/23,Ohio,Urban,Engineer,Shoulder,Struck by Object,86.25,Male,56,19
+12/25/23,Pennsylvania,Rural,Office Clerk,Back,Struck by Object,77.43,Male,41,1
+12/25/23,Pennsylvania,Rural,Engineer,Shoulder,Sprains/Strains,76.17,Male,45,3
+12/25/23,Ohio,Urban,Accountant,Foot/Ankle,Struck by Object,8.36,Male,58,36
+12/25/23,Ohio,Rural,Field Technician,Leg,Animal Bites,7.32,Male,21,3
+12/26/23,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,297544.43,Male,39,11
+12/26/23,West Virginia,Urban,Accountant,Foot/Ankle,Sprains/Strains,21,Female,32,1
+12/27/23,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,169468.89,Female,25,7
+12/28/23,West Virginia,Rural,Field Technician,Knee,Automotive,62.62,Male,56,14
+12/29/23,West Virginia,Rural,Engineer,Knee,Sprains/Strains,43.97,Female,38,2
+12/31/23,Maryland,Rural,Engineer,Back,Slip/Trip/Fall,56.4,Female,50,29
+1/1/24,Indiana,Urban,Field Technician,Shoulder,Sprains/Strains,361259.65,Male,55,6
+1/1/24,Indiana,Rural,Lineman,Multiple Body Parts,Sprains/Strains,218793.89,Female,31,12
+1/1/24,Ohio,Rural,Maintenance Worker,Foot/Ankle,Cut/Lacerations,77.95,Female,36,3
+1/2/24,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,30.78,Male,56,2
+1/3/24,Pennsylvania,Rural,Supervisor/Manager,Shoulder,Struck by Object,81.36,Male,48,12
+1/3/24,West Virginia,Rural,Maintenance Worker,Leg,Animal Bites,72.69,Male,37,0
+1/4/24,West Virginia,Rural,Engineer,Arms,Sprains/Strains,99.28,Male,27,8
+8/17/24,Maryland,Urban,Administrative Staff,Shoulder,Sprains/Strains,49.23,Male,64,3
+1/6/24,Indiana,Rural,Lineman,Multiple Body Parts,Struck by Object,385304,Male,49,10
+1/6/24,Maryland,Urban,Accountant,Shoulder,Sprains/Strains,46.26,Female,37,10
+1/8/24,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,67.49,Male,23,1
+9/7/21,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,47.94,Male,56,5
+1/9/24,Maryland,Rural,Maintenance Worker,Hand/Wrist,Animal Bites,81.52,Male,22,3
+1/10/24,West Virginia,Rural,Inspector,Hand/Wrist,Struck by Object,54.91,Male,52,10
+1/11/24,Ohio,Rural,Office Clerk,Back,Automotive,865.4,Female,43,2
+1/12/24,West Virginia,Rural,Lineman,Hand/Wrist,Slip/Trip/Fall,119242.98,Female,53,14
+1/12/24,Ohio,Rural,Lineman,Leg,Struck by Object,31092.37,Female,36,8
+1/13/24,Indiana,Urban,Maintenance Worker,Shoulder,Sprains/Strains,212265.09,Female,55,15
+1/13/24,Maryland,Rural,Field Technician,Knee,Animal Bites,5899.21,Female,63,5
+1/13/24,Ohio,Rural,Lineman,Head,Slip/Trip/Fall,99.11,Male,59,10
+1/13/24,Maryland,Rural,Engineer,Multiple Body Parts,Sprains/Strains,25.98,Female,39,21
+1/15/24,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,394820.45,Male,24,1
+1/15/24,West Virginia,Urban,Field Technician,Hand/Wrist,Animal Bites,57845.07,Male,55,3
+1/17/24,Maryland,Urban,Inspector,Knee,Animal Bites,67837.94,Male,35,4
+1/17/24,Ohio,Rural,Field Technician,Shoulder,Slip/Trip/Fall,1.67,Female,21,3
+1/18/24,Ohio,Urban,Engineer,Hand/Wrist,Animal Bites,24.19,Female,48,9
+1/19/24,Ohio,Rural,Lineman,Knee,Automotive,80386.72,Male,28,1
+1/19/24,Ohio,Urban,Engineer,Multiple Body Parts,Animal Bites,3296.22,Female,37,12
+7/19/22,West Virginia,Urban,Administrative Staff,Head,Cut/Lacerations,45.62,Male,47,5
+1/19/24,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,18.6,Female,27,0
+1/19/24,Ohio,Urban,Lineman,Shoulder,Sprains/Strains,2.7,Male,54,2
+1/20/24,Maryland,Rural,Engineer,Foot/Ankle,Animal Bites,27.86,Female,38,8
+1/20/24,Ohio,Rural,Lineman,Back,Cut/Lacerations,6.99,Male,28,4
+1/21/24,Maryland,Rural,Field Technician,Shoulder,Sprains/Strains,88.98,Female,41,23
+1/23/24,West Virginia,Urban,Supervisor/Manager,Head,Automotive,362061.72,Female,27,0
+8/5/22,West Virginia,Urban,Administrative Staff,Shoulder,Sprains/Strains,45.55,Female,33,4
+1/24/24,Indiana,Urban,Engineer,Arms,Cut/Lacerations,91,Female,27,6
+1/25/24,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,75.23,Female,57,2
+1/25/24,Ohio,Urban,Office Clerk,Knee,Cut/Lacerations,58.03,Male,54,4
+1/27/24,Indiana,Urban,Supervisor/Manager,Arms,Automotive,21.72,Male,21,1
+1/28/24,Maryland,Rural,Maintenance Worker,Knee,Automotive,29.21,Male,63,9
+1/29/24,Ohio,Rural,Engineer,Arms,Animal Bites,70.05,Female,41,1
+1/30/24,Indiana,Rural,Engineer,Shoulder,Sprains/Strains,90.49,Male,27,2
+1/30/24,West Virginia,Rural,Maintenance Worker,Hand/Wrist,Animal Bites,36.69,Male,25,6
+1/30/24,Maryland,Rural,Field Technician,Shoulder,Slip/Trip/Fall,22.19,Male,50,7
+1/31/24,Ohio,Rural,Office Clerk,Back,Automotive,668.61,Male,58,23
+1/31/24,Ohio,Rural,Field Technician,Shoulder,Slip/Trip/Fall,68.79,Female,45,9
+2/1/24,Ohio,Urban,Accountant,Head,Cut/Lacerations,25389.05,Male,45,5
+2/2/24,West Virginia,Rural,Inspector,Back,Struck by Object,296120.45,Male,32,2
+2/2/24,West Virginia,Urban,Maintenance Worker,Shoulder,Sprains/Strains,22600.7,Male,48,10
+2/2/24,Ohio,Urban,Accountant,Back,Cut/Lacerations,8.23,Female,48,3
+2/3/24,Ohio,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,38.77,Female,39,9
+2/3/24,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,25.87,Female,45,12
+2/5/24,Maryland,Rural,Supervisor/Manager,Hand/Wrist,Cut/Lacerations,61.86,Male,40,4
+2/6/24,Pennsylvania,Rural,Field Technician,Leg,Struck by Object,294587.79,Male,39,10
+2/6/24,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,246834.79,Male,63,3
+2/6/24,Ohio,Urban,Office Clerk,Leg,Slip/Trip/Fall,98.57,Male,26,1
+2/6/24,Maryland,Rural,Supervisor/Manager,Hand/Wrist,Animal Bites,89.19,Male,26,4
+2/7/24,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,92.73,Female,42,17
+2/7/24,Indiana,Urban,Field Technician,Knee,Animal Bites,90.1,Male,49,15
+2/7/24,Indiana,Rural,Office Clerk,Head,Sprains/Strains,84.4,Female,63,7
+2/8/24,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,48.72,Male,36,2
+2/8/24,West Virginia,Urban,Lineman,Shoulder,Sprains/Strains,35.2,Male,33,1
+2/9/24,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,72.36,Female,23,4
+2/9/24,Maryland,Rural,Lineman,Foot/Ankle,Animal Bites,21.14,Female,51,19
+2/10/24,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,38917.73,Male,55,17
+2/10/24,Maryland,Urban,Accountant,Multiple Body Parts,Slip/Trip/Fall,94.89,Male,60,4
+2/10/24,Ohio,Rural,Lineman,Multiple Body Parts,Struck by Object,90.52,Male,26,2
+2/10/24,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,75.75,Male,62,2
+2/12/24,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,50.69,Female,63,28
+2/12/24,Maryland,Rural,Office Clerk,Foot/Ankle,Automotive,46.13,Female,61,9
+2/13/24,Ohio,Rural,Lineman,Knee,Sprains/Strains,497575.04,Female,33,10
+9/26/23,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,43.82,Female,24,5
+2/13/24,Pennsylvania,Urban,Accountant,Hand/Wrist,Slip/Trip/Fall,67.58,Male,31,2
+2/14/24,Maryland,Rural,Inspector,Knee,Sprains/Strains,84.2,Male,21,1
+2/14/24,West Virginia,Urban,Lineman,Shoulder,Sprains/Strains,39.47,Male,46,2
+2/14/24,Ohio,Urban,Supervisor/Manager,Arms,Struck by Object,29.43,Male,33,9
+2/15/24,Ohio,Urban,Inspector,Foot/Ankle,Struck by Object,125686.23,Female,53,9
+2/15/24,Maryland,Rural,Field Technician,Hand/Wrist,Cut/Lacerations,8427.62,Male,56,4
+2/15/24,Pennsylvania,Rural,Lineman,Shoulder,Sprains/Strains,88.65,Female,40,17
+2/15/24,Indiana,Rural,Maintenance Worker,Knee,Animal Bites,26.08,Male,42,4
+2/16/24,West Virginia,Urban,Office Clerk,Arms,Cut/Lacerations,685.03,Female,57,7
+2/16/24,Maryland,Rural,Inspector,Knee,Struck by Object,35.5,Female,22,1
+2/16/24,Ohio,Rural,Inspector,Leg,Animal Bites,3.41,Female,32,8
+2/17/24,Maryland,Urban,Accountant,Hand/Wrist,Sprains/Strains,343.43,Male,33,4
+2/18/24,Indiana,Urban,Inspector,Head,Sprains/Strains,434780.86,Male,36,7
+2/18/24,Maryland,Urban,Accountant,Hand/Wrist,Automotive,80.81,Male,36,9
+2/19/24,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,63.05,Male,54,26
+2/19/24,West Virginia,Urban,Office Clerk,Foot/Ankle,Struck by Object,53.92,Female,64,5
+2/19/24,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,36.65,Male,32,5
+2/20/24,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,224513.21,Male,22,4
+2/20/24,West Virginia,Rural,Lineman,Shoulder,Slip/Trip/Fall,97.08,Male,52,17
+2/20/24,Ohio,Urban,Office Clerk,Hand/Wrist,Cut/Lacerations,92.51,Male,23,3
+2/20/24,Ohio,Urban,Accountant,Foot/Ankle,Struck by Object,61.01,Female,60,27
+2/21/24,Indiana,Rural,Inspector,Foot/Ankle,Animal Bites,63651.46,Male,55,1
+2/21/24,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,93.71,Female,65,1
+2/21/24,Maryland,Urban,Field Technician,Shoulder,Sprains/Strains,41.43,Male,44,2
+9/4/21,Pennsylvania,Rural,Administrative Staff,Knee,Struck by Object,42.36,Male,24,1
+2/23/24,Maryland,Rural,Lineman,Multiple Body Parts,Slip/Trip/Fall,401370.3,Female,50,11
+2/23/24,Ohio,Rural,Field Technician,Foot/Ankle,Sprains/Strains,93.59,Female,60,22
+2/23/24,Ohio,Rural,Inspector,Knee,Slip/Trip/Fall,74.95,Male,65,10
+2/23/24,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,26.66,Male,53,10
+2/24/24,West Virginia,Rural,Supervisor/Manager,Arms,Struck by Object,28.15,Female,29,0
+2/26/24,Ohio,Rural,Inspector,Head,Automotive,441548.49,Male,41,9
+2/26/24,Ohio,Urban,Field Technician,Head,Sprains/Strains,432566.87,Male,61,36
+6/12/23,Indiana,Urban,Administrative Staff,Arms,Cut/Lacerations,42.17,Male,53,3
+2/26/24,Ohio,Rural,Engineer,Knee,Cut/Lacerations,161539.81,Male,45,9
+2/26/24,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,71264.25,Male,42,11
+2/26/24,West Virginia,Urban,Office Clerk,Head,Cut/Lacerations,10.88,Male,50,2
+2/27/24,Ohio,Urban,Field Technician,Foot/Ankle,Struck by Object,36.44,Female,61,8
+2/4/21,Ohio,Urban,Administrative Staff,Knee,Cut/Lacerations,42.05,Male,22,0
+2/28/24,Ohio,Urban,Field Technician,Multiple Body Parts,Sprains/Strains,210007.7,Male,29,6
+2/28/24,West Virginia,Rural,Inspector,Knee,Struck by Object,94181.41,Male,48,24
+6/24/24,Ohio,Urban,Administrative Staff,Shoulder,Sprains/Strains,39,Male,35,1
+3/2/24,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,84.15,Male,50,14
+3/4/24,Ohio,Urban,Engineer,Foot/Ankle,Slip/Trip/Fall,72.6,Male,52,17
+3/5/24,Maryland,Rural,Field Technician,Arms,Automotive,80.77,Male,26,6
+3/5/24,Pennsylvania,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,73.2,Female,52,9
+3/5/24,West Virginia,Rural,Office Clerk,Multiple Body Parts,Slip/Trip/Fall,67.89,Female,44,11
+3/6/24,Ohio,Rural,Lineman,Head,Cut/Lacerations,2.17,Male,21,3
+3/8/24,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,98.64,Female,53,10
+3/8/24,Maryland,Rural,Supervisor/Manager,Hand/Wrist,Automotive,81.09,Male,63,8
+11/18/24,West Virginia,Urban,Administrative Staff,Arms,Cut/Lacerations,38.75,Female,51,9
+3/8/24,Maryland,Urban,Maintenance Worker,Knee,Cut/Lacerations,2.24,Female,52,11
+3/9/24,Ohio,Rural,Engineer,Knee,Struck by Object,18.24,Male,59,9
+3/10/24,Ohio,Rural,Engineer,Hand/Wrist,Struck by Object,67.37,Male,30,6
+3/11/24,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,18.21,Male,29,8
+3/12/24,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,96.58,Female,56,3
+3/12/24,Ohio,Rural,Engineer,Foot/Ankle,Struck by Object,67.6,Male,37,13
+3/12/24,Pennsylvania,Rural,Office Clerk,Shoulder,Sprains/Strains,6.01,Female,27,3
+3/13/24,West Virginia,Rural,Maintenance Worker,Arms,Struck by Object,310974.45,Female,41,7
+3/13/24,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,182656.07,Male,53,19
+3/13/24,Pennsylvania,Urban,Lineman,Shoulder,Sprains/Strains,112493.67,Female,44,4
+3/13/24,Ohio,Urban,Field Technician,Leg,Animal Bites,83.21,Male,55,10
+3/13/24,Maryland,Urban,Lineman,Hand/Wrist,Slip/Trip/Fall,20.7,Female,62,6
+3/14/24,Ohio,Urban,Maintenance Worker,Leg,Slip/Trip/Fall,17.17,Male,40,3
+3/15/24,Maryland,Urban,Engineer,Shoulder,Cut/Lacerations,39.75,Male,53,31
+3/16/24,Maryland,Rural,Field Technician,Knee,Struck by Object,415953.75,Female,53,4
+3/16/24,Maryland,Urban,Maintenance Worker,Shoulder,Sprains/Strains,156111.52,Female,64,8
+3/16/24,Ohio,Urban,Engineer,Multiple Body Parts,Cut/Lacerations,21.58,Female,65,16
+3/17/24,Indiana,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,211535.92,Female,40,16
+9/4/24,Pennsylvania,Urban,Administrative Staff,Knee,Sprains/Strains,36.59,Male,39,14
+3/18/24,Ohio,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,99.98,Male,38,17
+3/18/24,Maryland,Rural,Inspector,Shoulder,Cut/Lacerations,53.77,Male,40,7
+3/19/24,Maryland,Rural,Lineman,Multiple Body Parts,Automotive,280290.95,Female,26,1
+3/19/24,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,268828.49,Male,49,2
+3/20/24,Ohio,Rural,Field Technician,Hand/Wrist,Automotive,39864.48,Male,40,14
+3/20/24,West Virginia,Urban,Lineman,Knee,Struck by Object,96.18,Male,37,2
+3/20/24,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,72.54,Male,42,2
+8/16/21,West Virginia,Rural,Administrative Staff,Arms,Automotive,36.19,Male,46,9
+3/21/24,Pennsylvania,Rural,Inspector,Shoulder,Automotive,98.16,Male,54,1
+3/21/24,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,50.07,Male,26,2
+3/21/24,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,48.24,Female,50,7
+3/21/24,Indiana,Urban,Lineman,Leg,Cut/Lacerations,21.74,Male,45,10
+3/22/24,Ohio,Rural,Lineman,Leg,Sprains/Strains,197142.39,Male,41,18
+3/22/24,West Virginia,Rural,Lineman,Shoulder,Struck by Object,99.62,Female,51,20
+3/23/24,West Virginia,Rural,Field Technician,Multiple Body Parts,Sprains/Strains,90.3,Female,24,6
+3/23/24,Ohio,Urban,Accountant,Hand/Wrist,Cut/Lacerations,9.86,Male,65,1
+3/26/24,Pennsylvania,Rural,Lineman,Knee,Slip/Trip/Fall,64.62,Male,34,3
+3/26/24,Ohio,Rural,Lineman,Head,Slip/Trip/Fall,43.82,Male,40,1
+3/27/24,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,377565.91,Male,26,8
+3/27/24,Ohio,Rural,Supervisor/Manager,Multiple Body Parts,Struck by Object,23589.99,Male,27,3
+3/27/24,Ohio,Urban,Maintenance Worker,Knee,Automotive,97.16,Male,47,16
+3/28/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,269042.57,Female,59,8
+3/28/24,Ohio,Rural,Office Clerk,Leg,Automotive,7.8,Female,40,15
+3/29/24,Pennsylvania,Urban,Accountant,Shoulder,Slip/Trip/Fall,503.28,Male,24,5
+3/29/24,West Virginia,Urban,Inspector,Foot/Ankle,Animal Bites,261.03,Male,42,10
+3/29/24,Maryland,Urban,Maintenance Worker,Shoulder,Sprains/Strains,65.78,Female,58,1
+3/29/24,West Virginia,Rural,Field Technician,Hand/Wrist,Cut/Lacerations,46.75,Male,33,4
+3/29/24,Maryland,Urban,Lineman,Shoulder,Sprains/Strains,8.77,Female,47,12
+3/30/24,West Virginia,Rural,Inspector,Arms,Animal Bites,979.06,Female,47,14
+3/30/24,Maryland,Rural,Engineer,Knee,Automotive,56.21,Male,25,3
+3/31/24,Ohio,Urban,Supervisor/Manager,Head,Automotive,386239.11,Male,58,2
+4/1/24,West Virginia,Rural,Engineer,Head,Sprains/Strains,6391.31,Female,38,6
+4/1/24,Pennsylvania,Rural,Inspector,Hand/Wrist,Slip/Trip/Fall,94.98,Male,34,8
+4/1/24,Indiana,Rural,Office Clerk,Leg,Sprains/Strains,83.85,Male,61,8
+4/1/24,Indiana,Rural,Engineer,Knee,Animal Bites,23.63,Female,55,3
+2/16/23,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,35.82,Female,25,5
+4/3/24,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,84.26,Male,46,6
+4/4/24,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,46.15,Male,54,12
+4/5/24,Ohio,Rural,Engineer,Back,Automotive,92.07,Male,34,0
+4/5/24,Ohio,Urban,Office Clerk,Back,Slip/Trip/Fall,24.47,Female,52,7
+4/8/24,Ohio,Urban,Inspector,Shoulder,Struck by Object,43.58,Male,44,10
+4/9/24,West Virginia,Urban,Accountant,Shoulder,Sprains/Strains,83.04,Female,42,5
+4/10/24,Ohio,Urban,Lineman,Leg,Animal Bites,138.35,Male,22,4
+4/10/24,Maryland,Rural,Field Technician,Shoulder,Sprains/Strains,29.31,Male,64,14
+4/11/24,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,27.28,Male,21,2
+4/15/24,Ohio,Urban,Office Clerk,Back,Slip/Trip/Fall,76158.21,Female,25,4
+4/16/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,344161.56,Male,40,8
+4/16/24,Pennsylvania,Urban,Field Technician,Multiple Body Parts,Struck by Object,36.12,Female,35,10
+4/17/24,West Virginia,Rural,Inspector,Foot/Ankle,Sprains/Strains,328085.48,Male,37,3
+4/17/24,Indiana,Rural,Lineman,Back,Automotive,52158.88,Female,39,5
+4/17/24,Pennsylvania,Rural,Maintenance Worker,Leg,Cut/Lacerations,2.95,Female,32,3
+4/17/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,2.39,Male,64,4
+4/18/24,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,63.92,Female,56,7
+4/18/24,Pennsylvania,Urban,Maintenance Worker,Leg,Struck by Object,2.36,Female,56,10
+4/19/24,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,8.09,Female,65,4
+4/20/24,Ohio,Rural,Supervisor/Manager,Knee,Animal Bites,41.02,Male,21,0
+4/22/24,West Virginia,Rural,Inspector,Multiple Body Parts,Animal Bites,90.44,Male,55,1
+4/23/24,Ohio,Rural,Engineer,Leg,Sprains/Strains,491545.84,Female,36,6
+4/23/24,Maryland,Rural,Supervisor/Manager,Knee,Animal Bites,785.25,Female,56,1
+4/23/24,Ohio,Rural,Field Technician,Leg,Cut/Lacerations,32.36,Female,41,17
+4/24/24,Maryland,Urban,Office Clerk,Arms,Cut/Lacerations,4813.34,Male,24,3
+4/24/24,West Virginia,Rural,Field Technician,Multiple Body Parts,Sprains/Strains,45.43,Male,23,5
+4/25/24,Pennsylvania,Rural,Supervisor/Manager,Arms,Cut/Lacerations,82.27,Male,38,16
+4/26/24,Pennsylvania,Rural,Lineman,Shoulder,Sprains/Strains,438852.55,Male,58,8
+4/26/24,Indiana,Urban,Office Clerk,Arms,Cut/Lacerations,89370.04,Male,22,4
+4/26/24,Ohio,Urban,Inspector,Hand/Wrist,Animal Bites,61986.64,Female,45,2
+4/26/24,Pennsylvania,Urban,Accountant,Shoulder,Cut/Lacerations,679.75,Female,38,11
+4/26/24,Pennsylvania,Urban,Maintenance Worker,Leg,Sprains/Strains,83.78,Female,38,3
+4/26/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,69.21,Male,53,18
+4/30/24,West Virginia,Urban,Field Technician,Shoulder,Sprains/Strains,406560.17,Male,32,9
+4/30/24,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,349653.52,Female,39,9
+4/30/24,West Virginia,Rural,Field Technician,Hand/Wrist,Animal Bites,8021.62,Male,49,5
+4/30/24,Pennsylvania,Urban,Accountant,Shoulder,Sprains/Strains,97.71,Male,50,10
+4/30/24,Pennsylvania,Rural,Lineman,Shoulder,Sprains/Strains,13.87,Female,40,1
+5/1/24,Ohio,Urban,Engineer,Shoulder,Struck by Object,43.76,Female,28,6
+5/3/24,Maryland,Rural,Engineer,Shoulder,Slip/Trip/Fall,98.98,Male,57,6
+5/3/24,Indiana,Rural,Maintenance Worker,Leg,Animal Bites,69.11,Male,65,13
+5/3/24,Ohio,Rural,Inspector,Multiple Body Parts,Slip/Trip/Fall,21.71,Female,52,3
+5/4/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,97.94,Female,26,7
+5/5/24,Ohio,Rural,Maintenance Worker,Foot/Ankle,Automotive,54.86,Female,36,15
+5/6/24,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,363414.45,Male,62,2
+5/6/24,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,1646.32,Male,28,8
+5/7/24,West Virginia,Rural,Inspector,Back,Struck by Object,93.59,Female,50,14
+5/7/24,West Virginia,Rural,Lineman,Shoulder,Struck by Object,42.25,Male,39,7
+5/8/24,Ohio,Urban,Maintenance Worker,Back,Automotive,140994.14,Male,29,0
+5/8/24,Ohio,Rural,Lineman,Foot/Ankle,Sprains/Strains,46.69,Male,31,7
+2/10/22,West Virginia,Urban,Administrative Staff,Arms,Sprains/Strains,35.34,Male,45,2
+9/21/22,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,34.58,Female,32,3
+5/9/24,West Virginia,Urban,Accountant,Shoulder,Sprains/Strains,93792.64,Male,32,11
+5/9/24,Maryland,Rural,Office Clerk,Head,Automotive,61.97,Male,57,9
+5/10/24,Maryland,Urban,Engineer,Arms,Slip/Trip/Fall,24279.9,Male,58,18
+5/10/24,Ohio,Urban,Accountant,Arms,Struck by Object,56.8,Female,42,1
+5/14/24,Ohio,Rural,Supervisor/Manager,Multiple Body Parts,Cut/Lacerations,267270.53,Male,51,13
+8/11/22,Indiana,Rural,Administrative Staff,Shoulder,Sprains/Strains,34.57,Male,45,9
+5/15/24,Maryland,Urban,Accountant,Head,Struck by Object,43.02,Male,63,9
+5/16/24,Maryland,Urban,Lineman,Shoulder,Sprains/Strains,88.52,Male,23,1
+5/16/24,Maryland,Urban,Supervisor/Manager,Multiple Body Parts,Struck by Object,55.82,Female,24,1
+5/18/24,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,12.4,Male,51,9
+5/20/24,Ohio,Rural,Supervisor/Manager,Leg,Struck by Object,79.14,Male,53,5
+5/20/24,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,42.76,Female,31,8
+5/21/24,West Virginia,Urban,Field Technician,Foot/Ankle,Animal Bites,29.95,Female,28,10
+5/22/24,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,74.95,Male,21,1
+5/22/24,Maryland,Urban,Lineman,Foot/Ankle,Slip/Trip/Fall,64.65,Male,55,13
+5/22/24,Ohio,Rural,Inspector,Arms,Slip/Trip/Fall,43.04,Male,55,9
+5/24/24,Ohio,Rural,Lineman,Multiple Body Parts,Animal Bites,77.15,Male,37,2
+5/24/24,Maryland,Rural,Lineman,Hand/Wrist,Cut/Lacerations,65.65,Female,27,1
+5/26/24,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,95.49,Female,54,13
+5/27/24,Maryland,Urban,Accountant,Multiple Body Parts,Sprains/Strains,28.42,Female,44,2
+5/28/24,Ohio,Urban,Engineer,Foot/Ankle,Slip/Trip/Fall,49.62,Female,45,5
+5/29/24,Pennsylvania,Urban,Accountant,Head,Slip/Trip/Fall,89.67,Male,48,8
+5/29/24,West Virginia,Rural,Inspector,Back,Slip/Trip/Fall,67.44,Female,63,2
+5/29/24,Maryland,Rural,Field Technician,Back,Sprains/Strains,37.15,Female,33,6
+5/29/24,Maryland,Rural,Inspector,Hand/Wrist,Automotive,9.58,Female,26,6
+5/30/24,Maryland,Rural,Maintenance Worker,Head,Struck by Object,75.3,Male,60,6
+5/30/24,Ohio,Urban,Accountant,Foot/Ankle,Slip/Trip/Fall,66.64,Male,21,2
+5/30/24,Ohio,Urban,Inspector,Foot/Ankle,Automotive,14.8,Male,29,3
+5/30/24,Ohio,Urban,Office Clerk,Knee,Slip/Trip/Fall,6.67,Male,64,5
+5/31/24,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,476588.93,Female,35,14
+6/1/24,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,61.93,Male,29,11
+6/3/24,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,27.42,Male,27,8
+6/4/24,West Virginia,Urban,Engineer,Hand/Wrist,Sprains/Strains,144747.91,Male,41,6
+6/4/24,Maryland,Urban,Field Technician,Arms,Automotive,16.95,Male,54,3
+6/4/24,Maryland,Rural,Office Clerk,Foot/Ankle,Slip/Trip/Fall,11.87,Male,37,5
+6/5/24,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,230100.06,Female,32,8
+6/5/24,West Virginia,Urban,Lineman,Arms,Struck by Object,50,Female,53,16
+6/6/24,Ohio,Rural,Maintenance Worker,Hand/Wrist,Cut/Lacerations,91.68,Female,24,1
+6/6/24,Maryland,Rural,Maintenance Worker,Leg,Automotive,51.08,Male,42,9
+6/7/24,Ohio,Rural,Inspector,Multiple Body Parts,Slip/Trip/Fall,56.56,Male,26,8
+6/8/24,Maryland,Rural,Inspector,Head,Struck by Object,425888.1,Male,54,7
+6/8/24,Pennsylvania,Urban,Office Clerk,Head,Cut/Lacerations,53.9,Female,42,5
+6/9/24,Ohio,Rural,Supervisor/Manager,Knee,Animal Bites,154.04,Female,64,1
+6/10/24,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,73.97,Female,26,5
+6/10/24,Ohio,Urban,Field Technician,Head,Slip/Trip/Fall,55.07,Male,56,1
+6/10/24,West Virginia,Urban,Engineer,Arms,Struck by Object,25.24,Male,52,10
+6/12/24,Indiana,Rural,Maintenance Worker,Multiple Body Parts,Cut/Lacerations,5.17,Female,55,1
+6/13/24,Maryland,Urban,Maintenance Worker,Back,Cut/Lacerations,207189.79,Male,42,13
+6/13/24,Maryland,Rural,Maintenance Worker,Multiple Body Parts,Cut/Lacerations,96.02,Male,59,9
+6/14/24,West Virginia,Urban,Accountant,Knee,Struck by Object,1244.74,Male,30,12
+6/14/24,Maryland,Rural,Maintenance Worker,Multiple Body Parts,Animal Bites,50.4,Male,51,18
+6/14/24,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,50.25,Female,45,6
+6/15/24,Pennsylvania,Rural,Lineman,Knee,Animal Bites,67.13,Female,37,8
+6/17/24,Ohio,Rural,Engineer,Arms,Struck by Object,305231.03,Female,44,10
+6/17/24,West Virginia,Urban,Lineman,Foot/Ankle,Animal Bites,179203.4,Male,21,3
+6/18/24,Indiana,Rural,Maintenance Worker,Head,Cut/Lacerations,163482.66,Male,50,5
+6/19/24,Pennsylvania,Rural,Maintenance Worker,Shoulder,Sprains/Strains,329538.63,Male,39,15
+6/19/24,Ohio,Urban,Accountant,Arms,Struck by Object,4813,Male,51,9
+2/14/22,Pennsylvania,Rural,Administrative Staff,Foot/Ankle,Slip/Trip/Fall,33.34,Female,37,7
+6/19/24,Ohio,Urban,Maintenance Worker,Head,Slip/Trip/Fall,14.52,Male,23,4
+6/20/24,Ohio,Rural,Lineman,Leg,Cut/Lacerations,39.58,Female,50,18
+6/20/24,Maryland,Rural,Lineman,Knee,Struck by Object,33.25,Male,52,8
+6/24/24,Maryland,Urban,Maintenance Worker,Arms,Struck by Object,188990.58,Male,29,1
+6/24/24,Ohio,Rural,Inspector,Back,Automotive,49564.39,Male,33,14
+6/24/24,Ohio,Urban,Accountant,Knee,Sprains/Strains,572.26,Female,44,20
+6/24/24,West Virginia,Rural,Supervisor/Manager,Multiple Body Parts,Slip/Trip/Fall,47.98,Male,46,13
+8/23/23,Indiana,Rural,Administrative Staff,Leg,Automotive,33.28,Male,59,1
+6/25/24,Ohio,Urban,Engineer,Head,Struck by Object,335363.94,Female,60,6
+6/25/24,West Virginia,Urban,Accountant,Head,Sprains/Strains,94.61,Male,47,20
+6/25/24,Pennsylvania,Rural,Maintenance Worker,Shoulder,Sprains/Strains,80.25,Female,62,11
+6/26/24,Maryland,Rural,Engineer,Foot/Ankle,Slip/Trip/Fall,57507.16,Male,34,7
+6/26/24,Maryland,Rural,Lineman,Knee,Sprains/Strains,51.93,Male,27,1
+6/26/24,Ohio,Urban,Supervisor/Manager,Leg,Automotive,42.26,Male,38,18
+6/26/24,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,20.24,Male,36,6
+6/27/24,Maryland,Urban,Field Technician,Shoulder,Struck by Object,385027.26,Male,62,10
+6/28/24,Pennsylvania,Urban,Maintenance Worker,Shoulder,Slip/Trip/Fall,71405.88,Female,60,18
+6/28/24,West Virginia,Rural,Office Clerk,Multiple Body Parts,Sprains/Strains,1253.43,Male,47,5
+7/13/21,Ohio,Urban,Administrative Staff,Knee,Cut/Lacerations,32.97,Male,34,7
+6/29/24,Maryland,Rural,Maintenance Worker,Multiple Body Parts,Automotive,2.01,Male,52,9
+7/3/24,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,497734.81,Male,44,5
+7/3/24,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,77.89,Female,63,6
+7/4/24,Ohio,Rural,Inspector,Foot/Ankle,Struck by Object,248798.92,Male,32,4
+7/5/24,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,499680.48,Male,46,7
+7/6/24,Maryland,Rural,Engineer,Leg,Automotive,64.4,Male,24,3
+7/8/24,Maryland,Rural,Field Technician,Shoulder,Sprains/Strains,99.83,Male,41,10
+7/8/24,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,16.82,Male,59,3
+7/9/24,Ohio,Urban,Field Technician,Knee,Sprains/Strains,83.72,Male,27,3
+7/9/24,Ohio,Urban,Supervisor/Manager,Head,Automotive,17.23,Male,53,8
+8/11/23,Indiana,Rural,Administrative Staff,Shoulder,Sprains/Strains,32.3,Male,56,1
+7/10/24,Maryland,Urban,Lineman,Knee,Animal Bites,6574.56,Male,63,12
+7/10/24,Indiana,Urban,Accountant,Shoulder,Sprains/Strains,49.8,Female,41,11
+7/10/24,Ohio,Urban,Accountant,Hand/Wrist,Struck by Object,28.55,Female,56,8
+7/12/24,Indiana,Rural,Supervisor/Manager,Arms,Cut/Lacerations,9.53,Male,26,1
+7/13/24,Maryland,Rural,Inspector,Arms,Automotive,47.77,Male,35,15
+7/13/24,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,21.17,Male,54,25
+7/13/24,Ohio,Urban,Accountant,Back,Slip/Trip/Fall,3.37,Female,27,6
+7/15/24,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,96.57,Male,58,8
+7/15/24,Ohio,Urban,Accountant,Leg,Cut/Lacerations,1.67,Female,47,1
+7/16/24,Ohio,Rural,Maintenance Worker,Multiple Body Parts,Animal Bites,4923.83,Female,29,4
+7/16/24,West Virginia,Urban,Maintenance Worker,Leg,Cut/Lacerations,74.17,Male,27,6
+7/16/24,Maryland,Rural,Field Technician,Shoulder,Sprains/Strains,30.96,Female,52,6
+7/17/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,447928.35,Female,49,10
+7/17/24,Ohio,Rural,Inspector,Shoulder,Automotive,13.95,Female,62,37
+7/18/24,Pennsylvania,Rural,Field Technician,Arms,Slip/Trip/Fall,338181.97,Female,30,9
+6/8/23,Ohio,Urban,Administrative Staff,Shoulder,Sprains/Strains,30.66,Female,25,7
+7/20/24,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,71.48,Female,64,25
+7/20/24,Pennsylvania,Rural,Lineman,Arms,Automotive,35.07,Male,21,0
+7/23/24,West Virginia,Rural,Maintenance Worker,Shoulder,Sprains/Strains,72.06,Male,39,1
+7/24/24,Indiana,Rural,Lineman,Shoulder,Sprains/Strains,97.3,Male,25,3
+7/25/24,Ohio,Rural,Field Technician,Shoulder,Struck by Object,94.23,Male,38,8
+7/25/24,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,86.75,Male,65,7
+7/25/24,Ohio,Rural,Inspector,Hand/Wrist,Animal Bites,42.35,Female,24,2
+7/26/24,Ohio,Rural,Lineman,Foot/Ankle,Automotive,349073.92,Female,44,6
+7/29/24,Indiana,Rural,Inspector,Knee,Cut/Lacerations,13.45,Male,63,8
+7/30/24,Indiana,Urban,Inspector,Shoulder,Sprains/Strains,428443.15,Male,48,12
+7/31/24,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,455224.67,Male,54,1
+7/31/24,Ohio,Urban,Inspector,Shoulder,Sprains/Strains,27.27,Male,49,3
+7/31/24,Maryland,Rural,Field Technician,Head,Slip/Trip/Fall,24.84,Male,38,11
+8/1/24,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,222846.95,Male,61,7
+8/1/24,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,91.02,Male,45,9
+2/18/23,Ohio,Urban,Administrative Staff,Leg,Cut/Lacerations,30.41,Female,44,5
+8/5/24,West Virginia,Rural,Inspector,Shoulder,Sprains/Strains,228841.19,Female,36,6
+8/6/24,Maryland,Urban,Accountant,Arms,Sprains/Strains,54103.07,Female,28,8
+5/14/21,Indiana,Urban,Administrative Staff,Hand/Wrist,Cut/Lacerations,29.98,Male,28,1
+8/6/24,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,176.58,Male,29,7
+8/7/24,Indiana,Rural,Maintenance Worker,Foot/Ankle,Cut/Lacerations,79.36,Female,41,18
+8/7/24,West Virginia,Urban,Supervisor/Manager,Knee,Automotive,72.31,Male,37,8
+8/8/24,Ohio,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,852.41,Female,47,27
+8/9/24,West Virginia,Rural,Engineer,Foot/Ankle,Struck by Object,455106.45,Female,44,6
+8/10/24,Ohio,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,28.77,Male,65,12
+8/10/24,Ohio,Rural,Lineman,Multiple Body Parts,Animal Bites,7.22,Male,25,6
+8/11/24,Ohio,Rural,Inspector,Multiple Body Parts,Slip/Trip/Fall,8.37,Male,36,8
+8/11/24,Maryland,Rural,Maintenance Worker,Shoulder,Cut/Lacerations,7.44,Female,41,1
+8/12/24,Pennsylvania,Rural,Engineer,Shoulder,Sprains/Strains,485371.05,Male,65,13
+8/12/24,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,415117.83,Male,40,5
+8/12/24,Maryland,Rural,Supervisor/Manager,Back,Struck by Object,373185.17,Female,32,9
+8/13/24,West Virginia,Rural,Field Technician,Foot/Ankle,Sprains/Strains,349194.73,Male,28,2
+8/13/24,West Virginia,Rural,Office Clerk,Leg,Slip/Trip/Fall,7998.6,Female,25,5
+8/13/24,Ohio,Rural,Maintenance Worker,Shoulder,Slip/Trip/Fall,51.86,Female,57,25
+8/14/24,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,446996.23,Female,34,7
+8/14/24,Ohio,Urban,Field Technician,Shoulder,Sprains/Strains,415278.49,Male,51,4
+8/14/24,Ohio,Urban,Lineman,Foot/Ankle,Automotive,11531.3,Male,61,8
+8/14/24,Indiana,Rural,Field Technician,Shoulder,Sprains/Strains,50.4,Male,57,9
+8/14/24,Ohio,Urban,Field Technician,Shoulder,Automotive,12.31,Male,41,7
+8/15/24,Ohio,Rural,Supervisor/Manager,Shoulder,Automotive,73965.16,Male,42,3
+8/15/24,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,79.24,Male,45,5
+8/16/24,Pennsylvania,Rural,Field Technician,Knee,Sprains/Strains,259265.38,Female,52,7
+8/16/24,Indiana,Urban,Maintenance Worker,Shoulder,Slip/Trip/Fall,76.52,Male,30,2
+8/16/24,Indiana,Rural,Engineer,Leg,Slip/Trip/Fall,68.4,Female,32,11
+8/16/24,Pennsylvania,Urban,Office Clerk,Shoulder,Sprains/Strains,35.75,Male,63,7
+8/16/24,Ohio,Urban,Lineman,Hand/Wrist,Struck by Object,16.23,Male,21,1
+8/16/24,Ohio,Rural,Maintenance Worker,Hand/Wrist,Struck by Object,16.04,Male,53,3
+8/16/24,Ohio,Rural,Maintenance Worker,Knee,Slip/Trip/Fall,6.27,Female,51,1
+8/17/24,West Virginia,Urban,Field Technician,Back,Sprains/Strains,220031.86,Female,59,32
+8/17/24,Indiana,Urban,Office Clerk,Knee,Sprains/Strains,56.97,Female,32,1
+3/7/23,Ohio,Urban,Administrative Staff,Foot/Ankle,Cut/Lacerations,29.57,Male,37,10
+3/19/21,Indiana,Rural,Administrative Staff,Knee,Struck by Object,28.46,Female,25,6
+8/19/24,Ohio,Urban,Engineer,Foot/Ankle,Animal Bites,25575.71,Male,52,14
+8/21/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,133942.69,Female,36,6
+8/21/24,Ohio,Urban,Maintenance Worker,Arms,Animal Bites,63.51,Male,28,9
+8/22/24,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,1449.78,Male,48,8
+8/22/24,Ohio,Rural,Engineer,Leg,Automotive,58.05,Female,64,1
+8/22/24,Indiana,Urban,Office Clerk,Head,Sprains/Strains,37.96,Male,60,16
+8/23/24,Maryland,Rural,Engineer,Shoulder,Sprains/Strains,15.89,Female,39,1
+6/19/24,Ohio,Rural,Administrative Staff,Arms,Sprains/Strains,26.63,Male,44,6
+8/24/24,Pennsylvania,Rural,Supervisor/Manager,Arms,Struck by Object,153614.58,Female,58,4
+8/24/24,Maryland,Rural,Lineman,Hand/Wrist,Slip/Trip/Fall,89619.5,Male,37,13
+8/24/24,West Virginia,Rural,Inspector,Knee,Slip/Trip/Fall,77.33,Male,21,0
+8/26/24,West Virginia,Urban,Supervisor/Manager,Head,Sprains/Strains,241920.29,Female,45,2
+8/26/24,Maryland,Urban,Maintenance Worker,Shoulder,Struck by Object,37.27,Female,37,5
+8/26/24,Ohio,Rural,Maintenance Worker,Arms,Automotive,35.98,Male,48,15
+8/27/24,West Virginia,Urban,Maintenance Worker,Multiple Body Parts,Struck by Object,376396.08,Female,31,2
+8/27/24,Maryland,Urban,Supervisor/Manager,Multiple Body Parts,Slip/Trip/Fall,52.55,Female,37,6
+8/28/24,Ohio,Rural,Engineer,Knee,Automotive,78.07,Male,48,7
+8/28/24,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,69.56,Male,53,7
+8/28/24,West Virginia,Urban,Lineman,Shoulder,Sprains/Strains,45.11,Male,25,7
+8/29/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,70.59,Female,39,1
+8/29/24,Ohio,Urban,Accountant,Head,Struck by Object,58.13,Male,60,6
+8/30/24,Ohio,Rural,Engineer,Head,Slip/Trip/Fall,404766.51,Female,55,12
+8/30/24,Ohio,Rural,Field Technician,Back,Slip/Trip/Fall,10.93,Female,39,6
+9/1/24,West Virginia,Urban,Maintenance Worker,Arms,Animal Bites,32.64,Female,59,2
+9/2/24,West Virginia,Urban,Field Technician,Head,Automotive,6.64,Male,22,3
+9/3/24,West Virginia,Rural,Field Technician,Back,Sprains/Strains,120036.97,Female,49,6
+9/3/24,Maryland,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,72734.35,Male,38,4
+9/4/24,Maryland,Urban,Supervisor/Manager,Shoulder,Sprains/Strains,61997.7,Female,46,4
+9/4/24,Maryland,Rural,Engineer,Leg,Animal Bites,43424.46,Female,51,1
+9/4/24,Indiana,Rural,Engineer,Back,Slip/Trip/Fall,85.33,Male,28,7
+9/4/24,Ohio,Rural,Inspector,Leg,Sprains/Strains,77.38,Female,36,1
+9/4/24,West Virginia,Urban,Maintenance Worker,Shoulder,Sprains/Strains,70.41,Male,39,11
+9/4/24,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,57.22,Female,26,5
+7/18/24,Indiana,Rural,Administrative Staff,Multiple Body Parts,Slip/Trip/Fall,26.45,Female,30,8
+8/24/21,Pennsylvania,Urban,Administrative Staff,Shoulder,Sprains/Strains,23.75,Male,49,10
+9/5/24,Ohio,Rural,Engineer,Arms,Sprains/Strains,100262.48,Female,57,23
+9/5/24,Ohio,Rural,Supervisor/Manager,Knee,Automotive,92.63,Male,21,0
+9/5/24,Ohio,Rural,Lineman,Hand/Wrist,Automotive,89.37,Female,52,13
+9/5/24,Indiana,Rural,Maintenance Worker,Leg,Animal Bites,52.21,Male,24,6
+9/6/24,West Virginia,Rural,Field Technician,Arms,Slip/Trip/Fall,461132.72,Male,23,5
+9/6/24,Ohio,Rural,Engineer,Multiple Body Parts,Struck by Object,438057.8,Male,50,21
+9/6/24,Indiana,Rural,Lineman,Arms,Animal Bites,169.77,Female,33,8
+9/6/24,Pennsylvania,Rural,Engineer,Hand/Wrist,Sprains/Strains,90.28,Female,51,5
+9/6/24,Pennsylvania,Rural,Engineer,Multiple Body Parts,Slip/Trip/Fall,41.03,Female,49,14
+9/6/24,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,2.82,Male,47,3
+9/8/24,Pennsylvania,Rural,Supervisor/Manager,Back,Automotive,25.92,Female,57,6
+9/9/24,Ohio,Rural,Inspector,Knee,Sprains/Strains,70.62,Male,29,1
+9/9/24,West Virginia,Urban,Office Clerk,Shoulder,Sprains/Strains,40.3,Male,34,10
+9/10/24,West Virginia,Urban,Maintenance Worker,Shoulder,Sprains/Strains,338521.92,Female,37,8
+9/11/24,Indiana,Rural,Maintenance Worker,Arms,Animal Bites,76921.68,Female,33,6
+9/11/24,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,58.45,Male,28,0
+9/11/24,West Virginia,Rural,Maintenance Worker,Back,Sprains/Strains,50.09,Male,43,18
+6/13/23,West Virginia,Urban,Administrative Staff,Arms,Cut/Lacerations,20.99,Male,53,7
+9/12/24,Maryland,Rural,Lineman,Head,Sprains/Strains,202290.76,Female,39,3
+9/12/24,Ohio,Rural,Engineer,Leg,Animal Bites,296.55,Male,37,7
+9/14/24,Ohio,Rural,Field Technician,Back,Automotive,82.09,Female,46,2
+9/14/24,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,6.24,Female,26,3
+9/16/24,Ohio,Urban,Maintenance Worker,Leg,Struck by Object,185735.46,Male,43,1
+9/17/24,Ohio,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,471830.23,Male,21,1
+9/17/24,Maryland,Rural,Supervisor/Manager,Knee,Cut/Lacerations,307921.22,Male,39,6
+9/18/24,Ohio,Rural,Lineman,Foot/Ankle,Struck by Object,139801.71,Male,34,5
+9/19/24,Ohio,Rural,Office Clerk,Back,Slip/Trip/Fall,6926.48,Male,43,18
+9/19/24,Ohio,Rural,Lineman,Multiple Body Parts,Sprains/Strains,95.03,Male,36,7
+9/21/24,Ohio,Rural,Engineer,Multiple Body Parts,Struck by Object,403031.34,Female,32,3
+9/22/24,Ohio,Urban,Engineer,Multiple Body Parts,Struck by Object,492178.33,Male,44,8
+9/23/24,Indiana,Rural,Engineer,Hand/Wrist,Animal Bites,80.41,Male,38,5
+10/2/23,Ohio,Rural,Administrative Staff,Hand/Wrist,Slip/Trip/Fall,19.78,Male,55,10
+5/14/22,Maryland,Urban,Administrative Staff,Multiple Body Parts,Cut/Lacerations,19.24,Female,59,16
+9/25/24,Maryland,Rural,Maintenance Worker,Shoulder,Slip/Trip/Fall,344807.36,Male,49,16
+7/20/22,West Virginia,Urban,Administrative Staff,Leg,Cut/Lacerations,18.53,Male,38,11
+9/25/24,Indiana,Rural,Lineman,Leg,Animal Bites,92.03,Male,53,5
+9/26/24,Indiana,Rural,Field Technician,Shoulder,Automotive,64388.42,Male,46,5
+9/26/24,Ohio,Rural,Maintenance Worker,Leg,Sprains/Strains,79.39,Female,31,10
+9/26/24,Ohio,Rural,Engineer,Foot/Ankle,Animal Bites,75.6,Male,44,19
+9/27/24,Ohio,Rural,Engineer,Multiple Body Parts,Slip/Trip/Fall,134763.87,Male,41,15
+9/27/24,Indiana,Urban,Accountant,Leg,Sprains/Strains,30.26,Female,64,10
+9/29/24,Maryland,Rural,Field Technician,Knee,Slip/Trip/Fall,292265.21,Male,36,9
+9/30/24,Ohio,Rural,Maintenance Worker,Knee,Animal Bites,78,Male,28,2
+10/1/24,Indiana,Urban,Supervisor/Manager,Leg,Struck by Object,328072.95,Female,48,6
+10/2/24,Maryland,Rural,Lineman,Head,Sprains/Strains,94.27,Male,38,5
+10/2/24,Pennsylvania,Urban,Engineer,Back,Cut/Lacerations,84.5,Female,53,6
+8/14/21,Maryland,Urban,Administrative Staff,Knee,Sprains/Strains,15.81,Female,40,6
+10/2/24,Ohio,Rural,Office Clerk,Leg,Slip/Trip/Fall,53.18,Female,63,3
+10/2/24,Indiana,Rural,Inspector,Leg,Automotive,42.4,Male,22,1
+10/3/24,Ohio,Rural,Inspector,Shoulder,Cut/Lacerations,66.71,Male,39,7
+10/3/24,Indiana,Rural,Inspector,Shoulder,Sprains/Strains,16.95,Male,44,3
+2/27/24,Ohio,Urban,Administrative Staff,Knee,Struck by Object,14.7,Male,32,10
+12/11/24,Indiana,Urban,Administrative Staff,Foot/Ankle,Sprains/Strains,12.59,Female,45,11
+10/5/24,West Virginia,Rural,Field Technician,Knee,Sprains/Strains,359444.02,Male,21,1
+10/11/24,Ohio,Urban,Lineman,Leg,Cut/Lacerations,396915.28,Male,29,3
+10/12/24,Maryland,Rural,Inspector,Knee,Cut/Lacerations,78.53,Male,50,8
+10/14/24,West Virginia,Rural,Inspector,Arms,Struck by Object,10.11,Male,38,17
+10/15/24,Maryland,Rural,Field Technician,Arms,Slip/Trip/Fall,495404.69,Male,52,18
+10/16/24,Indiana,Urban,Lineman,Shoulder,Sprains/Strains,263876.57,Female,29,7
+2/2/22,West Virginia,Rural,Administrative Staff,Arms,Automotive,11.79,Male,21,0
+10/16/24,Pennsylvania,Urban,Lineman,Hand/Wrist,Cut/Lacerations,2003.87,Male,26,1
+10/16/24,Maryland,Urban,Accountant,Hand/Wrist,Cut/Lacerations,93.21,Female,60,2
+10/16/24,Ohio,Rural,Field Technician,Leg,Automotive,61.92,Male,60,5
+10/16/24,Indiana,Urban,Field Technician,Multiple Body Parts,Animal Bites,42.36,Female,46,9
+12/22/21,Maryland,Rural,Administrative Staff,Foot/Ankle,Slip/Trip/Fall,9.75,Male,28,9
+10/17/24,Indiana,Rural,Lineman,Leg,Sprains/Strains,196940.04,Male,50,3
+10/4/21,Pennsylvania,Rural,Administrative Staff,Hand/Wrist,Slip/Trip/Fall,7.84,Male,33,15
+10/17/24,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,7.8,Male,64,5
+10/19/24,West Virginia,Rural,Field Technician,Foot/Ankle,Slip/Trip/Fall,26.88,Male,61,7
+10/19/24,West Virginia,Rural,Field Technician,Knee,Slip/Trip/Fall,5.5,Female,47,8
+10/20/24,Maryland,Rural,Lineman,Head,Cut/Lacerations,35.87,Female,49,21
+10/21/24,Ohio,Rural,Inspector,Knee,Cut/Lacerations,54921.46,Female,42,4
+10/21/24,Indiana,Urban,Maintenance Worker,Foot/Ankle,Animal Bites,54.16,Female,31,13
+10/21/24,Maryland,Urban,Inspector,Shoulder,Sprains/Strains,4.79,Male,43,5
+8/1/24,Pennsylvania,Urban,Administrative Staff,Hand/Wrist,Cut/Lacerations,7.46,Male,29,2
+10/25/24,Maryland,Rural,Supervisor/Manager,Shoulder,Sprains/Strains,370872.23,Male,39,14
+10/25/24,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,3.9,Female,31,8
+10/26/24,Ohio,Rural,Inspector,Foot/Ankle,Struck by Object,307132.93,Female,22,4
+10/26/24,West Virginia,Rural,Maintenance Worker,Head,Struck by Object,70.23,Female,38,9
+10/26/24,Ohio,Urban,Accountant,Shoulder,Sprains/Strains,30.25,Female,60,1
+10/28/24,Maryland,Rural,Field Technician,Arms,Automotive,260469.11,Female,41,5
+10/28/24,Maryland,Urban,Engineer,Shoulder,Sprains/Strains,75.64,Male,28,3
+10/29/24,Indiana,Rural,Maintenance Worker,Foot/Ankle,Animal Bites,952.72,Male,45,3
+9/24/24,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,6.33,Female,35,3
+10/31/24,Ohio,Rural,Field Technician,Hand/Wrist,Animal Bites,16.94,Female,41,4
+11/1/24,Pennsylvania,Rural,Inspector,Shoulder,Sprains/Strains,445489.24,Female,44,9
+11/1/24,Indiana,Urban,Lineman,Hand/Wrist,Animal Bites,10.58,Male,27,0
+11/3/24,Ohio,Rural,Lineman,Leg,Sprains/Strains,292140.62,Male,30,10
+11/4/24,Maryland,Rural,Lineman,Multiple Body Parts,Sprains/Strains,113075.97,Male,60,6
+11/4/24,Maryland,Rural,Inspector,Arms,Struck by Object,83.57,Female,54,18
+11/5/24,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,59.9,Female,53,5
+11/5/24,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,35.03,Male,53,8
+9/1/21,West Virginia,Urban,Administrative Staff,Multiple Body Parts,Cut/Lacerations,5.04,Male,24,3
+11/7/24,Indiana,Rural,Engineer,Knee,Cut/Lacerations,22.1,Female,59,9
+11/9/24,West Virginia,Urban,Inspector,Leg,Cut/Lacerations,97.91,Male,36,6
+11/9/24,Maryland,Urban,Maintenance Worker,Foot/Ankle,Animal Bites,64.77,Male,53,14
+11/10/24,Ohio,Urban,Lineman,Shoulder,Sprains/Strains,96655.86,Female,32,2
+11/10/24,Pennsylvania,Urban,Accountant,Foot/Ankle,Slip/Trip/Fall,4.6,Male,45,7
+11/11/24,Indiana,Rural,Maintenance Worker,Shoulder,Sprains/Strains,99.62,Female,28,10
+11/11/24,West Virginia,Urban,Engineer,Shoulder,Sprains/Strains,42.09,Male,47,1
+11/12/24,Maryland,Rural,Field Technician,Head,Slip/Trip/Fall,197493.93,Male,27,7
+11/12/24,Ohio,Urban,Accountant,Foot/Ankle,Struck by Object,92.58,Male,23,1
+11/12/24,West Virginia,Rural,Lineman,Shoulder,Sprains/Strains,59.87,Female,44,3
+11/12/24,West Virginia,Rural,Maintenance Worker,Knee,Sprains/Strains,22.85,Male,43,7
+11/13/24,Indiana,Urban,Maintenance Worker,Leg,Animal Bites,68604.24,Male,58,9
+11/13/24,Pennsylvania,Rural,Field Technician,Leg,Slip/Trip/Fall,24.34,Male,64,6
+11/14/24,Ohio,Rural,Supervisor/Manager,Foot/Ankle,Animal Bites,307.3,Male,31,8
+11/14/24,Pennsylvania,Rural,Supervisor/Manager,Arms,Struck by Object,74.9,Male,55,9
+11/17/24,Maryland,Urban,Engineer,Leg,Automotive,17.69,Female,44,1
+11/18/24,Ohio,Urban,Maintenance Worker,Multiple Body Parts,Cut/Lacerations,95.3,Female,38,19
+11/18/24,Maryland,Urban,Field Technician,Shoulder,Automotive,67.21,Male,59,7
+9/27/23,Maryland,Rural,Administrative Staff,Shoulder,Sprains/Strains,3,Male,44,5
+11/20/24,Ohio,Urban,Inspector,Shoulder,Automotive,325833.49,Male,36,7
+11/20/24,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,578.21,Male,50,1
+11/21/24,Ohio,Rural,Inspector,Foot/Ankle,Automotive,77.88,Male,32,1
+11/21/24,Indiana,Rural,Lineman,Hand/Wrist,Animal Bites,56,Male,40,8
+11/21/24,Ohio,Urban,Accountant,Shoulder,Struck by Object,1.33,Male,65,9
+11/25/24,Indiana,Rural,Office Clerk,Shoulder,Sprains/Strains,23.23,Male,28,5
+11/27/24,Indiana,Rural,Lineman,Back,Struck by Object,417195.73,Male,64,5
+11/27/24,Pennsylvania,Rural,Lineman,Foot/Ankle,Sprains/Strains,366576.31,Female,46,27
+11/27/24,Maryland,Rural,Maintenance Worker,Knee,Slip/Trip/Fall,87.09,Male,39,9
+11/27/24,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,55.52,Male,58,1
+11/28/24,Maryland,Rural,Field Technician,Back,Automotive,62.9,Male,60,1
+11/28/24,West Virginia,Rural,Inspector,Arms,Struck by Object,37.96,Male,23,4
+11/28/24,Indiana,Urban,Engineer,Multiple Body Parts,Slip/Trip/Fall,30.05,Female,57,13
+11/28/24,West Virginia,Rural,Field Technician,Hand/Wrist,Struck by Object,16.52,Female,62,10
+11/29/24,Maryland,Urban,Field Technician,Arms,Automotive,107971.02,Female,40,9
+11/29/24,Maryland,Rural,Field Technician,Knee,Automotive,73.58,Male,53,5
+3/14/22,West Virginia,Rural,Administrative Staff,Shoulder,Struck by Object,2.94,Female,49,31
+12/1/24,Ohio,Urban,Office Clerk,Leg,Cut/Lacerations,97.35,Male,24,0
+12/1/24,West Virginia,Rural,Engineer,Multiple Body Parts,Slip/Trip/Fall,23.03,Female,37,4
+12/2/24,Indiana,Urban,Field Technician,Knee,Struck by Object,227367.59,Male,37,9
+12/3/24,Ohio,Urban,Maintenance Worker,Shoulder,Sprains/Strains,132189.23,Male,50,8
+12/3/24,Ohio,Rural,Field Technician,Hand/Wrist,Automotive,62.83,Male,29,4
+12/4/24,Ohio,Urban,Field Technician,Shoulder,Sprains/Strains,497660.09,Male,47,5
+12/4/24,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,69341.98,Male,59,3
+12/4/24,Ohio,Rural,Office Clerk,Shoulder,Sprains/Strains,95.43,Female,39,6
+12/4/24,West Virginia,Rural,Field Technician,Shoulder,Sprains/Strains,51.37,Male,51,4
+12/5/24,Ohio,Urban,Office Clerk,Shoulder,Sprains/Strains,2840.44,Male,61,32
+12/5/24,Indiana,Rural,Field Technician,Back,Slip/Trip/Fall,96.73,Male,39,13
+12/5/24,West Virginia,Urban,Engineer,Leg,Automotive,25.74,Female,57,3
+12/5/24,Maryland,Rural,Field Technician,Leg,Cut/Lacerations,23,Female,58,5
+12/6/24,Ohio,Rural,Inspector,Arms,Slip/Trip/Fall,424027.91,Male,42,2
+12/6/24,Ohio,Urban,Office Clerk,Back,Cut/Lacerations,99.61,Female,63,9
+12/7/24,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,15.68,Male,26,4
+12/8/24,West Virginia,Rural,Office Clerk,Shoulder,Sprains/Strains,82.64,Male,38,4
+12/10/24,West Virginia,Urban,Inspector,Shoulder,Sprains/Strains,76.23,Male,23,1
+12/11/24,West Virginia,Rural,Field Technician,Multiple Body Parts,Cut/Lacerations,196761.19,Male,59,14
+11/17/22,Ohio,Urban,Administrative Staff,Arms,Sprains/Strains,2.44,Male,54,9
+12/12/24,Maryland,Rural,Field Technician,Hand/Wrist,Struck by Object,313644.04,Male,42,5
+12/13/24,West Virginia,Urban,Maintenance Worker,Arms,Sprains/Strains,229392.53,Male,54,28
+9/11/24,Ohio,Rural,Administrative Staff,Shoulder,Sprains/Strains,1.55,Male,21,0
+12/13/24,Pennsylvania,Rural,Maintenance Worker,Arms,Automotive,49.58,Male,45,6
+12/14/24,Ohio,Rural,Engineer,Shoulder,Sprains/Strains,203291.16,Male,53,21
+12/17/24,Maryland,Rural,Lineman,Leg,Cut/Lacerations,199237.81,Male,39,12
+12/17/24,Ohio,Rural,Maintenance Worker,Shoulder,Sprains/Strains,78.25,Male,31,5
+12/17/24,Indiana,Rural,Engineer,Foot/Ankle,Cut/Lacerations,52.74,Female,36,10
+12/17/24,Maryland,Rural,Lineman,Shoulder,Sprains/Strains,11.2,Male,38,8
+12/18/24,Pennsylvania,Rural,Maintenance Worker,Knee,Automotive,12.73,Male,45,3
+12/18/24,Indiana,Urban,Field Technician,Multiple Body Parts,Cut/Lacerations,3.68,Male,43,7
+12/19/24,West Virginia,Rural,Engineer,Shoulder,Sprains/Strains,231356.73,Female,48,15
+12/19/24,Maryland,Rural,Inspector,Shoulder,Sprains/Strains,8.81,Female,59,6
+12/20/24,West Virginia,Rural,Maintenance Worker,Multiple Body Parts,Cut/Lacerations,26.74,Male,52,32
+12/22/24,Ohio,Rural,Inspector,Shoulder,Sprains/Strains,9.54,Male,54,6
+12/23/24,Ohio,Rural,Lineman,Shoulder,Sprains/Strains,437612.3,Male,47,7
+12/24/24,West Virginia,Urban,Inspector,Foot/Ankle,Animal Bites,35706.82,Female,48,1
+12/24/24,Ohio,Rural,Field Technician,Shoulder,Sprains/Strains,12.96,Female,47,11
+12/25/24,Pennsylvania,Rural,Field Technician,Shoulder,Sprains/Strains,50479.45,Female,29,1
+12/25/24,Maryland,Rural,Maintenance Worker,Shoulder,Sprains/Strains,90.23,Male,25,3
+12/25/24,Pennsylvania,Rural,Office Clerk,Hand/Wrist,Automotive,52.07,Male,25,7
+12/25/24,Indiana,Urban,Inspector,Hand/Wrist,Automotive,23.54,Male,40,1
+12/25/24,Pennsylvania,Rural,Maintenance Worker,Multiple Body Parts,Cut/Lacerations,14.59,Male,57,5
+12/26/24,Pennsylvania,Rural,Lineman,Knee,Animal Bites,14.04,Female,63,20
+12/26/24,West Virginia,Rural,Inspector,Back,Sprains/Strains,6.65,Male,40,14
+12/31/24,Ohio,Urban,Engineer,Shoulder,Sprains/Strains,497102.39,Male,24,1
+12/31/24,Maryland,Urban,Inspector,Shoulder,Sprains/Strains,183679.5,Female,52,4
